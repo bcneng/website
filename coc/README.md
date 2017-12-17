@@ -9,10 +9,7 @@ gender identity and expression, level of experience, education, socio-economic
 status, nationality, personal appearance, race, religion, or sexual identity
 and orientation.
 
-## Our Standards
-
-Examples of behavior that contributes to creating a positive environment
-include:
+## Expected Behaviour
 
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
@@ -20,16 +17,18 @@ include:
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+## Unacceptable Behavior
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
+* Conduct or speech which might be considered sexist, racist, homophobic, 
+  transphobic,   ableist or otherwise discriminatory or offensive in nature.
+  - Do not use unwelcome, suggestive, derogatory or inappropriate nicknames or terms.
+  - Do not show disrespect towards others. (Jokes, innuendo, dismissive attitudes.)
 * Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
+* Public or private harassment. Please read the [Citizen Code of Conduct][citizen-coc]
+  for how we interpret harassment.
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Violence, threats of violence or violent language.
 
 ## Our Responsibilities
 
@@ -44,16 +43,17 @@ inappropriate, threatening, offensive, or harmful.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at bcneng@gmail.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The admin team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+If you are the subject of, or witness to any violations of this Code of Conduct, 
+PLEASE contact the project team at bcneng@gmail.com and we will help you.
+
+The admin team is obligated to maintain confidentiality with regard to the reporter 
+of an incident.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+This Code of Conduct is adapted from the [Contributor Covenant][contributor-covenant], 
+with  version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html and portions of [Slack Developer Community Code of Conduct][slack-coc]
 
-[homepage]: https://www.contributor-covenant.org
+[contributor-covenant]: https://www.contributor-covenant.org
+[citizen-coc]: http://citizencodeofconduct.org
+[slack-coc]: https://api.slack.com/docs/community-code-of-conduct
