@@ -14,7 +14,7 @@ Here you will find a set of basic conventions that we find useful. They are part
 
 ### behaviour
 
-Be respectful with your colleagues and follow the [Code of Conduct](https://github.com/bcneng/bcneng/tree/master/coc) rules.
+Be respectful with your colleagues and follow the [Code of Conduct](../coc/README.md) rules.
 
 ### accounts
 
@@ -64,4 +64,4 @@ Talk about hiring stuff here. You cannot post job offers.
 
 #### #coc-netiquette
 
-Discuss our [Code of Conduct](https://github.com/bcneng/bcneng/blob/master/coc/README.md) and [Netiquette](https://github.com/bcneng/bcneng/blob/master/netiquette/README.md)'s contents.
+Discuss our [Code of Conduct](../coc/README.md) and [Netiquette](#bcnengs-slack-netiquette)'s contents.
