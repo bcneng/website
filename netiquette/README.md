@@ -1,6 +1,6 @@
 # BcnEng's slack netiquette
 
-Welcome to BcnEng's slack netiquette. If you don't agree with some guideline or whish to propose an improvement, feel free to open a pull request.
+Welcome to BcnEng's slack netiquette. If you do not agree with some guideline or whish to propose an improvement, feel free to open a pull request.
 
 ## Definition
 
@@ -10,7 +10,7 @@ From [wikipedia](https://en.wikipedia.org/wiki/Etiquette_in_technology#Netiquett
 
 ## Conventions
 
-Here you will find a set of basic conventions that we find useful.
+Here you will find a set of basic conventions that we find useful. They are part of the set of behaviours that the community users expect from each other. Please make sure you understand all of them. Remember that you can write any question or ask for advice in our specific Slack channel #coc-netiquette
 
 ### behaviour
 
@@ -28,7 +28,7 @@ Pasting a random link sometimes does not add much value. Consider explaining why
 
 Consider removing the link previews.
 
-Use emoticons to give a quick feedback. Writing _haha_, _jaja_, _XDDD_ or _lol_ don't contribute much.
+Use emoticons to give a quick feedback. Writing _haha_, _jaja_, _XDDD_ or _lol_ does not contribute much.
 
 The administrators reserve the rights to:
 - remove abusive comments, but always warning the publisher before
@@ -44,7 +44,7 @@ Read the channel topic for some guidelines in specific channels. Here you are so
 
 #### autobombo-sideprojects
 
-Here you can tell us about your projects.
+Tell us about your side projects, new blog posts...
 
 #### #lang-*
 
@@ -56,8 +56,12 @@ Companies' channels.
 
 #### #hiring-job-board
 
-You can post job offers here. As a general rule, the job location must be Catalunya or a remote position.
+Post job offers here. As a general rule, the job location must be Catalunya or a remote position.
 
 #### #hiring-discussions
 
-You can talk about hiring stuff here. You cannot post job offers.
+Talk about hiring stuff here. You cannot post job offers.
+
+#### #coc-netiquette
+
+Discuss our [Code of Conduct](https://github.com/bcneng/bcneng/blob/master/coc/README.md) and [Netiquette](https://github.com/bcneng/bcneng/blob/master/netiquette/README.md)'s contents.
