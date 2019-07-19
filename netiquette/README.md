@@ -60,7 +60,7 @@ Post job offers here. As a general rule, the job location must be Catalunya or a
 
 #### #hiring-discussions
 
-Talk about hiring stuff here. You cannot post job offers.
+Talk about hiring related stuff here. You cannot post job offers or personal projects. Please use #hiring-job-board and #autobombo-sideproject for that.
 
 #### #coc-netiquette
 
