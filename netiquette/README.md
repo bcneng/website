@@ -26,6 +26,8 @@ Use threads when possible to keep the conversations organized.
 
 Pasting a random link sometimes does not add much value. Consider explaining why you did it.
 
+Spam is not allowed at any channel. Including affiliates links or similar.
+
 Consider removing the link previews.
 
 Use emoticons to give a quick feedback. Writing _haha_, _jaja_, _XDDD_ or _lol_ does not contribute much.
