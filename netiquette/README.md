@@ -32,7 +32,7 @@ Consider removing the link previews. The staff
 
 Use emoticons to give a quick feedback. Writing _haha_, _jaja_, _XDDD_ or _lol_ does not contribute much.
 
-#### Bad practiced
+#### Bad practices
 
 Spam is not allowed in any channel. That includes:
 - affiliates links or similar
