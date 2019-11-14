@@ -12,15 +12,17 @@ From [wikipedia](https://en.wikipedia.org/wiki/Etiquette_in_technology#Netiquett
 
 Here you will find a set of basic conventions that we find useful. They are part of the set of behaviours that the community users expect from each other. Please make sure you understand all of them. Remember that you can write any question or ask for advice in our specific Slack channel #coc-netiquette
 
-### behaviour
+### Behaviour
 
 Be respectful with your colleagues and follow the [Code of Conduct](../coc/README.md) rules.
 
-### accounts
+### Accounts
 
 As a people-first slack organization, company accounts are not allowed.
 
-### content
+### Content
+
+#### Best practices
 
 Use threads when possible to keep the conversations organized.
 
@@ -30,11 +32,20 @@ Consider removing the link previews.
 
 Use emoticons to give a quick feedback. Writing _haha_, _jaja_, _XDDD_ or _lol_ does not contribute much.
 
+#### Bad practices
+
+Spam is not allowed in any channel. That includes:
+- affiliates links or similar
+- job offers outside #hiring-job-board
+- non-general information in #general or #offtopic-random, or lots of messages (for a our - as admins - definition of "lots")
+
 The administrators reserve the rights to:
-- remove abusive comments, but always warning the publisher before
+- remove abusive and/or spam comments
 - remove link previews, for readibility's sake
 
-### channels
+The publisher will be contacted in any case.
+
+### Channels
 
 Prefer a specific channel over #general or #random, everyone is auto-joined in those channels and we are a lot of people.
 
