@@ -37,7 +37,7 @@ author = "authors"
 [params]
   author = "BCN Eng"
   description = "Slack community"
-  homepageImage = "/images/bcneng_400x400.png"
+  homepageImage = "/images/bcneng_outline.svg"
   share = true
   showLanguageSwitcher = false
 
