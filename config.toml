@@ -51,7 +51,7 @@ author = "authors"
     linkedin = "https://www.linkedin.com/company/bcneng/"
     github = "https://github.com/bcneng"
     #medium = "https://medium.com"
-    #email = "example@example.com"
+    email = "bcnengineers@gmail.com"
 
   [params.prismJS]
     enable = true
