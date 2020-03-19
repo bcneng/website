@@ -49,6 +49,12 @@ PLEASE contact the project team at bcneng@gmail.com and we will help you.
 The admin team is obligated to maintain confidentiality with regard to the reporter 
 of an incident.
 
+## Language
+
+BcnEng doesn't have a default language. Everyone is free to use any language they prefer, as long as it is done with respect and following this code. 
+We know it would be ideal to use a language that everyone understands, but we know that's impossible to achieve as most of our members speak Catalan and Spanish.
+We also know that a lot of members use English as a way to communicate, as it's considered a universal language, but we cannot and will not force anyone to study a foreign language and abandon their native language.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][contributor-covenant], 
