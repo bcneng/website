@@ -47,20 +47,11 @@ author = "authors"
 
   [params.social]
     rss = true
-    email = "example@example.com"
-    facebook = "https://facebook.com"
-    twitter = "https://twitter.com"
-    linkedin = "https://linkedin.com"
-    stack-overflow = "https://stackoverflow.com"
-    instagram = "https://stackoverflow.com"
-    github = "https://github.com"
-    weibo = "https://www.weibo.com"
-    medium = "https://medium.com"
-    pinterest = "https://pinterest.com"
-    reddit = "https://reddit.com"
-    gitlab = "https://gitlab.com"
-    mastodon = "https://mastodon.social"
-    keybase = "https://keybase.io/"
+    twitter = "https://twitter.com/bcn_eng"
+    linkedin = "https://www.linkedin.com/company/bcneng/"
+    github = "https://github.com/bcneng"
+    #medium = "https://medium.com"
+    #email = "example@example.com"
 
   [params.prismJS]
     enable = true
