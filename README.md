@@ -1,11 +1,11 @@
 # BcnEng
 
-[BcnEng](http://bcneng.net) is a slack community built around the software engineering community from Barcelona.
+[BcnEng](http://bcneng.org) is a slack community built around the software engineering community from Barcelona.
 
-You can get an invitation to join it [here](http://slack.bcneng.net).
-
+You can get an invitation to join it [here](http://slack.bcneng.org).
 
 ## Developers
+
 This repository hosts the code to build the static website using [Hugo](https://gohugo.io/).
 
 To get started and contribute to its growth, you only need to clone the repository, including its submodules, and fire a `docker run` command.
