@@ -44,7 +44,7 @@ inappropriate, threatening, offensive, or harmful.
 ## Enforcement
 
 If you are the subject of, or witness to any violations of this Code of Conduct, 
-PLEASE contact the project team at bcneng@gmail.com and we will help you.
+PLEASE contact the project team at bcnengineers at gmail dot com and we will help you.
 
 The admin team is obligated to maintain confidentiality with regard to the reporter 
 of an incident.
