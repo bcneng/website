@@ -1,0 +1,8 @@
+@media (min-width: 992px) {
+.homepage-image {
+    position: relative;
+    float: right;
+    right: 0;
+    width: 400px;
+}
+}
