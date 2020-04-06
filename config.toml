@@ -1,9 +1,9 @@
 baseURL = "https://bcneng.org/"
 languageCode = "en-us"
 title = "BCN Engineering"
-description = "The place where the best engineers from BCN talk about IT"
+description = "By engineers, for engineers."
 theme = "chunky-poster"
-copyright = "Copyright © 2020, BCN Engineering ; all rights reserved."
+copyright = "Copyright © 2020, BcnEng; all rights reserved."
 paginate = 2
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
@@ -35,14 +35,14 @@ series = "series"
 author = "authors"
 
 [params]
-  author = "BCN Eng"
-  description = "Slack community"
+  author = "BcnEng"
+  description = "Slack Community"
   homepageImage = "/images/bcneng_outline.svg"
   share = true
   showLanguageSwitcher = false
 
   # Custom CSS and JS. Relative to /static/css and /static/js respectively.
-  customCSS = []
+  customCSS = ["custom.css"]
   customJS = []
 
   [params.social]
