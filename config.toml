@@ -1,6 +1,6 @@
 baseURL = "https://bcneng.org/"
 languageCode = "en-us"
-title = "BcnEng"
+title = "BCN Engineering"
 description = "By engineers, for engineers."
 theme = "chunky-poster"
 copyright = "Copyright © 2020, BcnEng; all rights reserved."
