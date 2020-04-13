@@ -47,7 +47,7 @@ making sure everything run smooth. Here they are:
 - @koe is [José Luis Peña de San Victor](https://www.linkedin.com/in/joseluispenadesanvictor/), Founder and Systems Engineer at Koe Cloud Systems.
 - @sdecandelario is [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/), PHP Developer at Coverfy.
 - @smoya is [Sergio Moya](https://www.linkedin.com/in/smoya/), Senior Platform Engineer at Netlify.
-- @gonzaloserrano is [Gonzalo Serrano](gon.cat), Lead Software Engineer at Paack.
+- @gonzaloserrano is [Gonzalo Serrano](https://gon.cat), Lead Software Engineer at Paack.
 
 #### Distinguished members
 
