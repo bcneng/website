@@ -12,4 +12,16 @@
     justify-content: center;
     padding-bottom: 20px;
 }
+
+p, li {
+    line-height: 1.7em;
+}
+
+.avatar {
+    width: 120px;
+    margin: 5px 10px;
+}
+.avatar a img {
+    border-radius: 50%;
+    border: 6px solid #DEDEDE;
 }
