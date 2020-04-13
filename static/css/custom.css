@@ -6,3 +6,10 @@
     width: 400px;
 }
 }
+@media (max-width: 575px) {
+.homepage-image {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+}
