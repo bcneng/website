@@ -53,8 +53,8 @@ making sure everything run smooth. Here they are:
 
 Lots of people have and are helping too. Here is a list of the best:
 
-- [Iván Villalba](https://www.linkedin.com/in/ivanvillalba/), SysOps at Marfeel.
-- [Uriel Salischicker](https://www.linkedin.com/in/urielsalis/), Software Engineer at Zopa.
+- [Iván Villalba](https://www.linkedin.com/in/ivanvillalba/), SysOps at Marfeel
+- [Uriel Salischicker](https://www.linkedin.com/in/urielsalis/), Software Engineer at Zopa
 - [Pau Martínez Calvet](https://www.linkedin.com/in/pau-martinez-calvet/), Front-end Developer at Byte Default
 - [Carmen Laura Delgado Pérez](https://www.linkedin.com/in/carmenldelgadop/), PMO at XpertAI
 - [Genís Díaz Fernández](https://www.linkedin.com/in/genisdiazfernandez/), Frontend Engineer at SEAT:CODE
@@ -72,3 +72,4 @@ Lots of people have and are helping too. Here is a list of the best:
 - [Antonio Santiago](https://www.linkedin.com/in/acanimal/), Co-Founder at Joppy
 - [Jorge Arco](https://www.linkedin.com/in/jorgearco/), Lead System Administrator at Kodify
 - [Álvaro Salvá](https://www.linkedin.com/in/asalva/), Senior System Administrator & Devops at ABA English
+- [Ilia Berlana](https://www.linkedin.com/in/iliaberlana), Android Developer at Wefox
