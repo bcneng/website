@@ -37,39 +37,39 @@ more than 3200 registered users and around 1000 weekly active users.
 Luckily, more people organically joined the comunity to help organizing and
 making sure everything run smooth. Here they are:
 
-{{< figure src="/images/team/mavi.jpeg" title="@mavi" class="avatar" >}}
+{{< figure src="/images/team/gon.jpeg" title="@gonzaloserrano" class="avatar" >}}
 {{< figure src="/images/team/koe.png" title="@koe" class="avatar" >}}
+{{< figure src="/images/team/mavi.jpeg" title="@mavi" class="avatar" >}}
 {{< figure src="/images/team/cande.jpeg" title="@sdecandelario" class="avatar" >}}
 {{< figure src="/images/team/smoya.jpeg" title="@smoya" class="avatar" >}}
-{{< figure src="/images/team/gon.jpeg" title="@gonzaloserrano" class="avatar" >}}
 
-- @mavi is [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/), Software Developer at Holaluz.
-- @koe is [José Luis Peña de San Victor](https://www.linkedin.com/in/joseluispenadesanvictor/), Founder and Systems Engineer at Koe Cloud Systems.
-- @sdecandelario is [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/), PHP Developer at Coverfy.
-- @smoya is [Sergio Moya](https://www.linkedin.com/in/smoya/), Senior Platform Engineer at Netlify.
-- @gonzaloserrano is [Gonzalo Serrano](https://gon.cat), Lead Software Engineer at Paack.
+- [Gonzalo Serrano](https://gon.cat) (@gonzaloserrano), Lead Software Engineer at Paack
+- [José Luis Peña de San Victor](https://www.linkedin.com/in/joseluispenadesanvictor/) (@koe), Founder and Systems Engineer at Koe Cloud Systems
+- [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) (@mavi), Software Developer at Holaluz
+- [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) (@sdecandelario), PHP Developer at Coverfy
+- [Sergio Moya](https://www.linkedin.com/in/smoya/) (@smoya), Senior Platform Engineer at Netlify
 
 #### Distinguished members
 
-Lots of people have and are helping too. Here is a list of the best:
+Lots of people have and are helping too. A special shout-out to (alphabetically-ordered):
 
-- [Iván Villalba](https://www.linkedin.com/in/ivanvillalba/), SysOps at Marfeel
-- [Uriel Salischicker](https://www.linkedin.com/in/urielsalis/), Software Engineer at Zopa
-- [Pau Martínez Calvet](https://www.linkedin.com/in/pau-martinez-calvet/), Front-end Developer at Byte Default
-- [Carmen Laura Delgado Pérez](https://www.linkedin.com/in/carmenldelgadop/), PMO at XpertAI
-- [Genís Díaz Fernández](https://www.linkedin.com/in/genisdiazfernandez/), Frontend Engineer at SEAT:CODE
-- [Albert Lombarte](https://www.linkedin.com/in/alombarte/), CEO at Brutale aand DevOps Faith
-- [Rafa Gómez Casas](https://www.linkedin.com/in/rgomezcasas/), Co-Founder at CodelyTV
-- [Javier Ferrer González](https://www.linkedin.com/in/javiercane/), Co-Founder at CodelyTV
-- [Ignasi Marimon-Clos](https://www.linkedin.com/in/ignasimarimonclossunyol/), Software Engineer at Lightbend
-- [Manuel Obregozo](https://www.manuelobregozo.com/), Senior FrontEnd Developer at Adevinta
-- [Rubén Aguilar](https://www.linkedin.com/in/ruben-aguilar-becerra/), Lead Software Engineer at Vistaprint
-- [Victor Fondevilla](https://www.linkedin.com/in/vfondevilla/), Cloud Architect / DevOps Engineer at XpertAI
-- [Marc De Mena Tomé](https://www.linkedin.com/in/mdemena/), IT Governance Officer at Adevinta
-- [Roger Clotet](https://www.linkedin.com/in/rogerclotet/), Senior Software Engineer at Typeform
-- [Victor Ribero Guasch ](https://www.linkedin.com/in/devictoribero/), Frontend Engineer at coches.net
-- [Carles Núñez Tomeo](https://www.linkedin.com/in/carles-nunez-tomeo/), Full Stack Developer at Letgo
-- [Antonio Santiago](https://www.linkedin.com/in/acanimal/), Co-Founder at Joppy
-- [Jorge Arco](https://www.linkedin.com/in/jorgearco/), Lead System Administrator at Kodify
-- [Álvaro Salvá](https://www.linkedin.com/in/asalva/), Senior System Administrator & Devops at ABA English
-- [Ilia Berlana](https://www.linkedin.com/in/iliaberlana), Android Developer at Wefox
+- [Albert Lombarte](https://www.linkedin.com/in/alombarte/) (@alombarte)
+- [Álvaro Salvá](https://www.linkedin.com/in/asalva/) (@redbaron)
+- [Antonio Santiago](https://www.linkedin.com/in/acanimal/) (@acanimal)
+- [Carles Núñez Tomeo](https://www.linkedin.com/in/carles-nunez-tomeo/) (@Carles Nuñez Tomeo)
+- [Carmen Laura Delgado Pérez](https://www.linkedin.com/in/carmenldelgadop/) (@CarmenDelgado)
+- [Genís Díaz Fernández](https://www.linkedin.com/in/genisdiazfernandez/) (@genisdiaz)
+- [Ignasi Marimon-Clos](https://www.linkedin.com/in/ignasimarimonclossunyol/) (@imarimon)
+- [Ilia Berlana](https://www.linkedin.com/in/iliaberlana) (@ilia)
+- [Iván Villalba](https://www.linkedin.com/in/ivanvillalba/) (@Ivan Vihe)
+- [Javier Ferrer González](https://www.linkedin.com/in/javiercane/) (@JavierCane)
+- [Jorge Arco](https://www.linkedin.com/in/jorgearco/) (@iyoque)
+- [Manuel Obregozo](https://www.manuelobregozo.com/) (@Manu Obre)
+- [Marc De Mena Tomé](https://www.linkedin.com/in/mdemena/) (@marc.mena)
+- [Pau Martínez Calvet](https://www.linkedin.com/in/pau-martinez-calvet/) (@pau)
+- [Rafa Gómez Casas](https://www.linkedin.com/in/rgomezcasas/) (@rafa)
+- [Roger Clotet](https://www.linkedin.com/in/rogerclotet/) (@rogerclotet)
+- [Rubén Aguilar](https://www.linkedin.com/in/ruben-aguilar-becerra/) (@Rubén)
+- [Uriel Salischicker](https://www.linkedin.com/in/urielsalis/) (@Uriel Salischiker)
+- [Victor Fondevilla](https://www.linkedin.com/in/vfondevilla/) (@Victor Fondevilla)
+- [Victor Ribero Guasch ](https://www.linkedin.com/in/devictoribero/) (@devictoribero)
