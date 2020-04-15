@@ -10,17 +10,14 @@
             {{- end -}}
 
             <h1 class="display-4">{{ .Site.Title }}</h1>
-            {{- with .Site.Params.description -}}
-                <h3 class="font-weight-normal">{{ . | safeHTML }}</h3>
-            {{- end -}}
-                <p>We are a Slack community built around the software engineering community from Barcelona and around.</p>
-                <p>Our mission is to let Barcelona's tech hub to become one of the best tech communities around the globe.</p>
-                <p>
-                    <a href="http://slack.bcneng.org" target="_blank">
-                        <button type="button" class="btn btn-dark">Join Us</button>
+                <p>We are an online community built by and for the software engineering community from Barcelona and around.</p>
+                <p>Our <a href="/about">mission</a> is to let Barcelona's tech hub to become one of the best tech communities around the globe.</p>
+                <p class="button-wrapper">
+                    <a href="https://slack.bcneng.org" target="_blank">
+                        <button type="button" class="btn btn-dark">Join us in Slack</button>
                     </a>
                 </p>
-                <p>Also please read our:
+                <p>Please read our:
                     <ul>
                         <li><a href="/coc">Code of Conduct</a></li>
                         <li><a href="/netiquette">Netiquette</a></li>
