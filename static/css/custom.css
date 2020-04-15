@@ -7,10 +7,17 @@
 }
 }
 @media (max-width: 575px) {
+.homepage h1 {
+    text-align: center;
+}
 .homepage-image {
     display: flex;
     justify-content: center;
     padding-bottom: 20px;
+}
+.button-wrapper {
+    display: flex;
+    justify-content: center;
 }
 }
 
