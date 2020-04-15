@@ -1,0 +1,35 @@
+@media (min-width: 992px) {
+.homepage-image {
+    position: relative;
+    float: right;
+    right: 0;
+    width: 400px;
+}
+}
+@media (max-width: 575px) {
+.homepage h1 {
+    text-align: center;
+}
+.homepage-image {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+}
+}
+
+p, li {
+    line-height: 1.7em;
+}
+
+.avatar {
+    width: 120px;
+    margin: 5px 10px;
+}
+.avatar a img {
+    border-radius: 50%;
+    border: 6px solid #DEDEDE;
+}

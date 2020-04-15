@@ -1,0 +1,72 @@
+baseURL = "https://bcneng.org/"
+languageCode = "en-us"
+title = "BCN Engineering"
+description = "By engineers, for engineers."
+theme = "chunky-poster"
+copyright = "Copyright © 2020, BcnEng; all rights reserved."
+paginate = 2
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-XXXX"
+DisqusShortname = ""
+
+[menu]
+
+  [[menu.main]]
+    identifier = "netiquette"
+    name = "Netiquette"
+    url = "/netiquette/"
+    weight = 20
+  [[menu.main]]
+    identifier = "coc"
+    name = "Code of Conduct"
+    url = "/coc/"
+    weight = 20
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 0
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "BcnEng"
+  description = "Slack Community"
+  homepageImage = "/images/bcneng_outline.svg"
+  share = true
+  showLanguageSwitcher = false
+
+  # Custom CSS and JS. Relative to /static/css and /static/js respectively.
+  customCSS = ["custom.css"]
+  customJS = []
+
+  [params.social]
+    rss = true
+    twitter = "https://twitter.com/bcn_eng"
+    linkedin = "https://www.linkedin.com/company/bcneng/"
+    github = "https://github.com/bcneng"
+    email = "bcnengineers@gmail.com"
+
+  [params.prismJS]
+    enable = true
+    theme = ""
+
+  [params.commento]
+    enable = false
+    url = "https://commento.io"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+[services]
+  [services.instagram]
+    disableInlineCSS = false
+
+  [services.twitter]
+    disableInlineCSS = true
