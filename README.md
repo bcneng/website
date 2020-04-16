@@ -1,4 +1,5 @@
 # BcnEng
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f31a7adf-da08-42fa-a419-053fe7765e0d/deploy-status)](https://app.netlify.com/sites/bcneng/deploys)
 
 [BcnEng](http://bcneng.org) is a slack community built around the software engineering community from Barcelona.
 
