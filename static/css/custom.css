@@ -1,9 +1,18 @@
+html {
+    background: linear-gradient(to bottom, #333333 50%, #FFFFFF 50%);
+}
+.homepage-image img {
+    -webkit-box-reflect: below -70px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.1));
+}
 @media (min-width: 992px) {
 .homepage-image {
     position: relative;
     float: right;
     right: 0;
     width: 400px;
+}
+.homepage-image img {
+    -webkit-box-reflect: below -39px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.1));
 }
 }
 @media (max-width: 575px) {
@@ -14,6 +23,9 @@
     display: flex;
     justify-content: center;
     padding-bottom: 20px;
+}
+.homepage-image img {
+    -webkit-box-reflect: below -15px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.1));
 }
 .button-wrapper {
     display: flex;
