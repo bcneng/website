@@ -21,6 +21,12 @@
 }
 }
 
+h1 {
+    font-family: 'Teko', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: -0.03em;
+}
+
 p, li {
     line-height: 1.7em;
 }
