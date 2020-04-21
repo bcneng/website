@@ -21,10 +21,6 @@ Make sure the folder `themes/chunky-poster` is populated. Otherwise do a:
     git submodule init
     git submodule update
 
-  Temporarily while this site is not published, you need to use the `bcneng-v2` branch:
-
-    git checkout bcneng-v2
-
 Then you can start the server:
 
     docker run --rm -it -v "$PWD:/site" -p "1313:1313" alombarte/hugo hugo server -D --bind 0.0.0.0
