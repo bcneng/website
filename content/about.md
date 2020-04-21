@@ -43,33 +43,33 @@ making sure everything run smooth. Here they are:
 {{< figure src="/images/team/cande.jpeg" title="@sdecandelario" class="avatar" >}}
 {{< figure src="/images/team/smoya.jpeg" title="@smoya" class="avatar" >}}
 
-- [Gonzalo Serrano](https://gon.cat) (@gonzaloserrano), Lead Software Engineer at Paack
-- [José Luis Peña de San Victor](https://www.linkedin.com/in/joseluispenadesanvictor/) (@koe), Founder and Systems Engineer at Koe Cloud Systems
-- [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) (@mavi), Software Developer at Holaluz
-- [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) (@sdecandelario), PHP Developer at Coverfy
-- [Sergio Moya](https://www.linkedin.com/in/smoya/) (@smoya), Senior Platform Engineer at Netlify
+- [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Lead Software Engineer at Paack
+- [José Luis Peña de San Victor](https://www.linkedin.com/in/joseluispenadesanvictor/) ([@koe](https://bcneng.slack.com/team/U7PQZMZ4L)), Founder and Systems Engineer at Koe Cloud Systems
+- [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) ([@mavi](https://bcneng.slack.com/team/U3256HZH9)), Software Developer at Holaluz
+- [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) ([@sdecandelario](https://bcneng.slack.com/team/U36H6F3CN)), PHP Developer at Coverfy
+- [Sergio Moya](https://www.linkedin.com/in/smoya/) ([@smoya](https://bcneng.slack.com/team/U2WPLA0KA)), Senior Platform Engineer at Netlify
 
 #### Distinguished members
 
 Lots of people have and are helping too. A special shout-out to (alphabetically-ordered):
 
-- [Albert Lombarte](https://www.linkedin.com/in/alombarte/) (@alombarte)
-- [Álvaro Salvá](https://www.linkedin.com/in/asalva/) (@redbaron)
-- [Antonio Santiago](https://www.linkedin.com/in/acanimal/) (@acanimal)
-- [Carles Núñez Tomeo](https://www.linkedin.com/in/carles-nunez-tomeo/) (@Carles Nuñez Tomeo)
-- [Carmen Laura Delgado Pérez](https://www.linkedin.com/in/carmenldelgadop/) (@CarmenDelgado)
-- [Genís Díaz Fernández](https://www.linkedin.com/in/genisdiazfernandez/) (@genisdiaz)
-- [Ignasi Marimon-Clos](https://www.linkedin.com/in/ignasimarimonclossunyol/) (@imarimon)
-- [Ilia Berlana](https://www.linkedin.com/in/iliaberlana) (@ilia)
-- [Iván Villalba](https://www.linkedin.com/in/ivanvillalba/) (@Ivan Vihe)
-- [Javier Ferrer González](https://www.linkedin.com/in/javiercane/) (@JavierCane)
-- [Jorge Arco](https://www.linkedin.com/in/jorgearco/) (@iyoque)
-- [Manuel Obregozo](https://www.manuelobregozo.com/) (@Manu Obre)
-- [Marc De Mena Tomé](https://www.linkedin.com/in/mdemena/) (@marc.mena)
-- [Pau Martínez Calvet](https://www.linkedin.com/in/pau-martinez-calvet/) (@pau)
-- [Rafa Gómez Casas](https://www.linkedin.com/in/rgomezcasas/) (@rafa)
-- [Roger Clotet](https://www.linkedin.com/in/rogerclotet/) (@rogerclotet)
-- [Rubén Aguilar](https://www.linkedin.com/in/ruben-aguilar-becerra/) (@Rubén)
-- [Uriel Salischicker](https://www.linkedin.com/in/urielsalis/) (@Uriel Salischiker)
-- [Victor Fondevilla](https://www.linkedin.com/in/vfondevilla/) (@Victor Fondevilla)
-- [Victor Ribero Guasch ](https://www.linkedin.com/in/devictoribero/) (@devictoribero)
+- [Albert Lombarte](https://www.linkedin.com/in/alombarte/) ([@alombarte](https://bcneng.slack.com/team/U366C72FK))
+- [Álvaro Salvá](https://www.linkedin.com/in/asalva/) ([@redbaron](https://bcneng.slack.com/team/U40KDVDQF))
+- [Antonio Santiago](https://www.linkedin.com/in/acanimal/) ([@acanimal](https://bcneng.slack.com/team/UB82Y3A3W))
+- [Carles Núñez Tomeo](https://www.linkedin.com/in/carles-nunez-tomeo/) ([@Carles Nuñez Tomeo](https://bcneng.slack.com/team/UGPRV963X))
+- [Carmen Laura Delgado Pérez](https://www.linkedin.com/in/carmenldelgadop/) ([@CarmenDelgado](https://bcneng.slack.com/team/UEDFE7J07))
+- [Genís Díaz Fernández](https://www.linkedin.com/in/genisdiazfernandez/) ([@genisdiaz](https://bcneng.slack.com/team/U486R9SNP))
+- [Ignasi Marimon-Clos](https://www.linkedin.com/in/ignasimarimonclossunyol/) ([@imarimon](https://bcneng.slack.com/team/U2XVDDP0Q))
+- [Ilia Berlana](https://www.linkedin.com/in/iliaberlana) ([@ilia](https://bcneng.slack.com/team/U88TVKT7V))
+- [Iván Villalba](https://www.linkedin.com/in/ivanvillalba/) ([@Ivan Vihe](https://bcneng.slack.com/team/UAG4H8GMD))
+- [Javier Ferrer González](https://www.linkedin.com/in/javiercane/) ([@JavierCane](https://bcneng.slack.com/team/U2YSZNUHL))
+- [Jorge Arco](https://www.linkedin.com/in/jorgearco/) ([@iyoque](https://bcneng.slack.com/team/U30B8KQVB))
+- [Manuel Obregozo](https://www.manuelobregozo.com/) ([@Manu Obre](https://bcneng.slack.com/team/UUPUNRWKZ))
+- [Marc De Mena Tomé](https://www.linkedin.com/in/mdemena/) ([@marc.mena](https://bcneng.slack.com/team/U314KFBT6))
+- [Pau Martínez Calvet](https://www.linkedin.com/in/pau-martinez-calvet/) ([@pau](https://bcneng.slack.com/team/U2YEH6F88))
+- [Rafa Gómez Casas](https://www.linkedin.com/in/rgomezcasas/) ([@rafa](https://bcneng.slack.com/team/U2X8UK9UH))
+- [Roger Clotet](https://www.linkedin.com/in/rogerclotet/) ([@rogerclotet](https://bcneng.slack.com/team/U2YEY1745))
+- [Rubén Aguilar](https://www.linkedin.com/in/ruben-aguilar-becerra/) ([@Rubén](https://bcneng.slack.com/team/U8QMJ1DUH))
+- [Uriel Salischicker](https://www.linkedin.com/in/urielsalis/) ([@Uriel Salischiker](https://bcneng.slack.com/team/UFW0A1GV8))
+- [Victor Fondevilla](https://www.linkedin.com/in/vfondevilla/) ([@Victor Fondevilla](https://bcneng.slack.com/team/UN6S9CCGH))
+- [Victor Ribero Guasch ](https://www.linkedin.com/in/devictoribero/) ([@devictoribero](https://bcneng.slack.com/team/UDB4WEC03))
