@@ -63,8 +63,6 @@ author = "authors"
 [markup]
   [markup.highlight]
     codeFences = false
-  [markup.blackFriday]
-    hrefTargetBlank = true
 
 [services]
   [services.instagram]
