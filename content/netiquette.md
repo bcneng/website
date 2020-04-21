@@ -1,6 +1,6 @@
 # BcnEng's slack netiquette
 
-Welcome to BcnEng's slack netiquette. If you do not agree with some guideline or whish to propose an improvement, feel free to open a pull request.
+Welcome to BcnEng's slack netiquette. If you do not agree with some guideline or wish to propose an improvement, feel free to open a pull request.
 
 ## Definition
 
