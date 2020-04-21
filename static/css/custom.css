@@ -33,7 +33,7 @@ html {
 }
 }
 
-h1 {
+.homepage h1 {
     font-family: 'Teko', sans-serif;
     text-transform: uppercase;
     letter-spacing: -0.03em;
