@@ -37,11 +37,11 @@ more than 3200 registered users and around 1000 weekly active users.
 Luckily, more people organically joined the comunity to help organizing and
 making sure everything run smooth. Here they are:
 
-{{< figure src="/images/team/gon.jpeg" title="@gonzaloserrano" class="avatar" >}}
-{{< figure src="/images/team/koe.png" title="@koe" class="avatar" >}}
-{{< figure src="/images/team/mavi.jpeg" title="@mavi" class="avatar" >}}
-{{< figure src="/images/team/cande.jpeg" title="@sdecandelario" class="avatar" >}}
-{{< figure src="/images/team/smoya.jpeg" title="@smoya" class="avatar" >}}
+[{{< figure src="/images/team/gon.jpeg" title="@gonzaloserrano" class="avatar" >}}](https://bcneng.slack.com/team/U2Y6QQHST)
+[{{< figure src="/images/team/koe.png" title="@koe" class="avatar" >}}](https://bcneng.slack.com/team/U7PQZMZ4L)
+[{{< figure src="/images/team/mavi.jpeg" title="@mavi" class="avatar" >}}](https://bcneng.slack.com/team/U3256HZH9)
+[{{< figure src="/images/team/cande.jpeg" title="@sdecandelario" class="avatar" >}}](https://bcneng.slack.com/team/U36H6F3CN)
+[{{< figure src="/images/team/smoya.jpeg" title="@smoya" class="avatar" >}}](https://bcneng.slack.com/team/U2WPLA0KA)
 
 - [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Lead Software Engineer at Paack
 - [José Luis Peña de San Victor](https://www.linkedin.com/in/joseluispenadesanvictor/) ([@koe](https://bcneng.slack.com/team/U7PQZMZ4L)), Founder and Systems Engineer at Koe Cloud Systems
