@@ -7,7 +7,7 @@ copyright = "Copyright © 2020, BcnEng; all rights reserved."
 paginate = 2
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-googleAnalytics = "UA-XXXX"
+googleAnalytics = "UA-161944690-1"
 DisqusShortname = ""
 
 [menu]
