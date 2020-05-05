@@ -120,7 +120,7 @@ This Code of Conduct is adapted from the [Contributor Covenant][contributor-cove
 version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html and portions of [Slack Developer Community Code of Conduct][slack-coc]
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
+Community Impact Guidelines were inspired by [Mozilla’s code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
 
 [contributor-covenant]: https://www.contributor-covenant.org
