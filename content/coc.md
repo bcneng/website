@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# BCN Engineering Code of Conduct
 
 ## Our Pledge
 
