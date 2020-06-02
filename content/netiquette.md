@@ -49,7 +49,7 @@ The publisher will be contacted in any case.
 
 Prefer a specific channel over #general or #random, everyone is auto-joined in those channels and we are a lot of people.
 
-Ask in #general or #offtopic-staff before creating a new channel, maybe it was already created and archived because it didn't have traffic. Some channels were merged, but they can be un-merged if needed. Some channels will be archived if there is no traffic in them.
+Ask in #general or #ask-staff before creating a new channel, maybe it was already created and archived because it didn't have traffic. Some channels were merged, but they can be un-merged if needed. Some channels will be archived if there is no traffic in them.
 
 Read the channel topic for some guidelines in specific channels. Here you are some examples:
 
@@ -73,7 +73,7 @@ Post job offers here. As a general rule, the job location must be Catalunya or a
 
 Talk about hiring related stuff here. You cannot post job offers or personal projects. Please use #hiring-job-board and #autobombo-sideproject for that.
 
-#### #offtopic-staff
+#### #ask-staff
 
 Share your concerns, ask the staff and suggest changes.
 Discuss our [Code of Conduct](../coc/README.md) and [Netiquette](#bcnengs-slack-netiquette)'s contents.
