@@ -53,7 +53,7 @@ Ask in #general or #offtopic-staff before creating a new channel, maybe it was a
 
 Read the channel topic for some guidelines in specific channels. Here you are some examples:
 
-#### autobombo-sideprojects
+#### #show-and-tell (formerly known as #autobombo-sideprojects)
 
 Tell us about your side projects, new blog posts...
 
