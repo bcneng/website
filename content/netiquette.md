@@ -73,6 +73,7 @@ Post job offers here. As a general rule, the job location must be Catalunya or a
 
 Talk about hiring related stuff here. You cannot post job offers or personal projects. Please use #hiring-job-board and #autobombo-sideproject for that.
 
-#### #coc-netiquette
+#### #offtopic-staff
 
+Share your concerns, ask the staff and suggest changes.
 Discuss our [Code of Conduct](../coc/README.md) and [Netiquette](#bcnengs-slack-netiquette)'s contents.
