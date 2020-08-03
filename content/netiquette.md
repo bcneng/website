@@ -14,7 +14,7 @@ Here you will find a set of basic conventions that we find useful. They are part
 
 ### Behaviour
 
-Be respectful with your colleagues and follow the [Code of Conduct](./coc) rules.
+Be respectful with your colleagues and follow the [Code of Conduct](/coc/) rules.
 
 ### Accounts
 
@@ -76,4 +76,4 @@ Talk about hiring related stuff here. You cannot post job offers or personal pro
 #### #ask-staff
 
 Share your concerns, ask the staff and suggest changes.
-Discuss our [Code of Conduct](./coc) and [Netiquette](#bcnengs-slack-netiquette)'s contents.
+Discuss our [Code of Conduct](/coc/) and [Netiquette](#bcnengs-slack-netiquette)'s contents.
