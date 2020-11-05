@@ -53,6 +53,10 @@ Ask in #general or #ask-staff before creating a new channel, maybe it was alread
 
 Read the channel topic for some guidelines in specific channels. Here you are some examples:
 
+#### #welcome
+
+Say hi! This a great place to let everyone know who you are, what you do, and greet other newcomers.
+
 #### #show-and-tell (formerly known as #autobombo-sideprojects)
 
 Tell us about your side projects, new blog posts...
