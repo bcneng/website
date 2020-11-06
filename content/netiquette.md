@@ -34,7 +34,7 @@ As a people-first slack organization, company accounts are not allowed.
 Spam is not allowed in any channel. That includes:
 - affiliates links or similar
 - job offers outside #hiring-job-board
-- non-general information in #general or #offtopic-random, or lots of messages (for a our - as admins - definition of "lots")
+- non-general information in #general or #offtopic-random, or lots of messages (for our - as admins - definition of "lots")
 
 The administrators reserve the rights to:
 - remove abusive and/or spam comments
