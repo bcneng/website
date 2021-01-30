@@ -1,0 +1,35 @@
+<table class="pure-table">
+<thead>
+<tr>
+    <th>Slack Name</th>
+    <th>Full Name</th>
+    <th>Services</th>
+    <th>Skills</th>
+    <th>Availability</th>
+    <th>Pricing</th>
+    <th>Web</th>
+    <th>LinkedIn</th>
+</tr>
+</thead>
+<tbody>
+{{ range $.Site.Data.freelancers }}
+  <tr>
+    <td><a href="slack://user?team=T2Y6L54R3&id={{ .slack_member_id }}">{{ .slack_name }}</a></td>
+    <td>{{ .full_name }}</td>
+    <td>{{ .services }}</td>
+    <td><ul>
+    {{ range .skills }}
+        <li class="skill">{{ . | humanize }}</li>
+    {{ end }}
+    </ul></td>
+    <td><ul>
+        <li>Min: {{ .availability_hours_week.min }}h/week</li>
+        <li>Max: {{ .availability_hours_week.max }}h/week</li>
+    </ul></td>
+    <td>{{ .pricing }}</td>
+    <td><a href="{{ .web }}">Website</a></td>
+    <td><a href="https://www.linkedin.com/in/{{ .linkedin_handler }}/">LinkedIn</a></td>
+   </tr>
+{{ end }}
+</tbody>
+</table>
