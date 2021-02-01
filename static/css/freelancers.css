@@ -1,9 +1,14 @@
-body, h5 {
+body, h5, h6 {
     color: #fff;
 }
 
 .join {
-    font-size: 0.9em;
+    font-size: 0.85em;
+}
+
+.howto {
+    font-size: 0.75em;
+
 }
 
 table a, .join a {
@@ -24,7 +29,7 @@ h1 {
 }
 
 .tablewrapper {
-    margin-top: 2em;
+    margin: 2em 0;
 }
 table {
     width: 100%;
