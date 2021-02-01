@@ -27,7 +27,7 @@
         <li>Max: {{ .availability_hours_week.max }}h/week</li>
     </ul></td>
     <td>{{ .pricing_model }}</td>
-    <td><a href="{{ .web }}">Website</a></td>
+    <td>{{ if .web }}<a href="{{ .web }}">Website</a>{{ end }}</td>
     <td><a href="https://www.linkedin.com/in/{{ .linkedin_handler }}/">LinkedIn</a></td>
    </tr>
 {{ end }}
