@@ -6,7 +6,7 @@
     <th>Services</th>
     <th>Skills</th>
     <th>Availability</th>
-    <th>Pricing</th>
+    <th>Pricing Model</th>
     <th>Web</th>
     <th>LinkedIn</th>
 </tr>
@@ -26,7 +26,7 @@
         <li>Min: {{ .availability_hours_week.min }}h/week</li>
         <li>Max: {{ .availability_hours_week.max }}h/week</li>
     </ul></td>
-    <td>{{ .pricing }}</td>
+    <td>{{ .pricing_model }}</td>
     <td><a href="{{ .web }}">Website</a></td>
     <td><a href="https://www.linkedin.com/in/{{ .linkedin_handler }}/">LinkedIn</a></td>
    </tr>

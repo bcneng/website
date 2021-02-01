@@ -8,6 +8,6 @@
        "services": "Consultancy for digital projects for startups, SME or non-profit.",
        "skills": ["Project Management", "Process optimization", "Finance"],
        "availability_hours_week": {"min": 2, "max": 8},
-       "pricing": "Depending on the project."
+       "pricing_model": "Close rate"
     }
 ]
