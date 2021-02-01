@@ -11,7 +11,6 @@ googleAnalytics = "UA-161944690-1"
 DisqusShortname = ""
 
 [menu]
-
   [[menu.main]]
     identifier = "netiquette"
     name = "Netiquette"
@@ -26,6 +25,11 @@ DisqusShortname = ""
     identifier = "about"
     name = "About"
     url = "/about/"
+    weight = 0
+  [[menu.main]]
+    identifier = "freelancers"
+    name = "Freelancers"
+    url = "/freelancers/"
     weight = 0
 
 [taxonomies]
