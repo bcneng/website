@@ -1,4 +1,14 @@
-[
+[	{
+       "slack_name": "@CarmenDelgado",	       
+       "slack_member_id": "UEDFE7J07",	       
+       "full_name": "Carmen Delgado",	       
+       "web": "",	      
+       "linkedin_handler": "carmenldelgadop",	      
+       "services": "Consultancy for digital projects for startups, SME or non-profit.",	  
+       "skills": ["Project Management", "Process optimization", "Finance"],	  
+       "availability_hours_week": {"min": 2, "max": 8},	
+       "pricing_model": "Close rate"
+    },
     {
        "slack_name": "@genisdiaz",
        "slack_member_id": "U486R9SNP",
