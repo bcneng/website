@@ -9,5 +9,16 @@
        "skills": ["Project Management", "Process optimization", "Finance"],
        "availability_hours_week": {"min": 2, "max": 8},
        "pricing_model": "Close rate"
+    },
+    {
+       "slack_name": "@genisdiaz",
+       "slack_member_id": "U486R9SNP",
+       "full_name": "Genís Díaz",
+       "web": "https://genisdiaz.com/",
+       "linkedin_handler": "genisdiazfernandez",
+       "services": "I help companies in their problems with websites giving support on the frontend side.",
+       "skills": ["Reactjs", "Angularjs or Angular4+", "Nextjs", "GatsbyJS"],
+       "availability_hours_week": {"min": 2, "max": 10},
+       "pricing_model": "Depending on the project"
     }
 ]
