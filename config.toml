@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "BCN Engineering"
 description = "By engineers, for engineers."
 theme = "chunky-poster"
-copyright = "Copyright © 2020, BcnEng; all rights reserved."
 paginate = 2
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
