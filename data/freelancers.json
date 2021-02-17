@@ -20,5 +20,16 @@
        "skills": ["Reactjs", "Angularjs or Angular4+", "Nextjs", "GatsbyJS"],
        "availability_hours_week": {"min": 2, "max": 10},
        "pricing_model": "Depending on the project"
+    },
+    {
+       "slack_name": "@Davide Barbato",
+       "slack_member_id": "UD0CY34SG",
+       "full_name": "Davide Barbato",
+       "web": "https://dab.solutions/",
+       "linkedin_handler": "davbarbato",
+       "services": "I make your business innovate faster by performing real risk analysis, by deploying transparent security through automation, by fostering a culture where people feel empowered in keeping the company secure thanks to their direct contribution.",
+       "skills": ["ISO27001", "Risk Management", "Penetration testing/Vulnerability Assessment", "SOC", "Vulnerability Management", "Incident Response", "DevSecOps"],
+       "availability_hours_week": {"min": 2, "max": 8},
+       "pricing_model": "Depending on the service requrested."
     }
 ]
