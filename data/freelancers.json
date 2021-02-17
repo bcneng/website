@@ -21,4 +21,15 @@
        "availability_hours_week": {"min": 2, "max": 10},
        "pricing_model": "Depending on the project"
     }
+    {
+       "slack_name": "@Xavi Ametller",
+       "slack_member_id": "U01ND0NJAN9",
+       "full_name": "Xavi Ametller",
+       "web": "https://www.myowncommonsense.com/",
+       "linkedin_handler": "xaviametller",
+       "services": "Trainings and consultancy on multiple areas of Software development in general, expert in nothing but knowledgeable in many areas",
+       "skills": ["Agile", "Testing", "Cloud", "Continuous Delivery", ".Net"],
+       "availability_hours_week": {"min": 2, "max": 8},
+       "pricing_model": "Close rate"
+    }
 ]
