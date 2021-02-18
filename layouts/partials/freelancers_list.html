@@ -1,8 +1,7 @@
 <table class="pure-table">
 <thead>
 <tr>
-    <th>Slack Name</th>
-    <th>Full Name</th>
+    <th>Name & Handler</th>
     <th>Services</th>
     <th>Skills</th>
     <th>Availability</th>
@@ -14,8 +13,7 @@
 <tbody>
 {{ range $.Site.Data.freelancers }}
   <tr>
-    <td><a href="slack://user?team=T2Y6L54R3&id={{ .slack_member_id }}">{{ .slack_name }}</a></td>
-    <td>{{ .full_name }}</td>
+    <td>{{ .full_name }} -<br/><a href="slack://user?team=T2Y6L54R3&id={{ .slack_member_id }}">{{ .slack_name }}</a></td>
     <td>{{ .services }}</td>
     <td><ul>
     {{ range .skills }}

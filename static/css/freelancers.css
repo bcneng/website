@@ -66,11 +66,12 @@ td {
     color: #fff;
     border-bottom: solid 1px rgba(255, 255, 255, 0.1);
     word-wrap: break-word;
-    max-width: 180px;
+    max-width: 400px;
 }
 
 td ul {
     padding-inline-start: 15px;
+    min-width: 105px;
 }
 
 body {
