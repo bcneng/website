@@ -30,7 +30,7 @@
        "services": "I make your business innovate faster by performing real risk analysis, by deploying transparent security through automation, by fostering a culture where people feel empowered in keeping the company secure thanks to their direct contribution.",
        "skills": ["ISO27001", "Risk Management", "Penetration testing/Vulnerability Assessment", "SOC", "Vulnerability Management", "Incident Response", "DevSecOps"],
        "availability_hours_week": {"min": 2, "max": 8},
-       "pricing_model": "Depending on the service requrested."
+       "pricing_model": "Depending on the service requested"
     },
     {
        "slack_name": "@Xavi Ametller",
