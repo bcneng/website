@@ -46,8 +46,8 @@ making sure everything run smooth. Here they are:
 - [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Lead Software Engineer at Paack
 - [José Luis Peña de San Victor](https://www.linkedin.com/in/joseluispenadesanvictor/) ([@koe](https://bcneng.slack.com/team/U7PQZMZ4L)), Founder and Systems Engineer at Koe Cloud Systems
 - [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) ([@mavi](https://bcneng.slack.com/team/U3256HZH9)), Software Developer and Team Lead at Seat:Code
-- [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) ([@sdecandelario](https://bcneng.slack.com/team/U36H6F3CN)), PHP Developer at Coverfy
-- [Sergio Moya](https://www.linkedin.com/in/smoya/) ([@smoya](https://bcneng.slack.com/team/U2WPLA0KA)), Senior Platform Engineer at Netlify
+- [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) ([@sdecandelario](https://bcneng.slack.com/team/U36H6F3CN)), Senior Backend Developer en i-surance AG
+- [Sergio Moya](https://www.linkedin.com/in/smoya/) ([@smoya](https://bcneng.slack.com/team/U2WPLA0KA)), Lead Software Engineer at Postman (AsyncAPI Initiative)
 
 #### Distinguished members
 
