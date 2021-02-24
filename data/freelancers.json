@@ -42,5 +42,16 @@
        "skills": ["Agile", "Testing", "Cloud", "Continuous Delivery", ".Net"],
        "availability_hours_week": {"min": 2, "max": 8},
        "pricing_model": "Close rate"
+    },
+    {
+       "slack_name": "@Mikel Díez Buil ",
+       "slack_member_id": "UR1V53P2T",
+       "full_name": "Mikel Díez Buil ",
+       "web": "https://www.mikeldiez.com/",
+       "linkedin_handler": "mikeldiezb",
+       "services": "Full-stack developer",
+       "skills": ["Python", "React", "TypeScript", "Testing library", "Symfony"],
+       "availability_hours_week": {"min": 2, "max": 8},
+       "pricing_model": "Hourly"
     }
 ]
