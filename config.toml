@@ -53,7 +53,7 @@ author = "authors"
     twitter = "https://twitter.com/bcn_eng"
     linkedin = "https://www.linkedin.com/company/bcneng/"
     github = "https://github.com/bcneng"
-    email = "bcnengineers@gmail.com"
+    email = "contact@bcneng.org"
 
   [params.prismJS]
     enable = true
