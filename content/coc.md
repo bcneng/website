@@ -55,7 +55,7 @@ inappropriate, threatening, offensive, or harmful.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community admins responsible for enforcement at bcnengineers at gmail dot com and we will help you.
+reported to the community admins responsible for enforcement at contact@bcneng.org and we will help you.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
