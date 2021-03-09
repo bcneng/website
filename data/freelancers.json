@@ -53,5 +53,16 @@
        "skills": ["Python", "React", "TypeScript", "Testing library", "Symfony"],
        "availability_hours_week": {"min": 2, "max": 8},
        "pricing_model": "Hourly"
+    },
+    {
+       "slack_name": "@oriolsr",
+       "slack_member_id": "UG0UZ9QH4",
+       "full_name": "Oriol Saludes",
+       "web": "",
+       "linkedin_handler": "oriol-sr",
+       "services": "Full-stack developer. Support to the frontend and the backend side. Help with the testing and refactoring of the code.",
+       "skills": ["React", "Angular", "TypeScript", "PHP", "Symfony", "kotlin", "Spring boot"],
+       "availability_hours_week": {"min": 2, "max": 20},
+       "pricing_model": "Depending on the service requested"
     }
 ]
