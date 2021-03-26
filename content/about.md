@@ -28,7 +28,7 @@ years but parted ways for new jobs in November, 2016. They wanted to keep
 beeing in touch as a group and found Slack was the solution.
 
 Months passed and the community kept growing slowly but steady, till today with
-more than 3200 registered users and around 1000 weekly active users.
+more than 4700 registered users and around 1100 weekly active users.
 
 ## The team
 
