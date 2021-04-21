@@ -75,5 +75,16 @@
         "skills": ["Jobs to be done", "Rodmapping", "Agile", "Vue", "Angular", "React", "Typescript", "Javascript", "Python", "Django", "Node", "SQL", "MongoDB"],
         "availability_hours_week": {"min": 2, "max": 10},
         "pricing_model": "Depending on the service requested"
+    },
+        {
+        "slack_name": "@Sergio Campos",
+        "slack_member_id": "U01U6401XMX",
+        "full_name": "Sergio Campos",
+        "web": "campossrg.com",
+        "linkedin_handler": "campossrg",
+        "services": "Java backend developer. Web developer.",
+        "skills": ["Java", "Spring framework", "Oracle", "SQL Server", "Javascript", "CI/CD", "Docker"],
+        "availability_hours_week": {"min": 2, "max": 30},
+        "pricing_model": "Hourly"
     } 
 ]
