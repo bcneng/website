@@ -83,7 +83,7 @@
         "web": "campossrg.com",
         "linkedin_handler": "campossrg",
         "services": "Java backend developer. Web developer.",
-        "skills": ["Java, Spring framework, Oracle, SQL Server, Javascript, CI/CD, Docker"],
+        "skills": ["Java", "Spring framework", "Oracle", "SQL Server", "Javascript", "CI/CD", "Docker"],
         "availability_hours_week": {"min": 2, "max": 30},
         "pricing_model": "Hourly"
     } 
