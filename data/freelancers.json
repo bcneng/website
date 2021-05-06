@@ -86,5 +86,16 @@
         "skills": ["Java", "Spring framework", "Oracle", "SQL Server", "Javascript", "CI/CD", "Docker"],
         "availability_hours_week": {"min": 2, "max": 30},
         "pricing_model": "Hourly"
-    } 
+    },
+    {
+       "slack_name": "@ppardalj",
+       "slack_member_id": "U4RR870C8",
+       "full_name": "Pedro Pardal",
+       "web": "http://ppardalj.com/",
+       "linkedin_handler": "ppardalj",
+       "services": "Technical Agile Coach. I can help coaching good practices and upskilling an entire development team. Legacy project rescue.",
+       "skills": ["Test Driven Development", "Clean Code", "Refactoring", "Legacy Code", ".NET", "ASP MVC", "Java", "Spring boot", "PHP", "Symfony", "CI/CD", "Mob programming"],
+       "availability_hours_week": {"min": 2, "max": 20},
+       "pricing_model": "Hourly"
+    },
 ]
