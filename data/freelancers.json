@@ -93,9 +93,9 @@
        "full_name": "Pedro Pardal",
        "web": "http://ppardalj.com/",
        "linkedin_handler": "ppardalj",
-       "services": "Technical Agile Coach. I can help coaching good practices and upskilling an entire development team. Legacy project rescue.",
+       "services": "Technical Agile Coach. I can help coaching good development practices and upskilling an entire team. Legacy project rescue.",
        "skills": ["Test Driven Development", "Clean Code", "Refactoring", "Legacy Code", ".NET", "ASP MVC", "Java", "Spring boot", "PHP", "Symfony", "CI/CD", "Mob programming"],
        "availability_hours_week": {"min": 2, "max": 20},
        "pricing_model": "Hourly"
-    },
+    }
 ]
