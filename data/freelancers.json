@@ -97,5 +97,16 @@
        "skills": ["Test Driven Development", "Clean Code", "Refactoring", "Legacy Code", ".NET", "ASP MVC", "Java", "Spring boot", "PHP", "Symfony", "CI/CD", "Mob programming"],
        "availability_hours_week": {"min": 2, "max": 20},
        "pricing_model": "Hourly"
+    },
+    {
+       "slack_name": "@vicent",
+       "slack_member_id": "U2YKVTT5L",
+       "full_name": "Vicent Soria Durá",
+       "web": "https://vicentsoria.com/",
+       "linkedin_handler": "vicentsoria",
+       "services": "Hybrid profile: Agile [ Developer | SysAdmin | CTO ]. I can help you with cloud migrations, infrastructure as code, scalability, observability, CI/CD pipelines, systems architecture, etc. Just ping me and let's talk.",
+       "skills": ["IaC: Terraform, Cloudformation, Ansible, Packer, ...", "AWS", "Docker", "Go", "Python", "PHP", "Symfony", "Test Driven Development", "CI/CD: Jenkins, Travis, Github Actions, ..."],
+       "availability_hours_week": {"min": 5, "max": 20},
+       "pricing_model": "Hourly / Depending on the service requested"
     }
 ]
