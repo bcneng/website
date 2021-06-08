@@ -108,5 +108,16 @@
        "skills": ["IaC: Terraform, Cloudformation, Ansible, Packer, ...", "AWS", "Docker", "Go", "Python", "PHP", "Symfony", "Test Driven Development", "CI/CD: Jenkins, Travis, Github Actions, ..."],
        "availability_hours_week": {"min": 5, "max": 20},
        "pricing_model": "Hourly / Depending on the service requested"
+    },
+    {
+       "slack_name": "@joan.albert ",
+       "slack_member_id": "U015F98QXDW",
+       "full_name": "Joan Albert Segura Rueda",
+       "web": "https://joanalbert.me/",
+       "linkedin_handler": "jalbertsr",
+       "services": "Full-stack developer. I do trainings, and help building MVPs for pre-seed startups or small projects, from low-code solutions to building and setting up infrastructure and API integrations.",
+       "skills": ["Javascript/Typescript", "React", "Node", "Python", "Elixir", "Docker", "Kubernetes", "AWS"],
+       "availability_hours_week": {"min": 5, "max": 25},
+       "pricing_model": "Hourly"
     }
 ]
