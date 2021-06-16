@@ -42,12 +42,15 @@ making sure everything run smooth. Here they are:
 [{{< figure src="/images/team/mavi.jpeg" title="@mavi" class="avatar" >}}](https://bcneng.slack.com/team/U3256HZH9)
 [{{< figure src="/images/team/cande.jpeg" title="@sdecandelario" class="avatar" >}}](https://bcneng.slack.com/team/U36H6F3CN)
 [{{< figure src="/images/team/smoya.jpeg" title="@smoya" class="avatar" >}}](https://bcneng.slack.com/team/U2WPLA0KA)
+[{{< figure src="/images/team/cristina.png" title="@cristina_verdi" class="avatar" >}}](https://bcneng.slack.com/team/UNNPZ40BG)
+
 
 - [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Lead Software Engineer at Paack
 - [José Luis Peña de San Victor](https://www.linkedin.com/in/joseluispenadesanvictor/) ([@koe](https://bcneng.slack.com/team/U7PQZMZ4L)), Founder and Systems Engineer at Koe Cloud Systems
 - [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) ([@mavi](https://bcneng.slack.com/team/U3256HZH9)), Software Developer and Team Lead at Seat:Code
 - [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) ([@sdecandelario](https://bcneng.slack.com/team/U36H6F3CN)), Senior Backend Developer en i-surance AG
 - [Sergio Moya](https://www.linkedin.com/in/smoya/) ([@smoya](https://bcneng.slack.com/team/U2WPLA0KA)), Lead Software Engineer at Postman (AsyncAPI Initiative)
+- [Cristina Verdi](https://www.linkedin.com/in/cristina-verdi/) ([@cristina_verdi](https://bcneng.slack.com/team/UNNPZ40BG)), Software Engineer and Tecnical Coach at Code Sherpas
 
 #### Distinguished members
 
