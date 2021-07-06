@@ -119,5 +119,16 @@
        "skills": ["Javascript/Typescript", "React", "Node", "Python", "Elixir", "Docker", "Kubernetes", "AWS"],
        "availability_hours_week": {"min": 5, "max": 25},
        "pricing_model": "Hourly"
+    },
+        {
+       "slack_name": "@vfondevilla",
+       "slack_member_id": "UN6S9CCGH",
+       "full_name": "Victor Fondevilla",
+       "web": "https://fondevilla.io/",
+       "linkedin_handler": "vfondevilla",
+       "services": "Cloud Architect, AWS, OpenStack. I can help your team to implement DevOps practices.",
+       "skills": ["Python", "Terraform", "Cloudformation", "Ansible", "AWS", "Docker", "Kubernetes", "Jenkins", "Gitlab"],
+       "availability_hours_week": {"min": 2, "max": 25},
+       "pricing_model": "Hourly"
     }
 ]
