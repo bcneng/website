@@ -141,5 +141,5 @@
        "skills": ["MVP", "Javascript/Typescript", "React Native", "NodeJS", "AWS", "Firebase", "Amplify", "Android", "serverless", "iOS", "Swift", "Kotlin", "Appstore", "GooglePlay"],
        "availability_hours_week": {"min": 8, "max": 60},
        "pricing_model": "Hourly"
-    },
+    }
 ]
