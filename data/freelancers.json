@@ -120,7 +120,7 @@
        "availability_hours_week": {"min": 5, "max": 25},
        "pricing_model": "Hourly"
     },
-        {
+    {
        "slack_name": "@vfondevilla",
        "slack_member_id": "UN6S9CCGH",
        "full_name": "Victor Fondevilla",
@@ -129,6 +129,17 @@
        "services": "Cloud Architect, AWS, OpenStack. I can help your team to implement DevOps practices.",
        "skills": ["Python", "Terraform", "Cloudformation", "Ansible", "AWS", "Docker", "Kubernetes", "Jenkins", "Gitlab"],
        "availability_hours_week": {"min": 2, "max": 25},
+       "pricing_model": "Hourly"
+    },
+    {
+       "slack_name": "@stefanmajiros",
+       "slack_member_id": "U02379YCS92",
+       "full_name": "Stefan Majiros",
+       "web": "https://stefan-majiros.com/",
+       "linkedin_handler": "stefan-majiros",
+       "services": "Mobile developer: React Native and serverless. I develop mobile apps for Android and iOS with React Native that rely on native modules and that use serverless backend (AWS Amplify or Google Firebase). Looking for startups owners, CTOs or teamleads.",
+       "skills": ["MVP", "Javascript/Typescript", "React Native", "NodeJS", "AWS", "Firebase", "Amplify", "Android", "serverless", "iOS", "Swift", "Kotlin", "Appstore", "GooglePlay"],
+       "availability_hours_week": {"min": 8, "max": 60},
        "pricing_model": "Hourly"
     }
 ]
