@@ -141,5 +141,16 @@
        "skills": ["MVP", "Javascript/Typescript", "React Native", "NodeJS", "AWS", "Firebase", "Amplify", "Android", "serverless", "iOS", "Swift", "Kotlin", "Appstore", "GooglePlay"],
        "availability_hours_week": {"min": 8, "max": 60},
        "pricing_model": "Hourly"
+    },
+    {
+       "slack_name": "@Jose Gomez",
+       "slack_member_id": "UV3FZN8DT",
+       "full_name": "Jose Gomez",
+       "web": "",
+       "linkedin_handler": "jmgomezg",
+       "services": "Software engineering. Technical direction. Project management. AWS system architect.",
+       "skills": ["AWS", "serverless", "iOS", "Android", "Node.js", "PHP", "MySQL", "NoSQL", "Angular", "Redux", "Jira", "Scrum", "Kanban"],
+       "availability_hours_week": {"min": 5, "max": 20},
+       "pricing_model": "Hourly"
     }
 ]
