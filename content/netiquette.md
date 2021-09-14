@@ -35,7 +35,7 @@ Spam is not allowed in any channel. That includes:
 
 - affiliates links
 - job offers outside #hiring-job-board
-- any non-general information in #offtopic-randomÇ
+- any non-general information in #offtopic-random
 - posting lots of messages (for our own definition of "lots")
 - company advertising -- we don't want to be a platform for private companies to make money 
 
