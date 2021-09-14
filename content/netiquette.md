@@ -27,21 +27,21 @@ As a people-first slack organization, company accounts are not allowed.
 - Use threads when possible to keep the conversations organized.
 - Pasting a random link sometimes does not add much value. Consider explaining why you did it.
 - Consider removing the link previews.
-- Use emoticons to give a quick feedback. Writing _haha_, _jaja_, _XDDD_ or _lol_ does not contribute much.
+- Use [reactions](https://slack.com/intl/en-es/help/articles/202931348-Use-emoji-and-reactions) to give a quick feedback. Writing _haha_, _jaja_, _XDDD_ or _lol_ does not contribute much.
 
 #### Bad practices
 
 Spam is not allowed in any channel. That includes:
 
-- affiliates links
-- job offers outside #hiring-job-board
-- any non-general information in #offtopic-random
-- posting lots of messages (for our own definition of "lots")
-- company advertising -- we don't want to be a platform for private companies to make money 
+- Affiliates links
+- Job offers outside #hiring-job-board
+- Any non-general information in #offtopic-random
+- Posting lots of messages (for our own definition of "lots")
+- Company advertising -- we don't want to be a platform for private companies to make money 
 
 The administrators reserve the rights to:
-- remove abusive and/or spam comments
-- remove link previews, for readibility's sake
+- Remove abusive and/or spam comments
+- Remove link previews, for readibility's sake
 
 The publisher will be contacted in any case.
 
