@@ -41,7 +41,7 @@ Spam is not allowed in any channel. That includes:
 
 The administrators reserve the rights to:
 - Remove abusive and/or spam comments
-- Remove link previews, for readibility's sake
+- Remove link previews for readability's sake
 
 The publisher will be contacted in any case.
 
