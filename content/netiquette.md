@@ -32,9 +32,12 @@ As a people-first slack organization, company accounts are not allowed.
 #### Bad practices
 
 Spam is not allowed in any channel. That includes:
-- affiliates links or similar
+
+- affiliates links
 - job offers outside #hiring-job-board
-- non-general information in #general or #offtopic-random, or lots of messages (for our - as admins - definition of "lots")
+- any non-general information in #offtopic-random
+- posting lots of messages (for our own definition of "lots")
+- company advertising -- we don't want to be a platform for private companies to make money 
 
 The administrators reserve the rights to:
 - remove abusive and/or spam comments
@@ -44,37 +47,22 @@ The publisher will be contacted in any case.
 
 ### Channels
 
-Prefer a specific channel over #general or #random, everyone is auto-joined in those channels and we are a lot of people.
+Default channels are three:
 
-Ask in #general or #ask-staff before creating a new channel, maybe it was already created and archived because it didn't have traffic. Some channels were merged, but they can be un-merged if needed. Some channels will be archived if there is no traffic in them.
+- #welcome: please introduce yourself here.
+- #general: for staff team messages to the community.
+- #offtopic-random: anything that does not fit in other channels.
 
-Read the channel topic for some guidelines in specific channels. Here you are some examples:
+Please prefer a specific channel over offtopic-random.
 
-#### #welcome
+Ask in #ask-staff before creating a new channel. Sometimes it was already created and archived because it didn't have enough traffic.
 
-Say hi! This a great place to let everyone know who you are, what you do, and greet other newcomers.
+Read the channel topic for some guidelines in specific channels. Here are some examples:
 
-#### #show-and-tell (formerly known as #autobombo-sideprojects)
-
-Tell us about your side projects, new blog posts...
-
-#### #lang-*
-
-Programming languages channels.
-
-#### #corp-*
-
-Companies' channels.
-
-#### #hiring-job-board
-
-Post job offers here. As a general rule, the job location must be Catalunya or a remote position.
-
-#### #hiring-discussions
-
-Talk about hiring related stuff here. You cannot post job offers or personal projects. Please use #hiring-job-board and #autobombo-sideproject for that.
-
-#### #ask-staff
-
-Share your concerns, ask the staff and suggest changes.
-Discuss our [Code of Conduct](/coc/) and [Netiquette](#bcnengs-slack-netiquette)'s contents.
+- #show-and-tell: tell us about your side projects, new blog posts...
+- #lang-xyz: programming languages channels.
+- #hiring-job-board: post job offers using the workflow specified in the topic.
+- #hiring-discussions: conversations around hiring.
+- #ask-staff: share your concerns, ask the staff team and suggest changes. Discuss our [Code of Conduct](/coc/) and [Netiquette](#bcnengs-slack-netiquette)'s contents.
+- #offtopic-cryparty: share with others that thing that makes you angry.
+- #offtopic-feeling-good: share with others that thing that makes you happy.
