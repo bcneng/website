@@ -14,7 +14,7 @@ Here you will find a set of basic conventions that we find useful. They are part
 
 ### Behaviour
 
-Be respectful with your colleagues and follow the [Code of Conduct](/coc/) rules.
+Be respectful with your colleagues and follow the [Code of Conduct](/content/coc.md) rules.
 
 ### Accounts
 
@@ -63,6 +63,6 @@ Read the channel topic for some guidelines in specific channels. Here are some e
 - #lang-xyz: programming languages channels.
 - #hiring-job-board: post job offers using the workflow specified in the topic.
 - #hiring-discussions: conversations around hiring.
-- #ask-staff: share your concerns, ask the staff team and suggest changes. Discuss our [Code of Conduct](/coc/) and [Netiquette](#bcnengs-slack-netiquette)'s contents.
+- #ask-staff: share your concerns, ask the staff team and suggest changes. Discuss our [Code of Conduct](/content/coc.md) and [Netiquette](#bcnengs-slack-netiquette)'s contents.
 - #offtopic-cryparty: share with others that thing that makes you angry.
 - #offtopic-feeling-good: share with others that thing that makes you happy.
