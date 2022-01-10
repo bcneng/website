@@ -38,7 +38,6 @@ Luckily, more people organically joined the comunity to help organizing and
 making sure everything run smooth. Here they are:
 
 [{{< figure src="/images/team/gon.jpeg" title="@gonzaloserrano" class="avatar" >}}](https://bcneng.slack.com/team/U2Y6QQHST)
-[{{< figure src="/images/team/koe.png" title="@koe" class="avatar" >}}](https://bcneng.slack.com/team/U7PQZMZ4L)
 [{{< figure src="/images/team/mavi.jpeg" title="@mavi" class="avatar" >}}](https://bcneng.slack.com/team/U3256HZH9)
 [{{< figure src="/images/team/cande.jpeg" title="@sdecandelario" class="avatar" >}}](https://bcneng.slack.com/team/U36H6F3CN)
 [{{< figure src="/images/team/smoya.jpeg" title="@smoya" class="avatar" >}}](https://bcneng.slack.com/team/U2WPLA0KA)
@@ -46,7 +45,6 @@ making sure everything run smooth. Here they are:
 
 
 - [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Lead Software Engineer at Paack
-- [José Luis Peña de San Victor](https://www.linkedin.com/in/joseluispenadesanvictor/) ([@koe](https://bcneng.slack.com/team/U7PQZMZ4L)), Founder and Systems Engineer at Koe Cloud Systems
 - [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) ([@mavi](https://bcneng.slack.com/team/U3256HZH9)), Software Developer and Team Lead at Seat:Code
 - [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) ([@sdecandelario](https://bcneng.slack.com/team/U36H6F3CN)), Senior Backend Developer en i-surance AG
 - [Sergio Moya](https://www.linkedin.com/in/smoya/) ([@smoya](https://bcneng.slack.com/team/U2WPLA0KA)), Lead Software Engineer at Postman (AsyncAPI Initiative)
@@ -71,6 +69,7 @@ Lots of people have and are helping too. A special shout-out to (alphabetically-
 - [Pau Martínez Calvet](https://www.linkedin.com/in/pau-martinez-calvet/) ([@pau](https://bcneng.slack.com/team/U2YEH6F88))
 - [Carles Núñez Tomeo](https://www.linkedin.com/in/carles-nunez-tomeo/) ([@Carles Nuñez Tomeo](https://bcneng.slack.com/team/UGPRV963X))
 - [Manuel Obregozo](https://www.manuelobregozo.com/) ([@Manu Obre](https://bcneng.slack.com/team/UUPUNRWKZ))
+- [José Luis Peña de San Victor](https://www.linkedin.com/in/joseluispenadesanvictor/) ([@koe](https://bcneng.slack.com/team/U7PQZMZ4L))
 - [Victor Ribero Guasch](https://www.linkedin.com/in/devictoribero/) ([@devictoribero](https://bcneng.slack.com/team/UDB4WEC03))
 - [Uriel Salischicker](https://www.linkedin.com/in/urielsalis/) ([@Uriel Salischiker](https://bcneng.slack.com/team/UFW0A1GV8))
 - [Álvaro Salvá](https://www.linkedin.com/in/asalva/) ([@redbaron](https://bcneng.slack.com/team/U40KDVDQF))
