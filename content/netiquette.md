@@ -1,4 +1,4 @@
-# BCN Engineering Netiquette of Conduct
+# BCN Engineering Netiquette
 
 ## Introduction
 
