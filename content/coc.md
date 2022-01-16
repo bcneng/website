@@ -1,5 +1,16 @@
 # BCN Engineering Code of Conduct
 
+## Introduction
+
+Welcome to BcnEng's Code of Conduct.
+
+This document can change over time. The administrators will publish its updates
+on the #general channel. To join this community you agree to it's contents. If
+you don't, you must logout and delete your account.
+
+You can propose improvements to this document by communicating them in the
+`#ask-staff` channel or [opening a pull request](https://github.com/bcneng/website/blob/master/content/coc.md).
+
 ## Our Pledge
 
 We as members, contributors, and admins pledge to make participation in our

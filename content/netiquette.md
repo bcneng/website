@@ -1,6 +1,15 @@
-# BcnEng's slack netiquette
+# BCN Engineering Netiquette
 
-Welcome to BcnEng's slack netiquette. If you do not agree with some guideline or wish to propose an improvement, feel free to open a pull request.
+## Introduction
+
+Welcome to BcnEng's netiquette.
+
+This document can change over time. The administrators will publish its updates
+on the #general channel. To join this community you agree to it's contents. If
+you don't, you must logout and delete your account.
+
+You can propose improvements to this document by communicating them in the
+`#ask-staff` channel or [opening a pull request](https://github.com/bcneng/website/edit/master/content/netiquette.md).
 
 ## Definition
 
