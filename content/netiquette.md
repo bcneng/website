@@ -56,9 +56,15 @@ The publisher will be contacted in any case.
 
 #### Hiring inquiries
 
-If you work for a recruitment company, you are not allowed to contact members of this community 
-unless they have contacted you first. We consider it spam. The best way to get leads is to post 
-a job offer at the #hiring-job-board channel and wait for people to contact you.
+If you work for a recruitment company you are not allowed to contact any member of this community, 
+unless:
+
+- They have contacted you first, or
+- They have posted in some channel that they are explicitly looking for a job
+
+Otherwise, we will consider it spam.
+
+The best way to get leads is to post a job offer at the #hiring-job-board channel and wait for people to contact you.
 
 ### Channels
 
