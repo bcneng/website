@@ -56,7 +56,7 @@ The publisher will be contacted in any case.
 
 #### Hiring inquiries
 
-If you work for a recruitment company you are not allowed to contact any member of this community, 
+If you work as a recruiter, you are not allowed to contact any member of this community, 
 unless:
 
 - They have contacted you first, or
