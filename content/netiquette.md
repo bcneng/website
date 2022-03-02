@@ -33,6 +33,7 @@ As a people-first slack organization, company accounts are not allowed.
 
 #### Best practices
 
+- Be specific when selecting in which channel to post, we don't want #offtopic-random to become a [big ball of mud](https://en.wikipedia.org/wiki/Big_ball_of_mud).
 - Use threads when possible to keep the conversations organized.
 - Pasting a random link sometimes does not add much value. Consider explaining why you did it.
 - Consider removing the link previews.
@@ -44,7 +45,6 @@ Spam is not allowed in any channel. That includes:
 
 - Affiliates links
 - Job offers outside #hiring-job-board
-- Any non-general information in #offtopic-random
 - Posting lots of messages (for our own definition of "lots")
 - Company advertising -- we don't want to be a platform for private companies to make money 
 
