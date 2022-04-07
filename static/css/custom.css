@@ -33,7 +33,7 @@ html {
 }
 }
 
-.homepage h1 {
+.homepage h1, .homepage h2, .homepage h3 {
     font-family: 'Teko', sans-serif;
     text-transform: uppercase;
     letter-spacing: -0.03em;
@@ -50,4 +50,30 @@ p, li {
 .avatar a img {
     border-radius: 50%;
     border: 6px solid #DEDEDE;
+}
+
+.open-collective,
+.open-collective::before {
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 22px
+}
+.open-collective {
+    position: relative;
+    transform: scale(var(--ggs,1)) translate(3px, 2.5px);
+    width: 18px;
+    height: 18px;
+    border: 3px solid;
+    border-right-color: transparent
+}
+.open-collective::before {
+    content: "";
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    border: 3px solid transparent;
+    border-right: 3px solid;
+    top: -1px;
+    right: -3px;
+    opacity: .5
 }
