@@ -1,7 +1,7 @@
 ## The Mission
 
-BcnEng's mission is to let Barcelona's tech hub to become one of the best tech
-communities around the globe.
+BcnEng's is a non-profit organization which mission is to let Barcelona's tech
+hub to become one of the best tech communities around the globe.
 
 How?
 
@@ -15,9 +15,6 @@ We will do that keeping our values:
 - Community-driven
 - Diversity
 - Open source
-
-We are working on becoming a non-profit in order to have more resources for
-reaching those goals.
 
 ## The History
 
