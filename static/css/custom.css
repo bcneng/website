@@ -4,6 +4,16 @@ html {
 .homepage-image img {
     -webkit-box-reflect: below -70px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.1));
 }
+.homepage h1, .homepage h2, .homepage h3 {
+    margin-bottom: 0.75rem;
+}
+.homepage h3 {
+    margin-top: 2.5rem;
+}
+.link-list {
+    margin-top: -1rem;
+}
+
 @media (min-width: 992px) {
 .homepage-image {
     position: relative;
