@@ -1,4 +1,4 @@
-# BCN Engineering Code of Conduct
+# Code of Conduct
 
 ## Introduction
 
