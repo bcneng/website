@@ -1,4 +1,4 @@
-<table class="pure-table">
+<table class="rwd-table">
 <thead>
 <tr>
     <th>Name & Handler</th>
@@ -13,20 +13,20 @@
 <tbody>
 {{ range $.Site.Data.freelancers }}
   <tr>
-    <td>{{ .full_name }} -<br/><a href="slack://user?team=T2Y6L54R3&id={{ .slack_member_id }}">{{ .slack_name }}</a></td>
-    <td>{{ .services }}</td>
-    <td><ul>
+    <td data-th="Name & Handler">{{ .full_name }} - <a href="slack://user?team=T2Y6L54R3&id={{ .slack_member_id }}">{{ .slack_name }}</a></td>
+    <td data-th="Services">{{ .services }}</td>
+    <td data-th="Skills"><ul>
     {{ range .skills }}
         <li class="skill">{{ . }}</li>
     {{ end }}
     </ul></td>
-    <td><ul>
+    <td data-th="Availability"><ul>
         <li>Min: {{ .availability_hours_week.min }}h/week</li>
         <li>Max: {{ .availability_hours_week.max }}h/week</li>
     </ul></td>
-    <td>{{ .pricing_model }}</td>
-    <td>{{ if .web }}<a href="{{ .web }}">Website</a>{{ end }}</td>
-    <td><a href="https://www.linkedin.com/in/{{ .linkedin_handler }}/">LinkedIn</a></td>
+    <td data-th="Pricing Model">{{ .pricing_model }}</td>
+    <td data-th="Web">{{ if .web }}<a href="{{ .web }}">Website</a>{{ end }}</td>
+    <td data-th="LinkedIn"><a href="https://www.linkedin.com/in/{{ .linkedin_handler }}/">LinkedIn</a></td>
    </tr>
 {{ end }}
 </tbody>
