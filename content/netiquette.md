@@ -38,6 +38,7 @@ As a people-first slack organization, company accounts are not allowed.
 - Pasting a random link sometimes does not add much value. Consider explaining why you did it.
 - Consider removing the link previews.
 - Use [reactions](https://slack.com/intl/en-es/help/articles/202931348-Use-emoji-and-reactions) to give a quick feedback. Writing _haha_, _jaja_, _XDDD_ or _lol_ does not contribute much.
+- Avoid sending the same message to multiple channels, also known as [crossposting](https://en.wikipedia.org/wiki/Crossposting). We like keeping things tidy.
 
 #### Bad practices
 
