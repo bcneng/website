@@ -152,5 +152,17 @@
        "skills": ["AWS", "serverless", "iOS", "Android", "Node.js", "PHP", "MySQL", "NoSQL", "Angular", "Redux", "Jira", "Scrum", "Kanban"],
        "availability_hours_week": {"min": 5, "max": 20},
        "pricing_model": "Hourly"
+    },
+    {
+       "slack_name": "@ronnylt",
+       "slack_member_id": "U2XDM2L0G",
+       "full_name": "Ronny López",
+       "web": "",
+       "linkedin_handler": "ronnylt",
+       "services": "Software engineering. Technical direction. Technical leadership. Cloud architect. Technology advisor. Interim CTO. Technical co-founder.",
+       "skills": ["AWS", "GCP", "Kubernetes", "Golang", "Typescript", "Architecture", "Software design", "Scalability" ],
+       "availability_hours_week": {"min": 5, "max": 20},
+       "pricing_model": "Hourly"
     }
+    
 ]
