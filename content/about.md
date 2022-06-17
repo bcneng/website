@@ -45,6 +45,7 @@ ensure everything ran smoothly. Here they are:
 - [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) ([@sdecandelario](https://bcneng.slack.com/team/U36H6F3CN)), Senior Backend Developer en i-surance AG
 - [Sergio Moya](https://www.linkedin.com/in/smoya/) ([@smoya](https://bcneng.slack.com/team/U2WPLA0KA)), Lead Software Engineer at Postman (AsyncAPI Initiative)
 - [Cristina Verdi](https://www.linkedin.com/in/cristina-verdi/) ([@cristina_verdi](https://bcneng.slack.com/team/UNNPZ40BG)), Software Engineer and Tecnical Coach at Code Sherpas
+- [Ronny López](https://www.linkedin.com/in/ronnylt//) ([@ronnylt](https://bcneng.slack.com/team/U2XDM2L0G)), Technology Advisor and Software Engineer
 
 #### Distinguished members
 
