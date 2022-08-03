@@ -48,7 +48,7 @@ The following statements apply to all means of communication and shapes, i.e. te
   for how we interpret harassment.
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission.
-* Publishing content or comments promoting illegal or unregulated activities.
+* Publishing content or comments that promotes illegal activities or activities that fall out of the legal scope in leverage of legal gaps.
 * Violence, threats of violence or violent language.
 * Other conduct which could reasonably be considered inappropriate in a professional setting.
 
