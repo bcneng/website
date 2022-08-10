@@ -42,14 +42,15 @@ The following statements apply to all means of communication and shapes, i.e. te
 * Conduct or speech which might be considered sexist, racist, homophobic, 
   transphobic, ableist or otherwise discriminatory or offensive in nature.
   - Do not use unwelcome, suggestive, derogatory or inappropriate nicknames or terms.
-  - Do not show disrespect towards others. (Jokes, innuendo, dismissive attitudes)
-* Trolling, insulting/derogatory comments, and personal or political attacks
+  - Do not show disrespect towards others (jokes, innuendo, dismissive attitudes).
+* Trolling, insulting/derogatory comments, and personal or political attacks.
 * Public or private harassment. Please read the [Citizen Code of Conduct][citizen-coc]
   for how we interpret harassment.
 * Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
+  address, without explicit permission.
+* Publishing content or comments that promote illegal activities, or activities that fall out of the legal scope in leverage of legal gaps.
 * Violence, threats of violence or violent language.
-* Other conduct which could reasonably be considered inappropriate in a  professional setting
+* Other conduct which could reasonably be considered inappropriate in a professional setting.
 
 ## Enforcement Responsibilities
 
