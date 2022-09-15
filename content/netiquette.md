@@ -57,15 +57,20 @@ The publisher will be contacted in any case.
 
 #### Hiring inquiries
 
-If you work as a recruiter, you are not allowed to contact any member of this community, 
+If you are recruiting, you are not allowed to contact any member of this community, 
 unless:
 
 - They have contacted you first, or
 - They have posted in some channel that they are explicitly looking for a job
 
-Otherwise, we will consider it spam.
-
 The best way to get leads is to post a job offer at the #hiring-job-board channel and wait for people to contact you.
+
+If you provide recruiting services, you are not allowed to contact any member of this community that has posted a job offer, unless:
+
+- They have contacted you first, or
+- They have posted in some channel that they are explicitly looking for recruiting services
+
+I any other case, we will consider it spam and you will be banned.
 
 ### Channels
 
