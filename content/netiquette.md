@@ -70,7 +70,7 @@ If you provide recruiting services, you are not allowed to contact any member of
 - They have contacted you first, or
 - They have posted in some channel that they are explicitly looking for recruiting services
 
-I any other case, we will consider it spam and you will be banned.
+In any other case, we will consider it spam and you will be banned.
 
 ### Channels
 
