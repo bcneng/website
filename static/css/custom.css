@@ -13,6 +13,9 @@ html {
 .link-list {
     margin-top: -1rem;
 }
+p, li {
+    line-height: 1.7em;
+}
 
 @media (min-width: 992px) {
 .homepage-image {
@@ -25,14 +28,26 @@ html {
     -webkit-box-reflect: below -39px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.1));
 }
 }
+@media (max-width: 991px) {
+.homepage-image {
+    max-width: 55%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.homepage-image img {
+    -webkit-box-reflect: below -39px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.1));
+}
+}
 @media (max-width: 575px) {
+body {
+    font-size: 1.05rem;
+
+}
+p {
+    line-height: 1.6em;
+}
 .homepage h1 {
     text-align: center;
-}
-.homepage-image {
-    display: flex;
-    justify-content: center;
-    padding-bottom: 20px;
 }
 .homepage-image img {
     -webkit-box-reflect: below -15px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.1));
@@ -47,10 +62,6 @@ html {
     font-family: 'Teko', sans-serif;
     text-transform: uppercase;
     letter-spacing: -0.03em;
-}
-
-p, li {
-    line-height: 1.7em;
 }
 
 .avatar {
