@@ -1,6 +1,6 @@
 ## The Mission
 
-BcnEng's is a non-profit organization whose mission is to let Barcelona's tech hub become one of the best tech communities around the globe.
+BcnEng is a non-profit organization whose mission is to let Barcelona's tech hub become one of the best tech communities around the globe.
 
 How?
 
@@ -19,12 +19,12 @@ We will do that keeping our values:
 
 BcnEng's Slack started as a solution for a communication problem between two
 ex-colleagues ([Sergio Moya](https://www.linkedin.com/in/smoya) and [Gonzalo
-Serrano](https://gon.cat)) that worked in the team in a Barcelona startup for
+Serrano](https://gon.cat)) that worked in the same team in a Barcelona startup for
 years but parted ways for new jobs in November 2016. They wanted to keep
 being in touch as a group and found Slack was the solution.
 
-Months passed, and the community kept growing slowly but steady, till today, with
-more than 7K registered users and around 1.5K weekly active users.
+Months passed, and the community kept growing slowly but steadily, till today, with
+more than 8K registered users and around 1.5K weekly active users.
 
 ## The team
 
@@ -39,7 +39,6 @@ ensure everything ran smoothly. Here they are:
 [{{< figure src="/images/team/smoya.jpeg" title="@smoya" class="avatar" >}}](https://bcneng.slack.com/team/U2WPLA0KA)
 [{{< figure src="/images/team/cristina.png" title="@cristina_verdi" class="avatar" >}}](https://bcneng.slack.com/team/UNNPZ40BG)
 
-
 - [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Lead Software Engineer at Paack
 - [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) ([@mavi](https://bcneng.slack.com/team/U3256HZH9)), Software Developer and Team Lead at Seat:Code
 - [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) ([@sdecandelario](https://bcneng.slack.com/team/U36H6F3CN)), Senior Backend Developer en i-surance AG
@@ -49,7 +48,7 @@ ensure everything ran smoothly. Here they are:
 
 #### Distinguished members
 
-Lots of people have and are helping too. A special shout-out to (alphabetically-ordered):
+Lots of people have and are helping too. A special shout-out to (alphabetically ordered):
 
 - [Rubén Aguilar](https://www.linkedin.com/in/ruben-aguilar-becerra/) ([@Rubén](https://bcneng.slack.com/team/U8QMJ1DUH))
 - [Jorge Arco](https://www.linkedin.com/in/jorgearco/) ([@iyoque](https://bcneng.slack.com/team/U30B8KQVB))
