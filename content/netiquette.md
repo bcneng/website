@@ -34,7 +34,7 @@ As a people-first slack organization, company accounts are not allowed.
 #### Best practices
 
 - Be specific when selecting in which channel to post, we don't want #offtopic-random to become a [big ball of mud](https://en.wikipedia.org/wiki/Big_ball_of_mud).
-- Use threads when possible to keep the conversations organized.
+- Use threads when possible to keep the conversations organized. Don't send your replies to the channel unless there is a change of topic in the thread.
 - Pasting a random link sometimes does not add much value. Consider explaining why you did it.
 - Consider removing the link previews.
 - Use [reactions](https://slack.com/intl/en-es/help/articles/202931348-Use-emoji-and-reactions) to give a quick feedback. Writing _haha_, _jaja_, _XDDD_ or _lol_ does not contribute much.
