@@ -128,7 +128,16 @@ li {
 
 .sponsor-logo-image {
   width: 200px;
-  margin: 10px;
+  margin: 0 75px 25px 0;
+}
+
+@media (max-width: 575px) {
+  .sponsor-logos {
+    justify-content: center;
+  }
+  .sponsor-logo-image {
+	margin: 0 0 25px 0;
+  }
 }
 
 #home,
