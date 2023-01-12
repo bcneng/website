@@ -163,6 +163,17 @@
        "skills": ["AWS", "GCP", "Kubernetes", "Golang", "Typescript", "Architecture", "Software design", "Scalability" ],
        "availability_hours_week": {"min": 5, "max": 20},
        "pricing_model": "Hourly"
+    },
+    {
+       "slack_name": "@Javier Molpeceres",
+       "slack_member_id": "U027AAP0VV4",
+       "full_name": "Javier Molpeceres",
+       "web": "",
+       "linkedin_handler": "javier-molpeceres-gómez",
+       "services": "Full-stack development, Architecture definition, Cloud, Software engineering",
+       "skills": ["Node","Typescript", "React", "AWS", "Golang", "Business requirements","Python", "CI/CD", "SQL-NOSQL", "Architecture", "Microservices" ],
+       "availability_hours_week": {"min": 5, "max": 20},
+       "pricing_model": "Hourly"
     }
     
 ]
