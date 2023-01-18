@@ -174,6 +174,17 @@
        "skills": ["Node","Typescript", "React", "AWS", "Golang", "Business requirements","Python", "CI/CD", "SQL-NOSQL", "Architecture", "Microservices" ],
        "availability_hours_week": {"min": 5, "max": 20},
        "pricing_model": "Hourly"
+    },
+    {
+       "slack_name": "@Guillermo de la Puente",
+       "slack_member_id": "U03FJ960U12",
+       "full_name": "Guillermo de la Puente",
+       "web": "https://guillermodlpa.com",
+       "linkedin_handler": "guillermodlpa",
+       "services": "Frontend developer, full-stack developer, MVPs for startups, maintenance and bug fixing on web apps, performance improvements, design system implementations, team and project management.",
+       "skills": ["TypeScript / JavaScript", "React", "Node", "Next.js", "Node frameworks (Express, Koa)", "State management (React Query, Redux, etc.)", "AWS", "Serverless platforms (Firebase, Supabase, Vercel, etc.)", "Databases (MySQL, PostgreSQL, MongoDB, Firestore, etc.)", "Automated testing (Jest, TDD)", "CI/CD" ],
+       "availability_hours_week": {"min": 3, "max": 30},
+       "pricing_model": "Hourly / Depending on the service requested"
     }
     
 ]
