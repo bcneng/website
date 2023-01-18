@@ -185,6 +185,6 @@
        "skills": ["TypeScript / JavaScript", "React", "Node", "Next.js", "Node frameworks (Express, Koa)", "State management (React Query, Redux, etc.)", "AWS", "Serverless platforms (Firebase, Supabase, Vercel, etc.)", "Databases (MySQL, PostgreSQL, MongoDB, Firestore, etc.)", "Automated testing (Jest, TDD)", "CI/CD" ],
        "availability_hours_week": {"min": 3, "max": 30},
        "pricing_model": "Hourly / Depending on the service requested"
-    },
+    }
     
 ]
