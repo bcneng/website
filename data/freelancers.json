@@ -185,6 +185,16 @@
        "skills": ["TypeScript / JavaScript", "React", "Node", "Next.js", "Node frameworks (Express, Koa)", "State management (React Query, Redux, etc.)", "AWS", "Serverless platforms (Firebase, Supabase, Vercel, etc.)", "Databases (MySQL, PostgreSQL, MongoDB, Firestore, etc.)", "Automated testing (Jest, TDD)", "CI/CD" ],
        "availability_hours_week": {"min": 3, "max": 30},
        "pricing_model": "Hourly / Depending on the service requested"
-    }
-    
+    },
+    {
+      "slack_name": "@JordiPallares",
+      "slack_member_id": "U4NSD5Z5F",
+      "full_name": "Jordi Pallarés",
+      "web": "",
+      "linkedin_handler": "jordi-pallares",
+      "services": "Software engineering. MVPs for startups. Technical leadership. Performance improvements. Cloud architect. Technology advisor.",
+      "skills": ["Architecture", "AWS (EC2, RDS, CloudFront, Lambda, S3, Cloudformation...)", "CI/CD: Github Actions", "Databases (MySQL, PostgreSQL, MongoDB and InfluxDB)", "Docker", "Flutter (iOS and Android)", "Golang", "Javascript/Typescript", "Microservices", "MVP", "PHP (Laravel and Symfony)", "Scalability", "Software design"],
+      "availability_hours_week": {"min": 2, "max": 15},
+      "pricing_model": "Hourly / Depending on the service requested"
+   }    
 ]
