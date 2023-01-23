@@ -1,33 +1,42 @@
-<table class="rwd-table">
-<thead>
-<tr>
-    <th>Name & Handler</th>
-    <th>Services</th>
-    <th>Skills</th>
-    <th>Availability</th>
-    <th>Pricing Model</th>
-    <th>Web</th>
-    <th>LinkedIn</th>
-</tr>
-</thead>
-<tbody>
+<div class="tablewrapper">
 {{ range $.Site.Data.freelancers }}
-  <tr>
-    <td data-th="Name & Handler">{{ .full_name }} - <a href="slack://user?team=T2Y6L54R3&id={{ .slack_member_id }}">{{ .slack_name }}</a></td>
-    <td data-th="Services">{{ .services }}</td>
-    <td data-th="Skills"><ul>
+  <div class="card">
+    <div class="card__name">{{ .full_name }} — <a href="slack://user?team=T2Y6L54R3&id={{ .slack_member_id }}">{{ .slack_name }}</a>
+	</div>
+    <div class="card__services">{{ .services }}</div>
+    <div class="card__skills">
     {{ range .skills }}
-        <li class="skill">{{ . }}</li>
+        <span class="skill">{{ . }}</span>
     {{ end }}
-    </ul></td>
-    <td data-th="Availability"><ul>
-        <li>Min: {{ .availability_hours_week.min }}h/week</li>
-        <li>Max: {{ .availability_hours_week.max }}h/week</li>
-    </ul></td>
-    <td data-th="Pricing Model">{{ .pricing_model }}</td>
-    <td data-th="Web">{{ if .web }}<a href="{{ .web }}">Website</a>{{ end }}</td>
-    <td data-th="LinkedIn"><a href="https://www.linkedin.com/in/{{ .linkedin_handler }}/">LinkedIn</a></td>
-   </tr>
+    </div>
+    <div class="card__availability">
+		⏲
+        Min:<span class="time">{{ .availability_hours_week.min }}h/week</span> — 
+        Max:<span class="time">{{ .availability_hours_week.max }}h/week</span>
+    </div>
+    <div class="card__pricing">€ Pricing: <span class="pricing_model">{{ .pricing_model }}</span></div>
+    <div class="card__social">
+       <ul class="list-inline">
+       	  {{- if .web -}}
+       	  <li class="list-inline-item">
+       		<a href="{{ .web }}" target="_blank" class="icons d-block">
+                 <span class="fa-stack fa-lg">
+                     <i class="fa fa-circle fa-stack-2x"></i>
+                     <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                 </span>
+       	    </a>
+       	  </li>
+          {{- end -}}
+       	  <li class="list-inline-item">
+       	    <a href="https://www.linkedin.com/in/{{ .linkedin_handler }}/" target="_blank" class="icons d-block">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+              </span>
+       	    </a>
+       	  </li>
+       </ul>
+   </div>
+   </div>
 {{ end }}
-</tbody>
-</table>
+</div>
