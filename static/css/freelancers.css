@@ -10,6 +10,20 @@
 	padding: 1em;
 }
 
+@media (min-width: 768px) and (max-width: 1024px) {
+	.card {
+		width: 327px;
+	}
+}
+@media (max-width: 575px) {
+	.tablewrapper {
+		justify-content: center;
+	}
+	.card {
+		margin: 0 0 1em 0;
+	}
+}
+
 .card__name {
 	font-family: "Teko", sans-serif;
     text-transform: uppercase;
