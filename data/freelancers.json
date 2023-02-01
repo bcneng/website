@@ -196,5 +196,16 @@
       "skills": ["Architecture", "AWS (EC2, RDS, CloudFront, Lambda, S3, Cloudformation...)", "CI/CD: Github Actions", "Databases (MySQL, PostgreSQL, MongoDB and InfluxDB)", "Docker", "Flutter (iOS and Android)", "Golang", "Javascript/Typescript", "Microservices", "MVP", "PHP (Laravel and Symfony)", "Scalability", "Software design"],
       "availability_hours_week": {"min": 2, "max": 15},
       "pricing_model": "Hourly / Depending on the service requested"
+   },
+   {
+      "slack_name": "@mmanzano",
+      "slack_member_id": "U6A845RPY",
+      "full_name": "Miguel Manzano García",
+      "web": "https://mmanzano.com/en",
+      "linkedin_handler": "miguelmanzano",
+      "services": "Backend Development. Software crafter. Testing. Continuous Learning. Love Frontend.",
+      "skills": ["Laravel", "Laravel Vapor (AWS Lambda)", "Github Actions for testing and deploy", "Databases (MySQL)", "Docker", "Javascript/Typescript", "MVP", "PHP (Laravel)", "Performance with SQL or PHP itself"],
+      "availability_hours_week": {"min": 15, "max": 30},
+      "pricing_model": "Depending on the service requested"
    }    
 ]
