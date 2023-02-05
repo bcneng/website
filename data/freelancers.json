@@ -207,5 +207,16 @@
       "skills": ["Laravel", "Laravel Vapor (AWS Lambda)", "Github Actions for testing and deploy", "Databases (MySQL)", "Docker", "Javascript/Typescript", "MVP", "PHP (Laravel)", "Performance with SQL or PHP itself"],
       "availability_hours_week": {"min": 15, "max": 30},
       "pricing_model": "Depending on the service requested"
-   }    
+   },
+    {
+      "slack_name": "@JuanPabloVazquez",
+      "slack_member_id": "U04EGDXUD5K",
+      "full_name": "Juan Pablo Vazquez",
+      "web": "",
+      "linkedin_handler": "juan-pablo-vazquez-sampere",
+      "services": "Experienced hands-on software developer. +10 years of expertise in development operations. From concept definition to implementation in production. Focused on creating intelligent solutions that consumers are willing to pay for",
+      "skills": ["Blockchain", "Python", "Solidity", "Django", "JavaScript", "React", "TypeScript", "Node", "Nextjs"],
+      "availability_hours_week": {"min": 5, "max": 40},
+      "pricing_model": "Can be per hour, per day or per project"
+   }
 ]
