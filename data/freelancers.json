@@ -17,7 +17,7 @@
        "web": "",
        "linkedin_handler": "carmenldelgadop",
        "services": "Consultancy for digital projects for startups, SME or non-profit.",
-       "skills": ["Frontend", "Testing", "React", "Architectures", "Good practices", ""],
+       "skills": ["Frontend", "Testing", "React", "Architectures", "Good practices"],
        "availability_hours_week": {"min": 2, "max": 8},
        "pricing_model": "Depending on the project"
     },
