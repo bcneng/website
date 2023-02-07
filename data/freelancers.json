@@ -1,5 +1,16 @@
 [
     {
+       "slack_name": "@iagolast",
+       "slack_member_id": "UD10JMGUD",
+       "full_name": "Iago Lastra",
+       "web": "iagolast.github.io",
+       "linkedin_handler": "iagolast",
+       "services": "Consulting and training and development.",
+       "skills": ["Frontend", "Testing", "Architecture", "TypeScript", "React"],
+       "availability_hours_week": {"min": 1, "max": 4},
+       "pricing_model": "120€/h"
+    },
+    {
        "slack_name": "@CarmenDelgado",
        "slack_member_id": "UEDFE7J07",
        "full_name": "Carmen Delgado",
