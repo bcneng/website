@@ -125,6 +125,11 @@ li {
   display: flex;
   flex-wrap: wrap;
 }
+.sponsor-logos a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .sponsor-logo-image {
   width: 200px;
