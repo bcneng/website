@@ -33,6 +33,17 @@
        "pricing_model": "Depending on the project"
     },
     {
+       "slack_name": "@David Levai",
+       "slack_member_id": "U04Q711NPCK",
+       "full_name": "David Levai",
+       "web": "https://davidlevai.com/",
+       "linkedin_handler": "iamdavidlevai",
+       "services": "Mentoring developers to become freelancers, indie makers, and build better products.",
+       "skills": ["Javascript", "Entrepreneurship", "Typescript", "Software Architecture", "UX", "SaaS"],
+       "availability_hours_week": {"min": 2, "max": 6},
+       "pricing_model": "Short-term mentoring: 190€/h, long-term: unique"
+    },
+    {
        "slack_name": "@Davide Barbato",
        "slack_member_id": "UD0CY34SG",
        "full_name": "Davide Barbato",
