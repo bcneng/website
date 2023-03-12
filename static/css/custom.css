@@ -106,15 +106,15 @@ li {
 .opencollective-banner {
   display: flex;
   justify-content: left;
-  margin: 10px 0 0 -10px;
+  margin: -10px 0 -100px 0;
 }
 .opencollective-banner iframe {
-  width: auto;
+  width: 100%;
 }
 @media (max-width: 575px) {
   .opencollective-banner {
     display: block;
-    margin: 0;
+    margin: 0 0 -50px 0;
   }
   .opencollective-banner iframe {
     width: 100%;
