@@ -4,9 +4,11 @@
     <div class="hero row">
         <div class="col position-relative py-lg-2">
             {{- with .Site.Params.homepageImage -}}
-                <div class="homepage-image">
-                    <img src="{{ . | relURL }}" class="img-fluid">
+                <div class="homepage-image shiny-mask" >
+                    <img src="{{ . | relURL }}" class="mask-image img-fluid">
+                    <div class="shine-effect"></div>
                 </div>
+
             {{- end -}}
 
             <h1 class="display-4">{{ .Site.Title }}</h1>
