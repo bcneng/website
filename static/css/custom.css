@@ -1,6 +1,11 @@
 html {
   background: linear-gradient(to bottom, #333333 50%, #ffffff 50%);
 }
+
+.homepage-image {
+  position: relative;
+}
+
 .homepage-image img {
   -webkit-box-reflect: below -70px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.1));
 }
@@ -149,3 +154,29 @@ li {
 .navbar-dark .navbar-nav .nav-link {
   color: hsla(0, 0%, 100%, 0.8);
 }
+
+.mask-image {
+  display: block;
+}
+
+.shine-effect {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0) 75%);
+  transform: rotate(30deg);
+  animation: shine 4s infinite;
+  mix-blend-mode: overlay;
+}
+
+@keyframes shine {
+  0% {
+    transform: translateX(-50%) rotate(30deg);
+  }
+  100% {
+    transform: translateX(150%) rotate(30deg);
+  }
+}
+
