@@ -1,7 +1,5 @@
 # BCN Engineering Netiquette
 
-## Introduction
-
 Welcome to BcnEng's netiquette.
 
 This document can change over time. The administrators will publish its updates
@@ -33,7 +31,7 @@ As a people-first slack organization, company accounts are not allowed.
 
 #### Best practices
 
-- Be specific when selecting in which channel to post, we don't want #offtopic-random to become a [big ball of mud](https://en.wikipedia.org/wiki/Big_ball_of_mud).
+- Be specific when selecting in which channel to post, following our [channel guidelines](/channels)
 - Use threads when possible to keep the conversations organized. Don't send your replies to the channel unless there is a change of topic in the thread.
 - Pasting a random link sometimes does not add much value. Consider explaining why you did it.
 - Consider removing the link previews.
@@ -71,25 +69,3 @@ If you provide recruiting services, you are not allowed to contact any member of
 - They have posted in some channel that they are explicitly looking for recruiting services
 
 In any other case, we will consider it spam and you will be banned.
-
-### Channels
-
-Default channels are three:
-
-- #welcome: please introduce yourself here.
-- #general: for staff team messages to the community.
-- #offtopic-random: anything that does not fit in other channels.
-
-Please prefer a specific channel over offtopic-random.
-
-Ask in #ask-staff before creating a new channel. Sometimes it was already created and archived because it didn't have enough traffic.
-
-Read the channel topic for some guidelines in specific channels. Here are some examples:
-
-- #show-and-tell: tell us about your side projects, new blog posts...
-- #lang-xyz: programming languages channels.
-- #hiring-job-board: post job offers using the workflow specified in the topic.
-- #hiring-discussions: conversations around hiring.
-- #ask-staff: share your concerns, ask the staff team and suggest changes. Discuss our [Code of Conduct](/coc/) and [Netiquette](#bcnengs-slack-netiquette)'s contents.
-- #offtopic-cryparty: share with others that thing that makes you angry.
-- #offtopic-feeling-good: share with others that thing that makes you happy.

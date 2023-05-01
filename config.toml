@@ -30,6 +30,11 @@ DisqusShortname = ""
     name = "Freelancers"
     url = "/freelancers/"
     weight = 0
+  [[menu.main]]
+    identifier = "channels"
+    name = "Channels"
+    url = "/channels/"
+    weight = 50
 
 [taxonomies]
 category = "categories"
