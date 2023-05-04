@@ -240,5 +240,16 @@
       "skills": ["Blockchain", "Python", "Solidity", "Django", "JavaScript", "React", "TypeScript", "Node", "Nextjs"],
       "availability_hours_week": {"min": 5, "max": 40},
       "pricing_model": "Can be per hour, per day or per project"
-   }
+   },
+    {
+       "slack_name": "@Rubén Rubio",
+       "slack_member_id": "U01RXMMNKD3",
+       "full_name": "Rubén Rubio",
+       "web": "https://rubenrubiob.github.io/",
+       "linkedin_handler": "rubenrubiob",
+       "services": "PHP consultancy: legacy decoupling, best practices, performance and optimization, event-driven architectures, testing",
+       "skills": ["PHP", "hexagonal architecture", "Event-Driven", "Testing", "DDD", "scalability", "trainings"],
+       "availability_hours_week": {"min": 10, "max": 30},
+       "pricing_model": "Hourly / Depending on the service requested"
+    }
 ]
