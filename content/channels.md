@@ -103,6 +103,6 @@ tags: `anonymous-enabled`.
 
 #### startups
 
-Conversations about startups, entrepreneurship, tech product development, fundraising, tech investors, sales,  marketing, etc... Everything related to tech startup ecosystem.
-Note  this is not a channel to promote your company in any way. Any kind of spam will be removed accordingly to the CoC.
+Conversations about startups, entrepreneurship, tech product development, fundraising, tech investors, sales, marketing, etc... Everything related to the tech startup ecosystem.
+Note this is not a channel to promote your company in any way. Any spam will be removed accordingly to the CoC.
 
