@@ -1,0 +1,721 @@
+[{
+	"name": "general",
+    "id": "C2Y6L58TX",
+	"description": "BcnEng news from @team-staff.",
+	"notes": "",
+	"category": "core",
+	"tags": ["default", "read-only"]
+},
+{
+	"name": "offtopic-random",
+    "id": "C2Y6L596H",
+	"description": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+	"notes": "Plase don't use this channel to crosspost or write to reach more audience, since this is one of the larger channels.",
+	"category": "core",
+	"tags": ["default", "anonymous-enabled"]
+},
+{
+	"name": "ask-staff",
+    "id": "C2YUDTUDD",
+	"description": "Share your concerns and suggestions, ask the staff team and suggest changes to the community, channels or whatever topic you wish.",
+	"notes": "For suggestions and discussions around job specs published at #hiring-job-board, please use https://github.com/bcneng/candebot/discussions/54",
+	"category": "core",
+	"tags": ["anonymous-enabled"]
+},
+{
+	"name": "welcome",
+    "id": "C01DWLXFT45",
+	"description": "Present yourself and what do you do.",
+	"notes": "Do not promote your company or that you are hiring, use #hiring-job-board instead.",
+	"category": "core",
+	"tags": ["default"]
+},
+{
+	"name": "show-and-tell",
+    "id": "C36AD549X",
+	"description": "Tell us about your side projects, new blog posts, podcasts, etc.",
+	"notes": "Project updates allowed from fully open-source initiatives. Content from companies is forbidden",
+	"category": "core",
+	"tags": ["default"]
+},
+{
+	"name": "hiring-job-board",
+    "id": "C30CUFT2B",
+	"description": "Regular posting on this channel is not allowed. HOWTO post: https://bit.ly/how-to-submit-job-at-bcneng-slack. Offers must allow people to work from Barcelona or around. For deletion requests, #ask-staff",
+	"notes": "",
+	"category": "hr",
+	"tags": ["default", "candebot-only", "anonymous-enabled"]
+},
+{
+	"name": "hiring-discussions",
+    "id": "C46K8J00L",
+	"description": "Conversations around hiring, companies, compensations, etc.",
+	"notes": "Don't use it to post offers, use `#hiring-job-board` instead.",
+	"category": "hr",
+	"tags": ["default", "anonymous-enabled"]
+},
+{
+	"name": "contractors-freelancers",
+    "id": "C6JH3Q69F",
+	"description": "For freelancers and contractors to share experiences, tips, and advice.",
+	"notes": "",
+	"category": "hr",
+	"tags": []
+},
+{
+	"name": "offtopic-women",
+    "id": "C31920P0U",
+	"description": "Discusión para mujeres y gente no-binaria.",
+	"notes": "",
+	"category": "social",
+	"tags": ["anonymous-enabled"]
+},
+{
+	"name": "offtopic-feeling-good",
+    "id": "CLX4U7CTT",
+	"description": "Share with non-tech that thing that makes you happy.",
+	"notes": "The good brother of #offtopic-cryparty.",
+	"category": "social",
+	"tags": ["default", "anonymous-enabled"]
+},
+{
+	"name": "offtopic-cryparty",
+    "id": "CBNPT2N13",
+	"description": "Safe place to cry, you will never cry alone anymore.",
+	"notes": "The evil brother of #offtopic-feeling-good.",
+	"category": "social",
+	"tags": ["default", "anonymous-enabled"]
+},
+{
+	"name": "offtopic-parenting",
+    "id": "C365HB7JP",
+	"description": "How to raise a child from the geek perspective.",
+	"notes": "",
+	"category": "social",
+	"tags": ["anonymous-enabled"]
+},
+{
+	"name": "health-disability",
+	"id": "TODO",
+	"description": "Place for people who suffer any kind of disability or any disabling disease (autoimmune diseases, chronic fatigue, endometriosis, etc) to share doubts related to work (legal, HR, etc) but also share experiences, and empower each other.",
+	"notes": "",
+	"category": "social",
+	"tags": ["anonymous-enabled"]
+},
+{
+	"name": "health-mental",
+	"id": "TODO",
+	"description": "Share resources, experiences, and insights related to maintaining good mental health, managing stress, and finding balance in your personal and professional life. We encourage everyone to be respectful and supportive of one another as we navigate these important issues together.",
+	"notes": "While this channel is a safe space, it is not a substitute for professional medical advice or therapy. If you are in need of immediate support, please reach out to a licensed mental health professional or a crisis helpline",
+	"category": "social",
+	"tags": ["anonymous-enabled"]
+},
+{
+	"name": "offtopic-foodies",
+    "id": "C01NSSRQKA6",
+	"description": "For those who enjoy food and drinks. Share your recipes!",
+	"notes": "",
+	"category": "social",
+	"tags": []
+},
+{
+	"name": "allyship",
+    "id": "C47GSPZP0",
+	"description": "For allies to discuss how to support underrepresented groups.",
+	"notes": "",
+	"category": "social",
+	"tags": []
+},
+{
+	"name": "candelario-fans",
+    "id": "C5T322H6Z",
+	"description": "Fans de @sdecandelario",
+	"notes": "",
+	"category": "social",
+	"tags": []
+},
+{
+	"name": "remote-workers",
+    "id": "C42GY1WN5",
+	"description": "For remote workers to share experiences, tips, and advice.",
+	"notes": "",
+	"category": "social",
+	"tags": []
+},
+{
+	"name": "remote-office-trips",
+	"id": "C03PAJ8PT3N",
+	"description": "#remote-workers spin-off. Sync with other remote workers to work from the same place.",
+	"notes": "",
+	"category": "social",
+	"tags": []
+},
+{
+	"name": "offtopic-virtual-coffee",
+    "id": "C04HMBWN8SK",
+	"description": "Meet via videocall other members of this community, automated by Donut.",
+	"notes": "automated by https://www.donut.com",
+	"category": "social",
+	"tags": []
+},
+{
+	"name": "offtopic-argentinxs-y-uruguayxs",
+	"id": "CQEL7DTU4",
+	"description": "Para los argentinos y uruguayos de la comunidad.",
+	"notes": "",
+	"category": "social",
+	"tags": []
+},
+{
+	"name": "offtopic-covid19",
+    "id": "CUR4UPEN4",
+	"description": "Temporary channel about COVID-19 virus.",
+	"notes": "",
+	"category": "social",
+	"tags": []
+},
+{
+	"name": "temp-war",
+	"id": "C034CM5UA5B",
+	"description": "Russia invassion of Ukraine",
+	"notes": "Temporal (hopefully) channel.",
+	"category": "social",
+	"tags": []
+},
+{
+	"name": "systems-devops",
+    "id": "C2WTP1ZMW",
+	"description": "Everything related to systems and devops.",
+	"notes": "",
+	"category": "systems",
+	"tags": []
+},
+{
+	"name": "kubernetes",
+    "id": "C4765QVQV",
+	"description": "Talk about kubernetes container orchestration.",
+	"notes": "",
+	"category": "systems",
+	"tags": []
+},
+{
+	"name": "cloud-providers",
+    "id": "C2YAEDL12",
+	"description": "AWS, GCP, Azure, etc.",
+	"notes": "",
+	"category": "systems",
+	"tags": []
+},
+{
+	"name": "continuous-int-deploy",
+	"id": "C30NMMVGV",
+	"description": "CI/CD such as GHA, Jenkins, Travis, CircleCI",
+	"notes": "",
+	"category": "systems",
+	"tags": []
+},
+{
+	"name": "docker",
+    "id": "C30K66ZJQ",
+	"description": "Everything related to docker.",
+	"notes": "",
+	"category": "systems",
+	"tags": []
+},
+{
+	"name": "linux",
+    "id": "C30LMS8AV",
+	"description": "Topics such as distros, tools, etc.",
+	"notes": "",
+	"category": "systems",
+	"tags": []
+},
+{
+	"name": "learning-dev",
+    "id": "CUV9CGPV4",
+	"description": "Share resources, experiences, and insights related to learning and development. We encourage everyone to be respectful and supportive of one another as we navigate these important issues together.",
+	"notes": "",
+	"category": "soft-skills",
+	"tags": []
+},
+{
+	"name": "leadership",
+    "id": "CJFA6LK7H",
+	"description": "People and team management, leadership, etc.",
+	"notes": "",
+	"category": "soft-skills",
+	"tags": []
+},
+{
+	"name": "agile",
+    "id": "C2XG59RPA",
+	"description": "Share and promote best practises and experiences.",
+	"notes": "",
+	"category": "soft-skills",
+	"tags": []
+},
+{
+	"name": "documentation",
+    "id": "C03B5DWEYNA",
+	"description": "Let's talk about technical documentation, technical writing, and related topics.",
+	"notes": "",
+	"category": "soft-skills",
+	"tags": []
+},
+{
+	"name": "mentoring",
+    "id": "CK583UPB5",
+	"description": "All about mentoring, coaching, etc. You also can ask for mentorships.",
+	"notes": "",
+	"category": "soft-skills",
+	"tags": []
+},
+{
+	"name": "frontend-web",
+    "id": "C2Y405X5X",
+	"description": "Everything related to web development.",
+	"notes": "",
+	"category": "frontend",
+	"tags": []
+},
+{
+	"name": "ux-ui-design",
+    "id": "C341M5N0N",
+	"description": "Channel to talk about UX and UI Design.",
+	"notes": "",
+	"category": "frontend",
+	"tags": []
+},
+{
+	"name": "mobile",
+    "id": "C3S8R077Z",
+	"description": "Discussions around dev in iOS, android, phonegap/cordova, react-native...",
+	"notes": "",
+	"category": "frontend",
+	"tags": []
+},
+{
+	"name": "reactjs",
+	"id": "C68BZFGLW",
+	"description": "ReactJS, Redux, etc.",
+	"notes": "",
+	"category": "frontend",
+	"tags": []
+},
+{
+	"name": "vuejs",
+	"id": "C7TB1LRHU",
+	"description": "Vuejs Barcelona community",
+	"notes": "",
+	"category": "frontend",
+	"tags": []
+},
+{
+	"name": "flutter",
+	"id": "CEV8ADZEW",
+	"description": "All about Flutter and Dart",
+	"notes": "",
+	"category": "frontend",
+	"tags": []
+},
+{
+	"name": "gaming-dev",
+	"id": "C326N62A1",
+	"description": "Game development, game engines, game design, etc.",
+	"notes": "",
+	"category": "frontend",
+	"tags": []
+},
+{
+	"name": "lang-php-and-fws",
+    "id": "C2WR8MND7",
+	"description": "PHP, Laravel, Symfony, Zend, etc.",
+	"notes": "",
+	"category": "languages",
+	"tags": []
+},
+{
+	"name": "lang-python",
+    "id": "C2YK3TKS9",
+	"description": "Python community.",
+	"notes": "",
+	"category": "languages",
+	"tags": []
+},
+{
+	"name": "lang-jvm-based",
+    "id": "C2X90Q96V",
+	"description": "Talk about java, kotlin, scala, groovy, clojure, etc.",
+	"notes": "",
+	"category": "languages",
+	"tags": []
+},
+{
+	"name": "lang-rust",
+    "id": "C2Y51T35H",
+	"description": "Talk about the Rust programming language.",
+	"notes": "",
+	"category": "languages",
+	"tags": []
+},
+{
+	"name": "lang-ruby",
+	"id": "C44DVPQ75",
+	"description": "To talk about the Ruby programming language and related frameworks",
+	"notes": "",
+	"category": "languages",
+	"tags": []
+},
+{
+	"name": "lang-erlang-elixir",
+	"id": "C2YFL3VQE",
+	"description": "A good place to squeeze your poor brain.",
+	"notes": "",
+	"category": "languages",
+	"tags": []
+},
+{
+	"name": "lang-scala",
+    "id": "C4FRBGNFJ",
+	"description": "All about Scala",
+	"notes": "",
+	"category": "languages",
+	"tags": []
+},
+{
+	"name": "lang-dotnet",
+	"id": "C3F6772RF",
+	"description": "C#, F# and other dotnet based technologies.",
+	"notes": "",
+	"category": "languages",
+	"tags": []
+},
+{
+	"name": "lang-go",
+    "id": "C2WR8BJ49",
+	"description": ":gopherdance:",
+	"notes": "",
+	"category": "languages",
+	"tags": []
+},
+{
+	"name": "lang-js",
+    "id": "C30TGE9E1",
+	"description": "Javascript, Typescript, NodeJS, etc.",
+	"notes": "",
+	"category": "languages",
+	"tags": []
+},
+{
+	"name": "data-engineering",
+    "id": "C5MG9PF0C",
+	"description": "Data engineering, data pipelines, data lakes, data warehouses, etc.",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "software-architecture",
+    "id": "C2YL8GMAS",
+	"description": "Discussions around software architecture and design. Distributed systems, Event-driven architecture, Event Sourcing. Design patterns, SOLID, Hexagonal architecture, DDD, CQRS, CQS, Event Sourcing, etc.",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "product-management",
+    "id": "C011UM61D4L",
+	"description": "Product management, product ownership, product design, etc.",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "ai-machine-learning",
+    "id": "C2YN2J6P5",
+	"description": "Everything related to AI and machine learning.",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "unit-testing-tdd-bdd",
+    "id": "C31GB13MM",
+	"description": "Talk about unit testing, TDD, BDD, first test approach, baby steps...",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "apis",
+	"id": "CA2NZCUNS",
+	"description": "Talk and share about APIs: REST, GraphQL, Event-Driven APIs, etc.",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "blockchain",
+	"id": "C4P3NBFKJ",
+	"description": "Blockchain, bitcoin, ethereum, hyperledger and related stuff from a tech PoV.",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "security-cryptography",
+    "id": "C30JKJNA1",
+	"description": "Channel to talk about security and cryptography (algos, hacks...)",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "hardware",
+    "id": "C393JKE01",
+	"description": "All around computers, peripherals, etc. For home projects, you might want to check #offtopic-diy",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "git",
+    "id": "CDHS0G0QL",
+	"description": "Git, GitHub, GitLab, Bitbucket, etc.",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "cli-lovers",
+    "id": "C2YEHT3TK",
+	"description": "Rants and/or love about all kind of shells (zsh, fish, bash, ash, sh)",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "code-editors",
+	"id": "C9XEGTR9T",
+	"description": "Flame wars about code editors xD",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "vim-editor",
+    "id": "CTPF0SV71",
+	"description": "a Channel to talk about emacs ;-), how to use vim as an IDE, minimize keystrokes, and many many more things :wq.",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "qa-engineers",
+	"id": "C60QGT4PL",
+	"description": "QA's, Assemble!",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "seo-marketing-online",
+	"id": "C48GWJE94",
+	"description": "Marketing Online: SEO, Linkbuilding, BlackHat SEO and WhiteHat SEO, WPO, AdSense, AdWords, CPA, Afiliación, Domains...",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "advent-of-code",
+	"id": "C02MSHJADQW",
+	"description": "Discussion of everything related to https://adventofcode.com. Join the leaderboard at https://adventofcode.com/2021/leaderboard/private, code 1511301-4157a05d. You can also check the subreddit https://www.reddit.com/r/adventofcode/",
+	"notes": "",
+	"category": "others",
+	"tags": []
+},
+{
+	"name": "events-meetups-confs",
+    "id": "C2XEKMCC8",
+	"description": "Share and promote envets, meetups, conferences, etc.",
+	"notes": "",
+	"category": "events",
+	"tags": ["default"]
+},
+{
+	"name": "offtopic-quedadas",
+    "id": "C3Y63V7HS",
+	"description": "Go to lunch, dinner or whatever, it's time to be social!. FYI, we use !here for notifications.",
+	"notes": "",
+	"category": "events",
+	"tags": []
+},
+{
+	"name": "event-scbcn",
+	"id": "C04643X5129",
+	"description": "https://softwarecrafters.barcelona",
+	"notes": "",
+	"category": "events",
+	"tags": []
+},
+{
+	"name": "offtopic-gaming",
+    "id": "C4497F9CM",
+	"description": "Gaming on any format. Videogames, Boardgames, etc.",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-books",
+    "id": "CU76P1KEU",
+	"description": "Book recommendations. Tech or non tech topic related. Enjoy reading. https://www.rtve.es/alacarta/videos/la-bola-de-cristal/bola-cristal-si-no-quieres-ser-como-estos-lee/646035",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-mercadillo",
+    "id": "CNF3UG589",
+	"description": "Looking for something? Something to sell? Any referral/promo codes? Deal!",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-economy-finance",
+    "id": "C3FTGCVHA",
+	"description": "Discuss about economy, finance, etc.",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-travel",
+    "id": "C03LJE17V3N",
+	"description": "Talk about travels, ask questions, give feedback or ideas for the next trip!",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-diy",
+    "id": "C03MBJL5JHJ",
+	"description": "Do It Yourself: the things you do on your own, usually at home, without paying someone else to do it.",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-music",
+    "id": "C2YRZM7L6",
+	"description": "Share your music taste: songs, clips, concerts, etc.",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-science",
+    "id": "CGCDC3117",
+	"description": "",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-pets",
+    "id": "C015MD8V9RU",
+	"description": "Share your pets photos, videos, etc.",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-movies-tv-shows",
+    "id": "C63QQ84NB",
+	"description": "Talk about movies and tv shows without spoilers!",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-sports",
+    "id": "CHY7U0PV2",
+	"description": "Get out of the office! Let's do sport!",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-plant-lovers",
+    "id": "C010Q6694BV",
+	"description": ":seedling: :sunflower: :deciduous_tree:",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-photography",
+    "id": "C437E7T38",
+	"description": "Photography, cameras, lenses, techniques, etc.",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-motorbikes",
+    "id": "C01UEADU3LK",
+	"description": "Binary Motor Club - Join us if you :heart: motorbikes",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "offtopic-games-toys-lego",
+    "id": "C055Y7XT2E4",
+	"description": "Talk about games, board games, toys, figures, lego and more",
+	"notes": "",
+	"category": "non-tech",
+	"tags": []
+},
+{
+	"name": "startups",
+	"id": "TODO",
+	"description": "Conversations about startups, entrepreneurship, tech product development, fundraising, tech investors, sales, marketing, etc... Everything related to the tech startup ecosystem.",
+	"notes": "Note this is not a channel to promote your company in any way. Any spam will be removed accordingly to the CoC.",
+	"category": "bussiness",
+	"tags": []
+},
+{
+	"name": "codelytv",
+    "id": "C2ZT018DA",
+	"description": "Debatir cualquier cosilla que veáis en los vídeos de codely.tv, sugerir material para nuevos vídeos, propuestas, whatever :D",
+	"notes": "",
+	"category": "bussiness",
+	"tags": []
+},
+{
+	"name": "krakend",
+	"id": "C4EQ5M01Y",
+	"description": "KrakenD is a high-performance API Gateway that provides a middle layer between the client apps and the backend services.",
+	"notes": "",
+	"category": "bussiness",
+	"tags": []
+},
+{
+	"name": "joppy",
+	"id": "CHK85G9RP",
+	"description": "Sitio de encuentro para la gente interesada en http://www.joppy.me",
+	"notes": "",
+	"category": "bussiness",
+	"tags": []
+},
+{
+	"name": "is-it-down",
+    "id": "C036V7VNPB3",
+	"description": "Check or tell when a cloud service, website or app is down. Requests for adding/removing feeds to #ask-staff. Sponsored by EagleStatus.io",
+	"notes": "",
+	"category": "automation",
+	"tags": []
+}
+]

@@ -11,6 +11,16 @@ DisqusShortname = ""
 
 [menu]
   [[menu.main]]
+    identifier = "channels"
+    name = "Channels"
+    url = "/channels/"
+    weight = 10
+  [[menu.main]]
+    identifier = "freelancers"
+    name = "Freelancers"
+    url = "/freelancers/"
+    weight = 10
+  [[menu.main]]
     identifier = "netiquette"
     name = "Netiquette"
     url = "/netiquette/"
@@ -25,16 +35,6 @@ DisqusShortname = ""
     name = "About"
     url = "/about/"
     weight = 0
-  [[menu.main]]
-    identifier = "freelancers"
-    name = "Freelancers"
-    url = "/freelancers/"
-    weight = 0
-  [[menu.main]]
-    identifier = "channels"
-    name = "Channels"
-    url = "/channels/"
-    weight = 50
 
 [taxonomies]
 category = "categories"
