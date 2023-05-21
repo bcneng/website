@@ -1,0 +1,25 @@
+{{ $latestCategory := "" }}
+{{ range $.Site.Data.channels }}
+{{ if ne .category $latestCategory }}
+{{ if $latestCategory }}
+    </div>
+  </div>
+</div>
+{{ end }}
+<h5>{{ .category | title }}</h5>
+<div class="row">
+  <div class="col tablewrapper">
+    <div class="tablewrapper">
+{{ end }}
+      <div onclick="location.href='slack://channel?team=T2Y6L54R3&id={{ .id }}';" class="card card__{{.category}}">
+        <div class="card__name"># {{ .name }}</div>
+        <div class="card__description">{{ .description }}</div>
+        <div class="card__notes">{{ .notes }}</div>
+        <div class="card__tags">
+        {{ range .tags }}
+		<span class="tag">{{ . }}</span><br/>
+        {{ end }}
+        </div>
+      </div>
+{{ $latestCategory = .category }}
+{{ end }}
