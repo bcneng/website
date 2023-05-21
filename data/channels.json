@@ -96,7 +96,7 @@
 },
 {
 	"name": "health-disability",
-	"id": "TODO",
+	"id": "C04KZ1AQDUM",
 	"description": "Place for people who suffer any kind of disability or any disabling disease (autoimmune diseases, chronic fatigue, endometriosis, etc) to share doubts related to work (legal, HR, etc) but also share experiences, and empower each other.",
 	"notes": "",
 	"category": "social",
@@ -104,8 +104,8 @@
 },
 {
 	"name": "health-mental",
-	"id": "TODO",
-	"description": "Share resources, experiences, and insights related to maintaining good mental health, managing stress, and finding balance in your personal and professional life. We encourage everyone to be respectful and supportive of one another as we navigate these important issues together.",
+	"id": "C058RSSMVDZ",
+	"description": "Share resources, experiences, and insights related to maintaining good mental health, managing stress, and finding balance in your personal and professional life.",
 	"notes": "While this channel is a safe space, it is not a substitute for professional medical advice or therapy. If you are in need of immediate support, please reach out to a licensed mental health professional or a crisis helpline",
 	"category": "social",
 	"tags": ["anonymous-enabled"]
@@ -679,8 +679,8 @@
 	"tags": []
 },
 {
-	"name": "startups",
-	"id": "TODO",
+	"name": "startup-ecosystem",
+	"id": "C0594KW5GCR",
 	"description": "Conversations about startups, entrepreneurship, tech product development, fundraising, tech investors, sales, marketing, etc... Everything related to the tech startup ecosystem.",
 	"notes": "Note this is not a channel to promote your company in any way. Any spam will be removed accordingly to the CoC.",
 	"category": "bussiness",
