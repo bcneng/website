@@ -251,5 +251,16 @@
        "skills": ["PHP", "hexagonal architecture", "Event-Driven", "Testing", "DDD", "scalability", "trainings"],
        "availability_hours_week": {"min": 10, "max": 30},
        "pricing_model": "Hourly / Depending on the service requested"
+    },
+    {
+       "slack_name": "@Aleix Morgadas",
+       "slack_member_id": "U36SJR3FC",
+       "full_name": "Aleix Morgadas",
+       "web": "https://aleixmorgadas.dev",
+       "linkedin_handler": "aleixmorgadas",
+       "services": "I’m a independent software consultant with more than 10 years of experience in the software industry.",
+       "skills": ["DDD", "TeamTopologies", "Wardley Maps", "Architecture"],
+       "availability_hours_week": {"min": 10, "max": 30},
+       "pricing_model": "Hourly / Depending on the service requested"
     }
 ]
