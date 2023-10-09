@@ -111,7 +111,7 @@ li {
 .opencollective-banner {
   display: flex;
   justify-content: left;
-  margin: -10px 0 -100px 0;
+  margin: 0px 0 -50px 0;
 }
 .opencollective-banner iframe {
   width: 100%;
