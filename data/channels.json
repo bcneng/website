@@ -671,6 +671,14 @@
   "tags": []
 },
 {
+  "name": "offtopic-cars",
+  "id": "",
+  "description": "A place for petrolheads, to share all about our passion, :car: :dash:",
+  "notes": "",
+  "category": "non-tech",
+  "tags": []
+},    
+{
   "name": "offtopic-games-toys-lego",
   "id": "C055Y7XT2E4",
   "description": "Talk about games, board games, toys, figures, lego and more",
