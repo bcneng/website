@@ -10,7 +10,7 @@
   "name": "offtopic-random",
   "id": "C2Y6L596H",
   "description": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
-  "notes": "Plase don't use this channel to crosspost or write to reach more audience, since this is one of the larger channels.",
+  "notes": "Please don't use this channel to crosspost or write to reach more audience, since this is one of the larger channels.",
   "category": "core",
   "tags": ["default", "anonymous-enabled"]
 },
@@ -25,7 +25,7 @@
 {
   "name": "welcome",
   "id": "C01DWLXFT45",
-  "description": "Present yourself and what do you do.",
+  "description": "Present yourself and what you do.",
   "notes": "Do not promote your company or that you are hiring, use #hiring-job-board instead.",
   "category": "core",
   "tags": ["default"]
@@ -177,7 +177,7 @@
 {
   "name": "temp-war",
   "id": "C034CM5UA5B",
-  "description": "Russia invassion of Ukraine",
+  "description": "Russia invasion of Ukraine",
   "notes": "Temporal (hopefully) channel.",
   "category": "social",
   "tags": []
@@ -489,7 +489,7 @@
 {
   "name": "cli-lovers",
   "id": "C2YEHT3TK",
-  "description": "Rants and/or love about all kind of shells (zsh, fish, bash, ash, sh)",
+  "description": "Rants and/or love about all kinds of shells (zsh, fish, bash, ash, sh)",
   "notes": "",
   "category": "others",
   "tags": []
@@ -537,7 +537,7 @@
 {
   "name": "events-meetups-confs",
   "id": "C2XEKMCC8",
-  "description": "Share and promote envets, meetups, conferences, etc.",
+  "description": "Share and promote events, meetups, conferences, etc.",
   "notes": "",
   "category": "events",
   "tags": ["default"]
@@ -569,7 +569,7 @@
 {
   "name": "offtopic-books",
   "id": "CU76P1KEU",
-  "description": "Book recommendations. Tech or non tech topic related. Enjoy reading. https://www.rtve.es/alacarta/videos/la-bola-de-cristal/bola-cristal-si-no-quieres-ser-como-estos-lee/646035",
+  "description": "Book recommendations. Tech or non-tech topic related. Enjoy reading. https://www.rtve.es/alacarta/videos/la-bola-de-cristal/bola-cristal-si-no-quieres-ser-como-estos-lee/646035",
   "notes": "",
   "category": "non-tech",
   "tags": []
@@ -593,7 +593,7 @@
 {
   "name": "offtopic-travel",
   "id": "C03LJE17V3N",
-  "description": "Talk about travels, ask questions, give feedback or ideas for the next trip!",
+  "description": "Talk about travels, ask questions, and give feedback or ideas for the next trip!",
   "notes": "",
   "category": "non-tech",
   "tags": []
@@ -625,7 +625,7 @@
 {
   "name": "offtopic-pets",
   "id": "C015MD8V9RU",
-  "description": "Share your pets photos, videos, etc.",
+  "description": "Share your pet's photos, videos, etc.",
   "notes": "",
   "category": "non-tech",
   "tags": []
@@ -633,7 +633,7 @@
 {
   "name": "offtopic-movies-tv-shows",
   "id": "C63QQ84NB",
-  "description": "Talk about movies and tv shows without spoilers!",
+  "description": "Talk about movies and TV shows without spoilers!",
   "notes": "",
   "category": "non-tech",
   "tags": []
@@ -672,7 +672,7 @@
 },
 {
   "name": "offtopic-cars",
-  "id": "",
+  "id": "C063CQEDG8K",
   "description": "A place for petrolheads, to share all about our passion, :car: :dash:",
   "notes": "",
   "category": "non-tech",
@@ -681,7 +681,7 @@
 {
   "name": "offtopic-games-toys-lego",
   "id": "C055Y7XT2E4",
-  "description": "Talk about games, board games, toys, figures, lego and more",
+  "description": "Talk about games, board games, toys, figures, lego, and more",
   "notes": "",
   "category": "non-tech",
   "tags": []
@@ -690,7 +690,7 @@
   "name": "startups",
   "id": "C058FJ5FRFH",
   "description": "Conversations about startups, entrepreneurship, tech product development, fundraising, tech investors, sales, marketing, etc... Everything related to the tech startup ecosystem.",
-  "notes": "Note this is not a channel to promote your company in any way. Any spam will be removed accordingly to the CoC.",
+  "notes": "Note this is not a channel to promote your company in any way. Any spam will be removed according to the CoC.",
   "category": "business",
   "tags": []
 },
@@ -721,7 +721,7 @@
 {
   "name": "is-it-down",
   "id": "C036V7VNPB3",
-  "description": "Check or tell when a cloud service, website or app is down. Requests for adding/removing feeds to #ask-staff. Sponsored by EagleStatus.io",
+  "description": "Check or tell when a cloud service, website, or app is down. Requests for adding/removing feeds to #ask-staff. Sponsored by EagleStatus.io",
   "notes": "",
   "category": "automation",
   "tags": []
