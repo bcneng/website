@@ -4,6 +4,7 @@ html {
 
 .homepage-image {
   position: relative;
+  overflow: hidden;
 }
 
 .homepage-image img {
