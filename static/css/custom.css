@@ -168,7 +168,7 @@ li {
   height: 100%;
   background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 25%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0) 75%);
   transform: rotate(30deg);
-  animation: shine 1s 4s infinite;
+  animation: shine 5s 1.5s infinite;
   mix-blend-mode: overlay;
 }
 
