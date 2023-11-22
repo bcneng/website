@@ -45,7 +45,7 @@ Spam is not allowed in any channel. That includes:
 - Affiliates links
 - Job offers outside #hiring-job-board
 - Posting lots of messages (for our own definition of "lots")
-- Company advertising -- we don't want to be a platform for private companies to make money 
+- Company advertising -- only fully open source initiatives are allowed, we don't want to be a platform for private companies to make money 
 
 The administrators reserve the rights to:
 - Remove abusive and/or spam comments
