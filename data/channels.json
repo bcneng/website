@@ -34,7 +34,7 @@
   "name": "show-and-tell",
   "id": "C36AD549X",
   "description": "Tell us about your side projects, new blog posts, podcasts, etc.",
-  "notes": "Project updates allowed from fully open-source initiatives. Content from companies is forbidden",
+  "notes": "Project updates should only come from fully open-source initiatives. Company contributions are allowed if they are completely open-source.",
   "category": "core",
   "tags": ["default"]
 },
