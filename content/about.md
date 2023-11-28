@@ -37,7 +37,7 @@ ensure everything ran smoothly. Here is the staff team:
 [{{< figure src="/images/team/mavi.jpeg" title="@mavi" class="avatar" >}}](https://bcneng.slack.com/team/U3256HZH9)
 [{{< figure src="/images/team/cande.jpeg" title="@sdecandelario" class="avatar" >}}](https://bcneng.slack.com/team/U36H6F3CN)
 [{{< figure src="/images/team/smoya.jpeg" title="@smoya" class="avatar" >}}](https://bcneng.slack.com/team/U2WPLA0KA)
-[{{< figure src="/images/team/ronny.png" title="@ronnylt" class="avatar" >}}](https://bcneng.slack.com/team/U2XDM2L0G)
+[{{< figure src="/images/team/ronny.jpeg" title="@ronnylt" class="avatar" >}}](https://bcneng.slack.com/team/U2XDM2L0G)
 
 - [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Software Engineer at Tetrate
 - [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) ([@mavi](https://bcneng.slack.com/team/U3256HZH9)), Software Developer and Team Lead at Seat:Code
