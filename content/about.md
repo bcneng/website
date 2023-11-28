@@ -31,19 +31,18 @@ more than 8K registered users and around 1.5K weekly active users.
 #### The staff
 
 Luckily, more people organically joined the community to help organize and
-ensure everything ran smoothly. Here they are:
+ensure everything ran smoothly. Here is the staff team:
 
 [{{< figure src="/images/team/gon.jpeg" title="@gonzaloserrano" class="avatar" >}}](https://bcneng.slack.com/team/U2Y6QQHST)
 [{{< figure src="/images/team/mavi.jpeg" title="@mavi" class="avatar" >}}](https://bcneng.slack.com/team/U3256HZH9)
 [{{< figure src="/images/team/cande.jpeg" title="@sdecandelario" class="avatar" >}}](https://bcneng.slack.com/team/U36H6F3CN)
 [{{< figure src="/images/team/smoya.jpeg" title="@smoya" class="avatar" >}}](https://bcneng.slack.com/team/U2WPLA0KA)
-[{{< figure src="/images/team/cristina.png" title="@cristina_verdi" class="avatar" >}}](https://bcneng.slack.com/team/UNNPZ40BG)
+[{{< figure src="/images/team/ronny.png" title="@ronnylt" class="avatar" >}}](https://bcneng.slack.com/team/U2XDM2L0G)
 
-- [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Lead Software Engineer at Paack
+- [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Software Engineer at Tetrate
 - [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) ([@mavi](https://bcneng.slack.com/team/U3256HZH9)), Software Developer and Team Lead at Seat:Code
 - [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) ([@sdecandelario](https://bcneng.slack.com/team/U36H6F3CN)), Senior Backend Engineer en INARI
 - [Sergio Moya](https://www.linkedin.com/in/smoya/) ([@smoya](https://bcneng.slack.com/team/U2WPLA0KA)), Lead Software Engineer at Postman (AsyncAPI Initiative)
-- [Cristina Verdi](https://www.linkedin.com/in/cristina-verdi/) ([@cristina_verdi](https://bcneng.slack.com/team/UNNPZ40BG)), Software Engineer and Tecnical Coach at Code Sherpas
 - [Ronny López](https://www.linkedin.com/in/ronnylt/) ([@ronnylt](https://bcneng.slack.com/team/U2XDM2L0G)), Technology Advisor and Software Engineer
 
 #### Distinguished members
@@ -70,4 +69,5 @@ Lots of people have and are helping too. A special shout-out to (alphabetically 
 - [Uriel Salischicker](https://www.linkedin.com/in/urielsalis/) ([@Uriel Salischiker](https://bcneng.slack.com/team/UFW0A1GV8))
 - [Álvaro Salvá](https://www.linkedin.com/in/asalva/) ([@redbaron](https://bcneng.slack.com/team/U40KDVDQF))
 - [Antonio Santiago](https://www.linkedin.com/in/acanimal/) ([@acanimal](https://bcneng.slack.com/team/UB82Y3A3W))
+- [Cristina Verdi](https://www.linkedin.com/in/cristina-verdi/) ([@cristina_verdi](https://bcneng.slack.com/team/UNNPZ40BG)), Software Engineer and Tecnical Coach at Code Sherpas
 - [Iván Villalba](https://www.linkedin.com/in/ivanvillalba/) ([@Ivan Vihe](https://bcneng.slack.com/team/UAG4H8GMD))
