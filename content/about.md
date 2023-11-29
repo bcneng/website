@@ -69,5 +69,5 @@ Lots of people have and are helping too. A special shout-out to (alphabetically 
 - [Uriel Salischicker](https://www.linkedin.com/in/urielsalis/) ([@Uriel Salischiker](https://bcneng.slack.com/team/UFW0A1GV8))
 - [Álvaro Salvá](https://www.linkedin.com/in/asalva/) ([@redbaron](https://bcneng.slack.com/team/U40KDVDQF))
 - [Antonio Santiago](https://www.linkedin.com/in/acanimal/) ([@acanimal](https://bcneng.slack.com/team/UB82Y3A3W))
-- [Cristina Verdi](https://www.linkedin.com/in/cristina-verdi/) ([@cristina_verdi](https://bcneng.slack.com/team/UNNPZ40BG)), Software Engineer and Tecnical Coach at Code Sherpas
+- [Cristina Verdi](https://www.linkedin.com/in/cristina-verdi/) ([@cristina_verdi](https://bcneng.slack.com/team/UNNPZ40BG))
 - [Iván Villalba](https://www.linkedin.com/in/ivanvillalba/) ([@Ivan Vihe](https://bcneng.slack.com/team/UAG4H8GMD))
