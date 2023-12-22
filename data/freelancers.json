@@ -262,5 +262,16 @@
        "skills": ["DDD", "TeamTopologies", "Wardley Maps", "Architecture"],
        "availability_hours_week": {"min": 10, "max": 30},
        "pricing_model": "Hourly / Depending on the service requested"
+    },
+    {
+       "slack_name": "@Asiel",
+       "slack_member_id": "U06AYS0A4F7",
+       "full_name": "Asiel Leal Celdeiro",
+       "web": "https://github.com/lealceldeiro",
+       "linkedin_handler": "lealceldeiro",
+       "services": "Software/Backend Development",
+       "skills": ["Java", "SQL", "Spring Boot", "JUnit", "Mockito", "Hibernate", "Maven", "Gradle", "Git", "TDD", "OOP", "Design Patterns", "REST", "BDD"],
+       "availability_hours_week": {"min": 10, "max": 30},
+       "pricing_model": "35€/h, or 4000€/month, or on a per-project basis (to be agreed on)"
     }
 ]
