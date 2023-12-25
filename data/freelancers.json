@@ -272,6 +272,6 @@
        "services": "Software/Backend Development",
        "skills": ["Java", "SQL", "Spring Boot", "JUnit", "Mockito", "Hibernate", "Maven", "Gradle", "Git", "TDD", "OOP", "Design Patterns", "REST", "BDD"],
        "availability_hours_week": {"min": 10, "max": 30},
-       "pricing_model": "35€/h, or 4000€/month, or on a per-project basis (to be agreed on)"
+       "pricing_model": "Hourly | Milestones | Fixed price"
     }
 ]
