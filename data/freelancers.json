@@ -273,5 +273,16 @@
        "skills": ["Java", "SQL", "Spring Boot", "JUnit", "Mockito", "Hibernate", "Maven", "Gradle", "Git", "TDD", "OOP", "Design Patterns", "REST", "BDD"],
        "availability_hours_week": {"min": 10, "max": 30},
        "pricing_model": "Hourly | Milestones | Fixed price"
+    },
+    {
+       "slack_name": "@Andreu Correa Casablanca",
+       "slack_member_id": "U05CMHUDLVD",
+       "full_name": "Andres Correa Casablanca",
+       "web": "https://blog.coderspirit.xyz/about/",
+       "linkedin_handler": "castarco",
+       "services": "Software Development (Web Fullstack, specialised on Backend); Architecture definition; Performance; Security Hardening; Code Review; Refactoring.",
+       "skills": ["JavaScript", "TypeScript", "PHP", "Python", "Rust", "Node", "PostgreSQL", "MySQL", "gRPC", "GraphQL", "Docker", "Kubernetes", "GCP", "AWS", "Microservices", "CI/CD", "TDD", "DDD", "Architecture"],
+       "availability_hours_week": {"min": 1, "max": 16},
+       "pricing_model": "Hourly (from 70€ to 120€/h, better rates for bigger projects)"
     }
 ]
