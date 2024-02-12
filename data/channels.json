@@ -535,6 +535,14 @@
   "tags": []
 },
 {
+  "name": "offtopic-housing",
+  "id": "C06HVJT3MRV",
+  "description": "Conversations about utility bills, home appliances, renovations, renting or buying houses",
+  "notes": "",
+  "category": "others",
+  "tags": ["anonymous-enabled"]
+},
+{
   "name": "events-meetups-confs",
   "id": "C2XEKMCC8",
   "description": "Share and promote events, meetups, conferences, etc.",
@@ -725,13 +733,5 @@
   "notes": "",
   "category": "automation",
   "tags": []
-},
-{
-  "name": "offtopic-housing",
-  "id": "C06HVJT3MRV",
-  "description": "Conversations about utility bills, home appliances, renovations, renting or buying houses",
-  "notes": "",
-  "category": "others",
-  "tags": ["anonymous-enabled"]
 }
 ]
