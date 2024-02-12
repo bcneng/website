@@ -732,6 +732,6 @@
   "description": "Conversations about utility bills, home appliances, renovations, renting or buying houses",
   "notes": "",
   "category": "others",
-  "tags": []
+  "tags": ["anonymous-enabled"]
 }
 ]
