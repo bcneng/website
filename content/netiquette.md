@@ -45,7 +45,8 @@ Spam is not allowed in any channel. That includes:
 - Affiliates links
 - Job offers outside #hiring-job-board
 - Posting lots of messages (for our own definition of "lots")
-- Company advertising -- only fully open source initiatives are allowed, we don't want to be a platform for private companies to make money 
+- Company advertising -- only fully open source initiatives are allowed, we don't want to be a platform for private companies to make money
+- Any service offering, including consultancy and others.
 
 The administrators reserve the rights to:
 - Remove abusive and/or spam comments
@@ -53,16 +54,15 @@ The administrators reserve the rights to:
 
 The publisher will be contacted in any case.
 
-#### Hiring inquiries
+#### Hiring inquiries and other service offerings
 
-If you are recruiting, you are not allowed to contact any member of this community, 
+If you are providing services, including consultancy, recruiting or any other, you are not allowed to contact any member of this community, 
 unless:
 
 - They have contacted you first, or
-- They have posted in some channel that they are explicitly looking for a job
+- They have posted in some channel that they are explicitly looking for that kind of service
 
-The best way to get leads is to post a job offer at the #hiring-job-board channel and wait for people to contact you.
-
+If you provide recruiting services, the best way to get leads is to post a job offer at the #hiring-job-board channel and wait for people to contact you.
 If you provide recruiting services, you are not allowed to contact any member of this community that has posted a job offer, unless:
 
 - They have contacted you first, or
