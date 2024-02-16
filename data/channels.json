@@ -167,22 +167,6 @@
   "tags": []
 },
 {
-  "name": "offtopic-covid19",
-  "id": "CUR4UPEN4",
-  "description": "Temporary channel about COVID-19 virus.",
-  "notes": "",
-  "category": "social",
-  "tags": []
-},
-{
-  "name": "temp-war",
-  "id": "C034CM5UA5B",
-  "description": "Russia invasion of Ukraine",
-  "notes": "Temporal (hopefully) channel.",
-  "category": "social",
-  "tags": []
-},
-{
   "name": "systems-devops",
   "id": "C2WTP1ZMW",
   "description": "Everything related to systems and devops.",
