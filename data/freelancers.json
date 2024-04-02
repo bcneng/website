@@ -284,5 +284,16 @@
        "skills": ["JavaScript", "TypeScript", "PHP", "Python", "Rust", "Node", "PostgreSQL", "MySQL", "gRPC", "GraphQL", "Docker", "Kubernetes", "GCP", "AWS", "Microservices", "CI/CD", "TDD", "DDD", "Architecture"],
        "availability_hours_week": {"min": 1, "max": 16},
        "pricing_model": "Hourly (from 70€ to 120€/h, better rates for bigger projects)"
+    },
+    {
+       "slack_name": "@Jose Valderrama",
+       "slack_member_id": "U06K4LTR1NV",
+       "full_name": "José Valderrama",
+       "web": "https://github.com/JValderramaN",
+       "linkedin_handler": "josevalderrama92",
+       "services": "10+ years SwiftUI | iOS iPadOS macOS watchOS tvOS visionOS",
+       "skills": ["Swift", "Objective-C", "UIKit", "SwiftUI", "Async/Await", "Combine", "RxSwift", "CI/CD", "TDD", "Architecture"],
+       "availability_hours_week": {"min": 1, "max": 40},
+       "pricing_model": "Hourly | Milestones | Fixed price"
     }
 ]
