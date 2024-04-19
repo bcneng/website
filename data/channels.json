@@ -703,14 +703,6 @@
   "tags": []
 },
 {
-  "name": "joppy",
-  "id": "CHK85G9RP",
-  "description": "Sitio de encuentro para la gente interesada en http://www.joppy.me",
-  "notes": "",
-  "category": "business",
-  "tags": []
-},
-{
   "name": "is-it-down",
   "id": "C036V7VNPB3",
   "description": "Check or tell when a cloud service, website, or app is down. Requests for adding/removing feeds to #ask-staff. Sponsored by EagleStatus.io",
