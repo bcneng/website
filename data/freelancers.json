@@ -295,5 +295,16 @@
        "skills": ["Swift", "Objective-C", "UIKit", "SwiftUI", "Async/Await", "Combine", "RxSwift", "CI/CD", "TDD", "Architecture"],
        "availability_hours_week": {"min": 1, "max": 40},
        "pricing_model": "Hourly | Milestones | Fixed price"
+    },
+    {
+       "slack_name": "@Carlos López",
+       "slack_member_id": "U06RYMRARPH",
+       "full_name": "Carlos López Gil",
+       "web": "https://jcarloslopez.com",
+       "linkedin_handler": "jcarloslopezgil",
+       "services": "Full-stack development, Software engineering. MVPs for startups",
+       "skills": ["Node", "React", "Ruby on Rails", "AWS", "Docker", "MongoDB", "PostgreSQL", "Terraform", "Microservices", "JavaScript", "Typescript", "Tailwind"],
+       "availability_hours_week": {"min": 2, "max": 40},
+       "pricing_model": "Depending on the service requested"
     }
 ]
