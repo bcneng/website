@@ -687,14 +687,6 @@
   "tags": []
 },
 {
-  "name": "codelytv",
-  "id": "C2ZT018DA",
-  "description": "Debatir cualquier cosilla que veáis en los vídeos de codely.tv, sugerir material para nuevos vídeos, propuestas, whatever :D",
-  "notes": "",
-  "category": "business",
-  "tags": []
-},
-{
   "name": "krakend",
   "id": "C4EQ5M01Y",
   "description": "KrakenD is a high-performance API Gateway that provides a middle layer between the client apps and the backend services.",
