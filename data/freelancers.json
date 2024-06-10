@@ -317,5 +317,16 @@
       "skills": ["Python", "FastAPI", "PyTorch", "JAX", "GPU", "AWS", "Terraform", "K8s"],
       "availability_hours_week": {"min": 1, "max": 16},
       "pricing_model": "Hourly, depending on the service requested. Exceptionally fixed price."
+   },
+   {
+      "slack_name": "@Sara",
+      "slack_member_id": "U06C305TTBR",
+      "full_name": "Sara Víctor",
+      "web": "",
+      "linkedin_handler": "saravictorfernandez",
+      "services": "Mobile Application and React development services",
+      "skills": ["Frontend", "Testing", "Architecture", "TypeScript", "React", "Android", "iOS", "Java", "Kotlin", "Mobile Apps"],
+      "availability_hours_week": {"min": 1, "max": 8},
+      "pricing_model": "Hourly | Milestones | Fixed price"
    }
 ]
