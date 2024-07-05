@@ -328,5 +328,16 @@
       "skills": ["Frontend", "Testing", "Architecture", "TypeScript", "React", "Android", "iOS", "Java", "Kotlin", "Mobile Apps"],
       "availability_hours_week": {"min": 1, "max": 8},
       "pricing_model": "Hourly | Milestones | Fixed price"
+   },
+   {
+      "slack_name": "@mrgnw",
+      "slack_member_id": "U060PKAGW4S",
+      "full_name": "Morgan Williams",
+      "web": "https://morganwill.com",
+      "linkedin_handler": "mrgnw",
+      "services": "Full-stack data & software engineering: data architectures, API's, web sites",
+      "skills": ["Data", "Backend", "Python", "PostgreSQL", "ETL", "Docker", "Dagster", "FastAPI", "Svelte"],
+      "availability_hours_week": {"min": 1, "max": 30},
+      "pricing_model": "Hourly | Weekly | Milestones"
    }
 ]
