@@ -65,7 +65,6 @@ Lots of people have and are helping too. A special shout-out to (alphabetically 
 - [Carles Núñez Tomeo](https://www.linkedin.com/in/carles-nunez-tomeo/) ([@Carles Nuñez Tomeo](https://bcneng.slack.com/team/UGPRV963X))
 - [Manuel Obregozo](https://www.manuelobregozo.com/) ([@Manu Obre](https://bcneng.slack.com/team/UUPUNRWKZ))
 - [José Luis Peña de San Victor](https://www.linkedin.com/in/joseluispenadesanvictor/) ([@koe](https://bcneng.slack.com/team/U7PQZMZ4L))
-- [Victor Ribero Guasch](https://www.linkedin.com/in/devictoribero/) ([@devictoribero](https://bcneng.slack.com/team/UDB4WEC03))
 - [Uriel Salischicker](https://www.linkedin.com/in/urielsalis/) ([@Uriel Salischiker](https://bcneng.slack.com/team/UFW0A1GV8))
 - [Álvaro Salvá](https://www.linkedin.com/in/asalva/) ([@redbaron](https://bcneng.slack.com/team/U40KDVDQF))
 - [Antonio Santiago](https://www.linkedin.com/in/acanimal/) ([@acanimal](https://bcneng.slack.com/team/UB82Y3A3W))
