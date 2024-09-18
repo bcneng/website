@@ -42,7 +42,7 @@ ensure everything ran smoothly. Here is the staff team:
 - [Gonzalo Serrano](https://gon.cat) ([@gonzaloserrano](https://bcneng.slack.com/team/U2Y6QQHST)), Software Engineer at Tetrate
 - [Mavi Jiménez Fernández](https://www.linkedin.com/in/mavijimenez/) ([@mavi](https://bcneng.slack.com/team/U3256HZH9)), Software Developer and Team Lead at Seat:Code
 - [Sergio de Candelario Delgado](https://www.linkedin.com/in/sdecandelario/) ([@sdecandelario](https://bcneng.slack.com/team/U36H6F3CN)), Senior Backend Engineer at Socialpoint
-- [Sergio Moya](https://www.linkedin.com/in/smoya/) ([@smoya](https://bcneng.slack.com/team/U2WPLA0KA)), Lead Software Engineer at Postman (AsyncAPI Initiative)
+- [Sergio Moya](https://www.linkedin.com/in/smoya/) ([@smoya](https://bcneng.slack.com/team/U2WPLA0KA)), doing AI at Timescale
 - [Ronny López](https://www.linkedin.com/in/ronnylt/) ([@ronnylt](https://bcneng.slack.com/team/U2XDM2L0G)), Technology Advisor and Software Engineer
 
 #### Distinguished members
