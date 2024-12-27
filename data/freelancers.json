@@ -339,5 +339,16 @@
       "skills": ["Data", "Backend", "Python", "PostgreSQL", "ETL", "Docker", "Dagster", "FastAPI", "Svelte"],
       "availability_hours_week": {"min": 1, "max": 30},
       "pricing_model": "Hourly | Weekly | Milestones"
+   },
+   {
+      "slack_name": "@Sergi Olives",
+      "slack_member_id": "U0574E8P339",
+      "full_name": "Sergi Olives",
+      "web": "https://www.linkedin.com/in/sergiolives/",
+      "linkedin_handler": "sergiolives",
+      "services": "Consulting, Software Engineering, Agile Coaching and Training.",
+      "skills": ["Fullstack", "Testing", "Java", "Spring", "React"],
+      "availability_hours_week": {"min": 1, "max": 20},
+      "pricing_model": "50€/h | Variable depending on project length"
    }
 ]
