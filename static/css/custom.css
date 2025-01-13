@@ -159,6 +159,31 @@ li {
   }
 }
 
+
+.project-logos {
+  display: flex;
+  flex-wrap: wrap;
+}
+.project-logos a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.project-logo-image {
+  width: 200px;
+  margin: 0 75px 25px 0;
+}
+
+@media (max-width: 575px) {
+  .project-logos {
+    justify-content: center;
+  }
+  .project-logo-image {
+	margin: 0 0 25px 0;
+  }
+}
+
 #home,
 .navbar-dark .navbar-nav .nav-link {
   color: hsla(0, 0%, 100%, 0.8);
