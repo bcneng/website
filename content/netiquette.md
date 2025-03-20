@@ -47,6 +47,7 @@ Spam is not allowed in any channel. That includes:
 - Posting lots of messages (for our own definition of "lots")
 - Company advertising -- only fully open source initiatives are allowed, we don't want to be a platform for private companies to make money
 - Any service offering, including consultancy and others, except on the #contractors-freelancers channel.
+- Referral links -- they can be shared via direct message upon request, and offered in the thread with a disclaimer, but only if they are mutually beneficial. 
 
 The administrators reserve the rights to:
 - Remove abusive and/or spam comments
