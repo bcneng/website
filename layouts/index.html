@@ -4,13 +4,12 @@
     <div class="hero row">
         <div class="col position-relative py-lg-2">
             {{- with .Site.Params.homepageImage -}}
-				<div class="homepage-image zoomInDown" >
-					<a href="https://slack.bcneng.org">
-						<img src="{{ . | relURL }}" class="mask-image img-fluid"></a>
-						<div class="shine-effect"></div>
-					</a>
-                </div>
-
+            <div class="homepage-image zoomInDown" >
+                <a href="https://slack.bcneng.org">
+                    <img src="{{ . | relURL }}" class="mask-image img-fluid"></a>
+                    <div class="shine-effect"></div>
+                 </a>
+            </div>
             {{- end -}}
 
             <h1 class="display-4">{{ .Site.Title }}</h1>
@@ -28,6 +27,14 @@
                 <li><a href="/coc">Our Code of Conduct</a></li>
             </ul>
 
+            <h3>Projects</h3>
+            <p>List of projects hosted by BCN Engineering and managed by community members. </p>
+            <div class="project-logos" aria-label="List of projects hosted by BCN Engineering">
+                <a href="https://step4ward.es/">
+                    <img src="images/project-logos/step4ward-logo.webp" class="img-fluid project-logo-image" alt="Step4ward logo">
+                </a>
+            </div>
+
             <h3>Freelancers</h3>
             If you are looking for IT services, take a look at our <a
                 href="/freelancers">freelancers database</a> where you will
@@ -43,8 +50,9 @@
             </div>
 
             <h3>Contributors</h3>
-			Thanks to these community members for helping us.
-			<script src='https://opencollective.com/bcneng/banner.js?style={"a":{"display":"none"}, "h2":{"display":"none"}}'></script>
+            Thanks to these community members for helping us.
+            <script src='https://opencollective.com/bcneng/banner.js?style={"a":{"display":"none"}, "h2":{"display":"none"}}'></script>
+
             <h3>Sponsors</h3>
             <p>Thanks to these organizations for helping us.</p>
             <div class="sponsor-logos">
@@ -64,14 +72,6 @@
                     <img src="/images/sponsor-logos/truffle.png" class="img-fluid sponsor-logo-image" alt="Truffle logo">
                 </a>
             </div>
-
-            <h3>Projects</h3>
-            <p>List of projects hosted by BCN Engineering and managed by community members. </p>
-            <div class="project-logos" aria-label="List of projects hosted by BCN Engineering">
-                <a href="https://step4ward.es/">
-                    <img src="images/project-logos/step4ward-logo.webp" class="img-fluid project-logo-image" alt="Step4ward logo">
-                </a>
-                </div>
         </div>
     </div>
 
