@@ -350,5 +350,16 @@
       "skills": ["Fullstack", "Testing", "Java", "Spring", "React"],
       "availability_hours_week": {"min": 1, "max": 20},
       "pricing_model": "50€/h | Variable depending on project length"
+   },
+   {
+      "slack_name": "@ber2",
+      "slack_member_id": "U01AJL86W84",
+      "full_name": "Alberto Camara",
+      "web": "https://ber2.github.io/",
+      "linkedin_handler": "alberto-camara",
+      "services": "Data Science, ML Engineering, Data Visualization & Storytelling, NLP, Deep Learning, Bayesian Inference",
+      "skills": ["Data", "Python", "Scikit-learn", "Tensorflow", "Torch", "Pandas", "Polars", "Scala", "Apache Spark", "SQL"],
+      "availability_hours_week": {"min": 1, "max": 20},
+      "pricing_model": "Hourly | Weekly | Milestones"
    }
 ]
