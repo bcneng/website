@@ -4,18 +4,18 @@
     <div class="hero row">
         <div class="col position-relative py-lg-2">
             {{- with .Site.Params.homepageImage -}}
-				<div class="homepage-image zoomInDown" >
-					<a href="https://slack.bcneng.org">
-						<img src="{{ . | relURL }}" class="mask-image img-fluid"></a>
-						<div class="shine-effect"></div>
-					</a>
+                <div class="homepage-image zoomInDown" >
+                    <a href="https://slack.bcneng.org">
+                        <img src="{{ . | relURL }}" class="mask-image img-fluid"></a>
+                        <div class="shine-effect"></div>
+                    </a>
                 </div>
 
             {{- end -}}
 
             <h1 class="display-4">{{ .Site.Title }}</h1>
-            <p>We are an online community built by and for the software engineering community from Barcelona and nearby.</p>
-            <p>Our <a href="/about">mission</a> is to transform Barcelona into one of the most vibrant and dynamic tech communities worlwide.</p>
+            <p>We are an online community established by and for the software engineering professionals in Barcelona and surronding areas.</p>
+            <p>Our <a href="/about">mission</a> is to elevate Barcelona into a leading global hub for technology and innovation.</p>
             <p class="button-wrapper">
                 <a href="https://slack.bcneng.org" target="_blank">
                     <button type="button" class="btn btn-dark">JOIN NOW&nbsp; 🚀</button>
@@ -29,24 +29,33 @@
             </ul>
 
             <h3>Freelancers</h3>
-            If you are looking for IT services, take a look at our <a
+            If you are seeking IT services, please consult our <a
                 href="/freelancers">freelancers database</a> where you will
-            find individuals from our community with a wide range of skills
-            that can help you achieve your projects.
+            find skilled individuals from our community capable of supporting your project requirements.
 
             <h3>Sponsorship</h3>
-            <p>We are a non-profit organization. If you want to support us, you can do it so via <a href="https://opencollective.com/how-it-works" target="_blank">Open Collective</a>.</p>
-            <div class="button-wrapper">
-                <a href="https://opencollective.com/bcneng/donate" target="_blank">
-                    <button type="button" class="btn btn-dark">DONATE <i class="open-collective"></i></button>
+            <p>As a non-profit organization, we welcome financial support through <a href="https://opencollective.com/how-it-works" target="_blank">Open Collective</a>.
+            <p>
+              <a href="https://opencollective.com/bcneng/donate" target="_blank">
+                  <button type="button" class="btn btn-dark">DONATE <i class="open-collective"></i></button>
+              </a>
+            </p>
+            <p>Thanks to the following individuals for contributing to BcnEng:</p>
+
+            <object type="image/svg+xml" data="https://opencollective.com/bcneng/individuals.svg?avatarHeight=60&width=1200"></object>
+
+            <h3>Community Projects</h3>
+            <div class="project-logos" aria-label="List of projects hosted by BCN Engineering">
+                <a href="https://step4ward.es/">
+                    <img src="images/project-logos/step4ward-logo.webp" class="img-fluid project-logo-image" alt="Step4ward logo">
                 </a>
             </div>
+            <a href="https://step4ward.es/">Step4ward</a> is an initiative by experienced tech sector mentors in Spain, focused on assisting women in commencing or advancing their technology careers. Founded by women, for women, this program has been operational since May 2021.</p>
+            <p>Thanks to the following individuals for contributing to Step4ward:</p>
+            <object type="image/svg+xml" data="https://opencollective.com/step4ward/individuals.svg?avatarHeight=60&width=1200"></object>
 
-            <h3>Contributors</h3>
-			Thanks to these community members for helping us.
-			<script src='https://opencollective.com/bcneng/banner.js?style={"a":{"display":"none"}, "h2":{"display":"none"}}'></script>
-            <h3>Sponsors</h3>
-            <p>Thanks to these organizations for helping us.</p>
+            <h3>Exterprise Sponsors</h3>
+            <p>We extend our gratitude to these organizations for their support.</p>
             <div class="sponsor-logos">
                 <a href="https://slack.com/">
                     <img src="/images/sponsor-logos/slack.webp" class="img-fluid sponsor-logo-image" alt="Slack logo">
@@ -64,14 +73,6 @@
                     <img src="/images/sponsor-logos/truffle.png" class="img-fluid sponsor-logo-image" alt="Truffle logo">
                 </a>
             </div>
-
-            <h3>Projects</h3>
-            <p>List of projects hosted by BCN Engineering and managed by community members. </p>
-            <div class="project-logos" aria-label="List of projects hosted by BCN Engineering">
-                <a href="https://step4ward.es/">
-                    <img src="images/project-logos/step4ward-logo.webp" class="img-fluid project-logo-image" alt="Step4ward logo">
-                </a>
-                </div>
         </div>
     </div>
 

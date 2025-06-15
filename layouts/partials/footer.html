@@ -56,3 +56,38 @@
         </div>
     </div>
 </footer>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const openCollectiveObjects = document.querySelectorAll('object[data*="opencollective.com"]');
+    const mobileBreakpoint = 575;
+
+    function updateObjectDataUrls() {
+        const screenWidth = window.innerWidth;
+        let targetWidth;
+
+        if (screenWidth < mobileBreakpoint) {
+            targetWidth = 360;
+        } else {
+            targetWidth = 1200;
+        }
+
+        openCollectiveObjects.forEach(obj => {
+            let currentDataUrl = obj.getAttribute('data');
+            // Regex to find and replace the width parameter
+            let newDataUrl = currentDataUrl.replace(/width=\d+/, 'width=' + targetWidth);
+
+            if (obj.getAttribute('data') !== newDataUrl) {
+                obj.setAttribute('data', newDataUrl);
+            }
+        });
+    }
+
+    updateObjectDataUrls();
+
+    let resizeTimer;
+    window.addEventListener('resize', function() {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(updateObjectDataUrls, 250);
+    });
+});
+</script>
