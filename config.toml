@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "BCN Engineering"
 description = "By engineers, for engineers."
 theme = "chunky-poster"
-paginate = 2
+pagination.pagerSize = 2
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 googleAnalytics = "UA-161944690-1"
@@ -76,5 +76,5 @@ author = "authors"
   [services.instagram]
     disableInlineCSS = false
 
-  [services.twitter]
+  [services.x]
     disableInlineCSS = true
