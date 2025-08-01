@@ -361,5 +361,16 @@
       "skills": ["Data", "Python", "Scikit-learn", "Tensorflow", "Torch", "Pandas", "Polars", "Scala", "Apache Spark", "SQL"],
       "availability_hours_week": {"min": 1, "max": 20},
       "pricing_model": "Hourly | Weekly | Milestones"
+   },
+   {
+      "slack_name": "@Léon",
+      "slack_member_id": "U01GYCVC1V5",
+      "full_name": "Léon Hollender",
+      "web": "",
+      "linkedin_handler": "leonhollender",
+      "services": "Backend and full-stack software engineering",
+      "skills": ["Go", "TypeScript", "SQL", "AWS", "Terraform", "Kubernetes", "CI/CD", "Github Actions", "Databases (PostgreSQL, MongoDB, DynamoDB...)", "Node", "React", "TDD"],
+      "availability_hours_week": {"min": 1, "max": 30},
+      "pricing_model": "Hourly | Daily | Milestones | Fixed Price"
    }
 ]
