@@ -1,3 +1,7 @@
+:root {
+  --space-unit: 1rem;
+}
+
 html {
   background: linear-gradient(to bottom, #333333 50%, #ffffff 50%);
 }
@@ -13,13 +17,18 @@ html {
 .homepage h1,
 .homepage h2,
 .homepage h3 {
-  margin-bottom: 0.75rem;
+  margin-top: var(--space-unit);
+  margin-bottom: var(--space-unit);
 }
 .homepage h3 {
-  margin-top: 2.5rem;
+  margin-top: calc(2 * var(--space-unit));
 }
 .link-list {
-  margin-top: -1rem;
+  margin-top: 0;
+  margin-bottom: var(--space-unit);
+}
+.homepage p {
+  margin-bottom: var(--space-unit);
 }
 p,
 li {
@@ -32,7 +41,7 @@ li {
     background-color: #333;
     color: white;
     padding: 0.2em 0.4em 0 0.3em;
-    margin-bottom: 0.5em;
+    margin-bottom: var(--space-unit);
   }
 
   .homepage-image {
@@ -120,7 +129,8 @@ li {
 .opencollective-banner {
   display: flex;
   justify-content: left;
-  margin: 0px 0 -50px 0;
+  margin-top: var(--space-unit);
+  margin-bottom: var(--space-unit);
 }
 .opencollective-banner iframe {
   width: 100%;
@@ -128,7 +138,8 @@ li {
 @media (max-width: 575px) {
   .opencollective-banner {
     display: block;
-    margin: 0 0 -50px 0;
+    margin-top: var(--space-unit);
+    margin-bottom: var(--space-unit);
   }
   .opencollective-banner iframe {
     width: 100%;
