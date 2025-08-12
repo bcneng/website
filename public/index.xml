@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BCN Engineering</title>
+    <link>https://bcneng.org/</link>
+    <description>Recent content on BCN Engineering</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://bcneng.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://bcneng.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bcneng.org/about/</guid>
+      <description>The Mission BcnEng is a non-profit organization whose mission is to let Barcelona&amp;rsquo;s tech hub become one of the best tech communities around the globe.&#xA;How?&#xA;Promoting and spreading technical knowledge Enhancing personal and professional relationships in a frame of diversity Foment training among the community We will do that keeping our values:&#xA;Transparency Community-driven Diversity Open-source The History BcnEng&amp;rsquo;s Slack started as a solution for a communication problem between two ex-colleagues (Sergio Moya and Gonzalo Serrano) that worked in the same team in a Barcelona startup for years but parted ways for new jobs in November 2016.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://bcneng.org/coc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bcneng.org/coc/</guid>
+      <description>Code of Conduct Introduction Welcome to BcnEng&amp;rsquo;s Code of Conduct.&#xA;This document can change over time. The administrators will publish its updates on the #general channel. To join this community you agree to it&amp;rsquo;s contents. If you don&amp;rsquo;t, you must logout and delete your account.&#xA;You can propose improvements to this document by communicating them in the #ask-staff channel or opening a pull request.&#xA;Our Pledge We as members, contributors, and admins pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://bcneng.org/netiquette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bcneng.org/netiquette/</guid>
+      <description>BCN Engineering Netiquette Welcome to BcnEng&amp;rsquo;s netiquette.&#xA;This document can change over time. The administrators will publish its updates on the #general channel. To join this community you agree to it&amp;rsquo;s contents. If you don&amp;rsquo;t, you must logout and delete your account.&#xA;You can propose improvements to this document by communicating them in the #ask-staff channel or opening a pull request.&#xA;Definition From wikipedia:&#xA;Netiquette [&amp;hellip;] is a set of social conventions that facilitate interaction over networks [&amp;hellip;]</description>
+    </item>
+    <item>
+      <title>Channels</title>
+      <link>https://bcneng.org/channels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bcneng.org/channels/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freelancers</title>
+      <link>https://bcneng.org/freelancers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bcneng.org/freelancers/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

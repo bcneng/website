@@ -1,0 +1,120 @@
+.channel_name {
+	font-family: "Teko", sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+	color: #444;
+}
+
+.tablewrapper {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.card {
+	cursor: pointer;
+	width: 345px;
+	background-color: #fafafa;
+	margin: 0 1em 1em 0;
+	padding: 1em;
+}
+
+.card:hover {
+	box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+	.card {
+		width: 327px;
+	}
+}
+@media (max-width: 575px) {
+	.tablewrapper {
+		justify-content: center;
+	}
+	.card {
+		margin: 0 0 1em 0;
+	}
+}
+
+.card__name {
+	font-family: "Teko", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+	color: #444;
+}
+
+.card__description {
+	margin: 0.33em 0;
+	font-size: 0.9em;
+}
+
+.card__notes {
+	margin: 0.33em 0;
+	font-size: 0.9em;
+	font-style: italic;
+}
+
+.card__tags {
+	margin-bottom: 0.33em;
+}
+
+.card__core {
+	border: 1px solid #3c979a;
+	border-left: 12px solid #3c979a;
+}
+.card__hr {
+	border: 1px solid #a3e6c1;
+	border-left: 12px solid #a3e6c1;
+}
+.card__social {
+	border: 1px solid #bad99a;
+	border-left: 12px solid #bad99a;
+}
+.card__tech {
+	border: 1px solid #ebcb73;
+	border-left: 12px solid #ebcb73;
+}
+.card__events {
+	border: 1px solid #FFDCB6;
+	border-left: 12px solid #FFDCB6;
+}
+.card__languages {
+	border: 1px solid #f5b840;
+	border-left: 12px solid #f5b840;
+}
+.card__business {
+	border: 1px solid #e68d2d;
+	border-left: 12px solid #e68d2d;
+}
+.card__non-tech {
+	border: 1px solid #5f7847;
+	border-left: 12px solid #5f7847;
+}
+.card__automation {
+	border: 1px solid #3c979a;
+	border-left: 12px solid #3c979a;
+}
+.card__frontend {
+	border: 1px solid #19A7CE;
+	border-left: 12px solid #19A7CE;
+}
+.card__systems {
+	border: 1px solid #643A6B;
+	border-left: 12px solid #643A6B;
+}
+.card__soft-skills {
+	border: 1px solid #146C94;
+	border-left: 12px solid #146C94;
+}
+.card__others {
+	border: 1px solid #E49393;
+	border-left: 12px solid #E49393;
+}
+
+.tag {
+	font-size: 0.8em;
+	border: 1px solid #666;
+	border-radius: 5px;
+	padding: 0.2em 0.4em;
+	background-color: #f1f1f1;
+}
