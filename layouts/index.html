@@ -4,13 +4,11 @@
     <div class="hero row">
         <div class="col position-relative py-lg-2">
             {{- with .Site.Params.homepageImage -}}
-                <div class="homepage-image zoomInDown" >
+                <div class="homepage-image">
                     <a href="https://slack.bcneng.org">
-                        <img src="{{ . | relURL }}" class="mask-image img-fluid"></a>
-                        <div class="shine-effect"></div>
+                        <img src="{{ . | relURL }}" class="mask-image img-fluid" alt="BCN Engineering Logo">
                     </a>
                 </div>
-
             {{- end -}}
 
             <h1 class="display-4">{{ .Site.Title }}</h1>
