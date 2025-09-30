@@ -63,6 +63,30 @@
   "tags": []
 },
 {
+  "name": "health",
+  "id": "C04KZ1AQDUM",
+  "description": "General health channel. Ask, share resources, experiences, and insights related to maintaining good health in general.",
+  "notes": "",
+  "category": "health",
+  "tags": ["anonymous-enabled"]
+},
+{
+  "name": "health-disability",
+  "id": "C04KZ1AQDUM",
+  "description": "Place for people who suffer any kind of disability or any disabling disease (autoimmune diseases, chronic fatigue, endometriosis, etc) to share doubts related to work (legal, HR, etc) but also share experiences, and empower each other.",
+  "notes": "",
+  "category": "health",
+  "tags": ["anonymous-enabled"]
+},
+{
+  "name": "health-mental",
+  "id": "C058RSSMVDZ",
+  "description": "Health disability/disease related channel.",
+  "notes": "While this channel is a safe space, it is not a substitute for professional medical advice or therapy. If you are in need of immediate support, please reach out to a licensed mental health professional or a crisis helpline",
+  "category": "health",
+  "tags": ["anonymous-enabled"]
+},
+{
   "name": "offtopic-women",
   "id": "C31920P0U",
   "description": "Discusión para mujeres y gente no-binaria.",
@@ -91,22 +115,6 @@
   "id": "C365HB7JP",
   "description": "How to raise a child from the geek perspective.",
   "notes": "",
-  "category": "social",
-  "tags": ["anonymous-enabled"]
-},
-{
-  "name": "health-disability",
-  "id": "C04KZ1AQDUM",
-  "description": "Place for people who suffer any kind of disability or any disabling disease (autoimmune diseases, chronic fatigue, endometriosis, etc) to share doubts related to work (legal, HR, etc) but also share experiences, and empower each other.",
-  "notes": "",
-  "category": "social",
-  "tags": ["anonymous-enabled"]
-},
-{
-  "name": "health-mental",
-  "id": "C058RSSMVDZ",
-  "description": "Share resources, experiences, and insights related to maintaining good mental health, managing stress, and finding balance in your personal and professional life.",
-  "notes": "While this channel is a safe space, it is not a substitute for professional medical advice or therapy. If you are in need of immediate support, please reach out to a licensed mental health professional or a crisis helpline",
   "category": "social",
   "tags": ["anonymous-enabled"]
 },

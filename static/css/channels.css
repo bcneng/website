@@ -110,6 +110,10 @@
 	border: 1px solid #E49393;
 	border-left: 12px solid #E49393;
 }
+.card__health {
+	border: 1px solid #D46A6A;
+	border-left: 12px solid #D46A6A;
+}
 
 .tag {
 	font-size: 0.8em;
