@@ -372,5 +372,16 @@
       "skills": ["Go", "TypeScript", "SQL", "AWS", "Terraform", "Kubernetes", "CI/CD", "Github Actions", "Databases (PostgreSQL, MongoDB, DynamoDB...)", "Node", "React", "TDD"],
       "availability_hours_week": {"min": 1, "max": 30},
       "pricing_model": "Hourly | Daily | Milestones | Fixed Price"
+   },
+   {
+      "slack_name": "@adriantunez",
+      "slack_member_id": "U082Y5XRCBG",
+      "full_name": "Adri Antunez",
+      "web": "https://adriantunez.cloud",
+      "linkedin_handler": "adriantunez",
+      "services": "DevOps, AWS Cloud Architect, and Platform Engineer",
+      "skills": ["AWS", "Terraform/AWS CDK/Ansible", "Kubernetes", "GitOps", "ArgoCD/Helm", "Github/Gitlab", "Datadog/Grafana", "Python/Node/Go"],
+      "availability_hours_week": {"min": 1, "max": 20},
+      "pricing_model": "Hourly rate: €80–€120/h, depending on project length"
    }
 ]
