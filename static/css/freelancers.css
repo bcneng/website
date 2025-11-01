@@ -1,3 +1,74 @@
+.freelancers-width {
+	max-width: calc(3 * (345px + 1em));
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+	.freelancers-width {
+		max-width: calc(3 * (327px + 1em));
+	}
+}
+
+@media (max-width: 767px) {
+	.freelancers-width {
+		max-width: 100%;
+	}
+}
+
+.info-boxes {
+	margin-bottom: 1.5em;
+}
+
+.info-box {
+	background-color: #fafafa;
+	border: 1px solid #e0e0e0;
+	border-radius: 5px;
+	padding: 1.2em 1.5em;
+	height: 100%;
+	position: relative;
+}
+
+.info-box p {
+	margin: 0 0 0.5em 0;
+	line-height: 1.6;
+	font-size: 1.05em;
+}
+
+.info-box p:last-child {
+	margin-bottom: 0;
+}
+
+.info-box a {
+	font-weight: 700;
+	color: #333;
+	text-decoration: none;
+	border-bottom: 2px solid #333;
+	padding-bottom: 1px;
+}
+
+.howto-steps {
+	margin: 0.5em 0 0 0;
+	padding-left: 1.5em;
+	font-size: 0.95em;
+	line-height: 1.5;
+}
+
+.howto-steps li {
+	margin-bottom: 0.4em;
+}
+
+.howto-steps li:last-child {
+	margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+	.info-boxes .col-md-6 {
+		margin-bottom: 1em;
+	}
+	.info-boxes .col-md-6:last-child {
+		margin-bottom: 0;
+	}
+}
+
 .tablewrapper {
 	display: flex;
 	flex-wrap: wrap;
@@ -5,9 +76,11 @@
 
 .card {
 	width: 345px;
-	background-color: #fafafa;
+	background-color: #fff;
+	border: 1px solid #e0e0e0;
+	border-radius: 8px;
 	margin: 0 1em 1em 0;
-	padding: 1em;
+	padding: 1.5em;
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -28,44 +101,78 @@
 	font-family: "Teko", sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.02em;
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid #f0f0f0;
 }
 
 .card__services {
-	margin: 0.33em 0;
-	font-size: 0.9em;
+	margin: 0.75em 0;
+	font-size: 0.95em;
 	font-style: italic;
+	color: #555;
+	line-height: 1.5;
 }
 
 .card__skills {
-	margin-bottom: 0.33em;
+	margin: 1em 0;
 }
 
 .skill {
 	font-size: 0.8em;
-	border: 1px solid;
+	border: 1px solid #ddd;
+	border-left: 3px solid #4a90e2;
 	border-radius: 5px;
-	padding: 0.2em 0.4em;
+	padding: 0.2em 0.4em 0.2em 0.5em;
+	margin-right: 0.3em;
+	margin-bottom: 0.3em;
+	transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+	cursor: pointer;
+	outline: none;
+	display: inline-block;
+	max-width: 200px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle;
+}
+
+.skill:hover {
+	border-color: transparent;
+	transform: translateY(-1px);
+}
+
+.skill:focus {
+	outline: none;
 }
 
 .card__availability {
-	margin-bottom: 0.33em;
+	margin: 1em 0 0.5em 0;
+	padding-top: 1em;
+	border-top: 1px solid #f0f0f0;
+	font-size: 0.9em;
 }
 
 .time {
-	font-size: 0.8em;
-	padding: 0.2em 0.4em;
+	font-weight: 600;
 }
 
 .card__pricing {
-	margin-bottom: 0.66em;
+	margin: 0.5em 0 1em 0;
+	font-size: 0.9em;
 }
 
 .pricing_model {
 	font-style: italic;
+	font-weight: 600;
 }
 
 .card__social {
-	font-size: 0.7em;
+	font-size: 0.8em;
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: 1px solid #f0f0f0;
 }
 
 .card__social .list-inline {
@@ -76,5 +183,41 @@
 
 .card__social li {
 	line-height: 1em;
+}
+
+.skill-cloud {
+	margin-bottom: 1.5em;
+	padding: 0.75em;
+	background-color: #fafafa;
+	border: 1px solid #e0e0e0;
+	border-radius: 5px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.35em;
+}
+
+.skill-tag {
+	font-size: 0.7em;
+	border: 1px solid #c3c3c3;
+	border-left: 3px solid #4a90e2;
+	border-radius: 5px;
+	padding: 0.3em 0.6em 0.3em 0.7em;
+	cursor: pointer;
+	transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+	background-color: white;
+	outline: none;
+}
+
+.skill-tag:focus {
+	outline: none;
+}
+
+.skill-tag:hover {
+	border-color: transparent;
+	transform: translateY(-2px) scale(1.05);
+}
+
+.skill-tag.active {
+	border-color: transparent;
 }
 
