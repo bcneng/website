@@ -11,16 +11,18 @@
         <div class="row info-boxes freelancers-width">
             <div class="col-md-6">
                 <div class="info-box">
-                    <p>Looking for talent? Join the <a href="https://bcneng.slack.com/archives/C6JH3Q69F">#contractors-freelancers</a> channel to connect with our community.</p>
+					<p>Looking for talent?</p>
+					<p>Explore our talent pool below.</p>
+					<p>Join the <a href="https://bcneng.slack.com/archives/C6JH3Q69F">#contractors-freelancers</a> channel to connect with our community.</p>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="info-box">
-                    <p>Looking for gigs? Add yourself:</p>
+                    <p>Looking for gigs?</p>
                     <ol class="howto-steps">
-                        <li><a href="https://moshfeu.medium.com/how-to-find-my-member-id-in-slack-workspace-d4bba942e38c" target="_blank" rel="noopener">Locate</a> your Slack member ID</li>
-                        <li>Edit the <a href="https://github.com/bcneng/website/edit/main/data/freelancers.json" target="_blank" rel="noopener">data source</a> and submit a pull request</li>
-                        <li>Your profile appears once approved</li>
+                        <li><a href="https://moshfeu.medium.com/how-to-find-my-member-id-in-slack-workspace-d4bba942e38c" target="_blank" rel="noopener">Locate</a> your Slack member ID.</li>
+                        <li>Edit the <a href="https://github.com/bcneng/website/edit/main/data/freelancers.json" target="_blank" rel="noopener">data source</a> and submit a Pull Request.</li>
+                        <li>Your profile appears once approved.</li>
                     </ol>
                 </div>
             </div>
@@ -42,7 +44,9 @@
                         {{ $skillLower := trim $skill " " | lower }}
                         {{ $skillNorm := $skillLower }}
 
-                        {{ if or (in $skillLower "postgres") (in $skillLower "mysql") (in $skillLower "sql") }}
+                        {{ if or (eq $skillLower ".net") (in $skillLower ".net") }}
+                            {{ $skillNorm = "dotnet" }}
+                        {{ else if or (in $skillLower "postgres") (in $skillLower "mysql") (in $skillLower "sql") }}
                             {{ $skillNorm = "relationaldb" }}
                         {{ else if in $skillLower "typescript" }}
                             {{ $skillNorm = "typescript" }}
@@ -111,6 +115,8 @@
                             {{ $displayName = "Spring" }}
                         {{ else if eq $normKey "node" }}
                             {{ $displayName = "Node" }}
+                        {{ else if eq $normKey "dotnet" }}
+                            {{ $displayName = ".Net" }}
                         {{ else }}
                             {{ $shortest := index $skillList 0 }}
                             {{ range $s := $skillList }}
@@ -127,21 +133,28 @@
                         {{ end }}
                     {{ end }}
 
-                    {{ $colors := slice "#4a90e2" "#e74c3c" "#2ecc71" "#f39c12" "#9b59b6" "#1abc9c" "#e67e22" "#3498db" "#c0392b" "#16a085" "#d35400" "#8e44ad" "#27ae60" "#e84393" "#fd79a8" "#00b894" "#0984e3" "#6c5ce7" "#fdcb6e" "#d63031" "#00cec9" "#ff7675" "#74b9ff" "#a29bfe" "#55efc4" "#ffeaa7" "#fab1a0" "#ff7979" "#e17055" "#81ecec" "#ff6b6b" "#4ecdc4" "#45b7d1" "#f7b731" "#5f27cd" "#00d2d3" "#ee5a6f" "#c44569" "#f8b500" "#6ab04c" "#eb4d4b" "#e056fd" "#686de0" "#f9ca24" "#eb3b5a" "#fc5c65" "#20bf6b" "#0fb9b1" "#26de81" "#45aaf2" "#4b7bec" "#a55eea" "#fa8231" "#fd9644" "#fed330" "#2bcbba" "#22a6b3" "#be2edd" "#4834d4" "#f0932b" "#6c5ce7" }}
+                    {{ $colors := slice "#e74c3c" "#3498db" "#2ecc71" "#f39c12" "#9b59b6" "#1abc9c" "#d35400" "#4a90e2" "#27ae60" "#fd79a8" "#00b894" "#e67e22" "#6c5ce7" "#fdcb6e" "#16a085" "#c0392b" "#0984e3" "#6ab04c" "#8e44ad" "#00cec9" "#eb4d4b" "#a29bfe" "#20bf6b" "#f7b731" "#d63031" "#74b9ff" "#26de81" "#55efc4" "#ff7675" "#81ecec" "#45b7d1" "#ffeaa7" "#a55eea" "#5f27cd" "#ff7979" "#00d2d3" "#e17055" "#4ecdc4" "#fab1a0" "#686de0" "#0fb9b1" "#fed330" "#ee5a6f" "#22a6b3" "#ff6b6b" "#be2edd" "#4b7bec" "#c44569" "#f9ca24" "#45aaf2" "#2bcbba" "#eb3b5a" "#26a69a" "#f8b500" "#4834d4" "#5dade2" "#fd9644" "#1e8449" "#fc5c65" "#e84393" "#f0932b" "#52b788" "#e056fd" "#3d5a80" "#7cb342" "#5e35b1" "#f06292" "#0288d1" "#ffb142" "#ef5350" "#6a1b9a" "#00acc1" "#66bb6a" "#ab47bc" "#7e57c2" "#ec407a" "#d4e157" "#29b6f6" "#9c27b0" "#ff7043" "#4db6ac" "#5c6bc0" "#ffa726" "#ff8a65" "#aed581" "#4fc3f7" "#ba68c8" "#ff6f00" "#dce775" "#4dd0e1" "#ce93d8" "#ffee58" "#9575cd" "#c5e1a5" "#8d6e63" "#ff5722" "#90caf9" "#a1887f" "#64b5f6" "#bcaaa4" "#78909c" "#ffb74d" "#4db380" "#7986cb" "#f4511e" "#26c6da" "#9e69af" "#cddc39" "#f57c00" "#00897b" "#5e35b1" "#fdd835" "#43a047" "#3949ab" "#e53935" "#00acc1" "#8e24aa" "#ffca28" "#00796b" "#1e88e5" "#d81b60" "#fbc02d" "#388e3c" "#303f9f" "#c62828" }}
                     {{ $skillColors := dict }}
                     {{ $colorIndex := 0 }}
+                    {{ $stride := 41 }}
 
                     {{ range $normKey, $skillList := $skillGroups }}
                         {{ $color := index $colors (mod $colorIndex (len $colors)) }}
-                        {{ range $s := $skillList }}
-                            {{ $skillColors = merge $skillColors (dict $s $color) }}
+                        {{ range $skillList }}
+                            {{ $skillColors = merge $skillColors (dict . $color) }}
                         {{ end }}
-                        {{ $colorIndex = add $colorIndex 1 }}
+                        {{ $colorIndex = add $colorIndex $stride }}
                     {{ end }}
 
                     {{ $index := 0 }}
                     {{ range $display, $originals := $displayedSkills }}
-                        {{ $color := index $skillColors (index $originals 0) }}
+                        {{ $color := "" }}
+                        {{ range $orig := $originals }}
+                            {{ $foundColor := index $skillColors $orig }}
+                            {{ if $foundColor }}
+                                {{ $color = $foundColor }}
+                            {{ end }}
+                        {{ end }}
                         <span class="skill-tag" data-skill="{{ $display }}" data-originals="{{ delimit $originals "||" }}" style="border-left-color: {{ $color }};">{{ title $display }}</span>
                         {{ $index = add $index 1 }}
                     {{ end }}
@@ -163,20 +176,45 @@
 
     <script>
         (function() {
+            // Helper function to convert hex to rgba
+            function hexToRgba(hex, alpha) {
+                const r = parseInt(hex.slice(1, 3), 16);
+                const g = parseInt(hex.slice(3, 5), 16);
+                const b = parseInt(hex.slice(5, 7), 16);
+                return `rgba(${r}, ${g}, ${b}, ${alpha})`;
+            }
+
             // Apply colors to all skills on page load and add click handlers
             if (window.skillColors) {
                 document.querySelectorAll('.skill[data-skill-name]').forEach(skillSpan => {
                     const skillName = skillSpan.getAttribute('data-skill-name');
-                    const color = window.skillColors[skillName];
+                    let color = window.skillColors[skillName];
+                    // If exact match not found, try case-insensitive search
+                    if (!color) {
+                        const skillNameLower = skillName.toLowerCase();
+                        for (const [key, value] of Object.entries(window.skillColors)) {
+                            if (key.toLowerCase() === skillNameLower) {
+                                color = value;
+                                break;
+                            }
+                        }
+                    }
                     if (color) {
+                        const lightColor = hexToRgba(color, 0.15);
+                        skillSpan.style.borderColor = lightColor;
                         skillSpan.style.borderLeftColor = color;
+                        skillSpan.style.backgroundColor = lightColor;
                         skillSpan.addEventListener('mouseenter', function() {
-                            this.style.backgroundColor = color;
+                            if (!this.classList.contains('highlighted')) {
+                                this.style.borderColor = color;
+                                this.style.borderLeftColor = color;
+                            }
                         });
                         skillSpan.addEventListener('mouseleave', function() {
-                            // Only reset if not highlighted
                             if (!this.classList.contains('highlighted')) {
-                                this.style.backgroundColor = '';
+                                const lightColor = hexToRgba(color, 0.15);
+                                this.style.borderColor = lightColor;
+                                this.style.borderLeftColor = color;
                             }
                         });
                         skillSpan.addEventListener('click', function() {
@@ -196,13 +234,25 @@
 
             // Add hover effect to skill tags in cloud
             document.querySelectorAll('.skill-tag').forEach(tag => {
-                const color = tag.style.borderLeftColor;
+                const computedColor = window.getComputedStyle(tag).borderLeftColor;
+                // Extract hex color from rgb/rgba format
+                const rgb = computedColor.match(/\d+/g);
+                const hexColor = rgb ? '#' + rgb.slice(0, 3).map(x => parseInt(x).toString(16).padStart(2, '0')).join('') : computedColor;
+                const lightColor = hexToRgba(hexColor, 0.15);
+                tag.style.borderColor = lightColor;
+                tag.style.borderLeftColor = hexColor;
+                tag.style.backgroundColor = lightColor;
+
                 tag.addEventListener('mouseenter', function() {
-                    this.style.backgroundColor = color;
+                    if (!this.classList.contains('active')) {
+                        this.style.borderColor = hexColor;
+                        this.style.borderLeftColor = hexColor;
+                    }
                 });
                 tag.addEventListener('mouseleave', function() {
                     if (!this.classList.contains('active')) {
-                        this.style.backgroundColor = '';
+                        this.style.borderColor = lightColor;
+                        this.style.borderLeftColor = hexColor;
                     }
                 });
             });
@@ -217,42 +267,34 @@
                     const originals = this.getAttribute('data-originals').split('||');
 
                     if (activeSkill === skill) {
-                        // Deselect if clicking the same skill - instant, no animation
+                        // Deselect if clicking the same skill
                         activeSkill = null;
                         this.classList.remove('active');
                         const originalLeftColor = this.style.borderLeftColor;
-                        this.style.transition = 'none';
-                        this.style.backgroundColor = '';
-                        this.style.border = '1px solid #c3c3c3';
-                        this.style.borderLeft = `3px solid ${originalLeftColor}`;
-                        this.style.color = '';
-                        this.style.transform = '';
-                        // Force reflow to apply the instant change
-                        this.offsetHeight;
-                        this.style.transition = '';
+                        const rgb = originalLeftColor.match(/\d+/g);
+                        const hexColor = rgb ? '#' + rgb.slice(0, 3).map(x => parseInt(x).toString(16).padStart(2, '0')).join('') : originalLeftColor;
+                        const lightColor = hexToRgba(hexColor, 0.15);
+                        this.style.borderColor = lightColor;
+                        this.style.borderLeftColor = hexColor;
                         showAllFreelancers();
                     } else {
-                        // Remove previous active state - instant
+                        // Remove previous active state
                         skillTags.forEach(t => {
                             t.classList.remove('active');
-                            if (!t.matches(':hover')) {
-                                const originalLeftColor = t.style.borderLeftColor;
-                                t.style.transition = 'none';
-                                t.style.backgroundColor = '';
-                                t.style.border = '1px solid #c3c3c3';
-                                t.style.borderLeft = `3px solid ${originalLeftColor}`;
-                                t.style.color = '';
-                                t.style.transform = '';
-                                t.offsetHeight;
-                                t.style.transition = '';
-                            }
+                            const originalLeftColor = t.style.borderLeftColor;
+                            const rgb = originalLeftColor.match(/\d+/g);
+                            const hexColor = rgb ? '#' + rgb.slice(0, 3).map(x => parseInt(x).toString(16).padStart(2, '0')).join('') : originalLeftColor;
+                            const lightColor = hexToRgba(hexColor, 0.15);
+                            t.style.borderColor = lightColor;
+                            t.style.borderLeftColor = hexColor;
                         });
 
-                        // Set new active skill - with animation
+                        // Set new active skill
                         activeSkill = skill;
                         this.classList.add('active');
                         const tagColor = this.style.borderLeftColor;
-                        this.style.backgroundColor = tagColor;
+                        this.style.borderColor = tagColor;
+                        this.style.borderLeftColor = tagColor;
                         filterFreelancers(originals);
                     }
                 });
@@ -280,11 +322,17 @@
                             skillSpan.classList.add('highlighted');
                             const color = window.skillColors[skillName] || window.skillColors[skillText];
                             if (color) {
-                                skillSpan.style.backgroundColor = color;
+                                skillSpan.style.borderColor = color;
+                                skillSpan.style.borderLeftColor = color;
                             }
                         } else {
                             skillSpan.classList.remove('highlighted');
-                            skillSpan.style.backgroundColor = '';
+                            const originalLeftColor = skillSpan.style.borderLeftColor;
+                            const rgb = originalLeftColor.match(/\d+/g);
+                            const hexColor = rgb ? '#' + rgb.slice(0, 3).map(x => parseInt(x).toString(16).padStart(2, '0')).join('') : originalLeftColor;
+                            const lightColor = hexToRgba(hexColor, 0.15);
+                            skillSpan.style.borderColor = lightColor;
+                            skillSpan.style.borderLeftColor = originalLeftColor;
                         }
                     });
                 });
@@ -298,7 +346,12 @@
                     const cardSkills = card.querySelectorAll('.skill');
                     cardSkills.forEach(skillSpan => {
                         skillSpan.classList.remove('highlighted');
-                        skillSpan.style.backgroundColor = '';
+                        const originalLeftColor = skillSpan.style.borderLeftColor;
+                        const rgb = originalLeftColor.match(/\d+/g);
+                        const hexColor = rgb ? '#' + rgb.slice(0, 3).map(x => parseInt(x).toString(16).padStart(2, '0')).join('') : originalLeftColor;
+                        const lightColor = hexToRgba(hexColor, 0.15);
+                        skillSpan.style.borderColor = lightColor;
+                        skillSpan.style.borderLeftColor = originalLeftColor;
                     });
                 });
             }

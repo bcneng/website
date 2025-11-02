@@ -33,6 +33,17 @@
 	font-size: 1.05em;
 }
 
+.info-box p:first-child {
+	font-family: "Teko", sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 0.02em;
+	font-size: 1.3em;
+	font-weight: 600;
+	padding-bottom: 0.5em;
+	margin-bottom: 1em !important;
+	border-bottom: 2px solid #f0f0f0;
+}
+
 .info-box p:last-child {
 	margin-bottom: 0;
 }
@@ -117,18 +128,19 @@
 
 .card__skills {
 	margin: 1em 0;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.35em;
 }
 
 .skill {
-	font-size: 0.8em;
-	border: 1px solid #ddd;
-	border-left: 3px solid #4a90e2;
+	font-size: 0.7em;
+	border: 2px solid #e8e8e8;
+	border-left: 4px solid #4a90e2;
 	border-radius: 5px;
-	padding: 0.2em 0.4em 0.2em 0.5em;
-	margin-right: 0.3em;
-	margin-bottom: 0.3em;
-	transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+	padding: 0.3em 0.6em 0.3em 0.7em;
 	cursor: pointer;
+	background-color: transparent;
 	outline: none;
 	display: inline-block;
 	max-width: 200px;
@@ -138,10 +150,6 @@
 	vertical-align: middle;
 }
 
-.skill:hover {
-	border-color: transparent;
-	transform: translateY(-1px);
-}
 
 .skill:focus {
 	outline: none;
@@ -198,13 +206,12 @@
 
 .skill-tag {
 	font-size: 0.7em;
-	border: 1px solid #c3c3c3;
-	border-left: 3px solid #4a90e2;
+	border: 2px solid #e8e8e8;
+	border-left: 4px solid #4a90e2;
 	border-radius: 5px;
 	padding: 0.3em 0.6em 0.3em 0.7em;
 	cursor: pointer;
-	transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-	background-color: white;
+	background-color: transparent;
 	outline: none;
 }
 
@@ -212,12 +219,4 @@
 	outline: none;
 }
 
-.skill-tag:hover {
-	border-color: transparent;
-	transform: translateY(-2px) scale(1.05);
-}
-
-.skill-tag.active {
-	border-color: transparent;
-}
 
