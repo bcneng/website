@@ -13,17 +13,29 @@ html {
 .homepage h1,
 .homepage h2,
 .homepage h3 {
-  margin-bottom: 0.75rem;
+  margin-bottom: 1.5rem;
 }
 .homepage h3 {
-  margin-top: 2.5rem;
+  margin-top: 1.75rem;
 }
 .link-list {
-  margin-top: -1rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
 }
 p,
 li {
   line-height: 1.7em;
+}
+
+object {
+  display: block;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.project-logos,
+.sponsor-logos {
+  margin-bottom: 1.5rem;
 }
 
 @media (min-width: 992px) {
@@ -32,14 +44,19 @@ li {
     background-color: #333;
     color: white;
     padding: 0.2em 0.4em 0 0.3em;
-    margin-bottom: 0.5em;
+    margin-bottom: 1.5rem;
   }
 
   .homepage-image {
     position: relative;
     float: right;
-    right: 0;
-    width: 400px;
+    right: auto;
+    top: 0;
+    width: 320px;
+    margin-left: 2rem;
+    margin-top: 0;
+    padding-bottom: 17px;
+    margin-bottom: 17px;
   }
   .homepage-image img {
     -webkit-box-reflect: below -39px linear-gradient(transparent, transparent, rgba(0, 0, 0, 0.1));
@@ -146,16 +163,23 @@ li {
 }
 
 .sponsor-logo-image {
-  width: 200px;
-  margin: 0 75px 25px 0;
+  width: 180px;
+  margin: 0 40px 20px 0;
 }
 
 @media (max-width: 575px) {
   .sponsor-logos {
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .sponsor-logos a {
+	margin-bottom: 20px;
+  }
+  .sponsor-logos a:last-child {
+	margin-bottom: 0;
   }
   .sponsor-logo-image {
-	margin: 0 0 25px 0;
+	margin: 0;
   }
 }
 
@@ -172,15 +196,22 @@ li {
 
 .project-logo-image {
   width: 200px;
-  margin: 0 75px 25px 0;
+  margin: 0 75px 20px 0;
 }
 
 @media (max-width: 575px) {
   .project-logos {
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .project-logos a {
+	margin-bottom: 20px;
+  }
+  .project-logos a:last-child {
+	margin-bottom: 0;
   }
   .project-logo-image {
-	margin: 0 0 25px 0;
+	margin: 0;
   }
 }
 
