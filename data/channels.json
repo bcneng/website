@@ -15,9 +15,9 @@
   "tags": ["default", "anonymous-enabled"]
 },
 {
-  "name": "ask-staff",
+  "name": "ask-admins",
   "id": "C2YUDTUDD",
-  "description": "Share your concerns and suggestions, ask the staff team and suggest changes to the community, channels or whatever topic you wish.",
+  "description": "Share your concerns and suggestions, ask the adnins team and suggest changes to the community, channels or whatever topic you wish.",
   "notes": "For suggestions and discussions around job specs published at #hiring-job-board, please use https://github.com/bcneng/candebot/discussions/54",
   "category": "core",
   "tags": ["anonymous-enabled"]
