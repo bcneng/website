@@ -10,10 +10,14 @@ set -euo pipefail
 BEFORE=$(git show HEAD~1:data/channels.json 2>/dev/null || echo '[]')
 AFTER=$(< data/channels.json)
 
-OLD_NAMES=$(echo "${BEFORE}" | jq -r '.[].name' | sort)
-NEW_NAMES=$(echo "${AFTER}" | jq -r '.[].name' | sort)
+OLD_NAMES=$(mktemp)
+NEW_NAMES=$(mktemp)
+trap 'rm -f "${OLD_NAMES}" "${NEW_NAMES}"' EXIT
 
-ADDED=$(comm -13 <(echo "${OLD_NAMES}") <(echo "${NEW_NAMES}"))
+echo "${BEFORE}" | jq -r '.[].name' | sort > "${OLD_NAMES}"
+echo "${AFTER}" | jq -r '.[].name' | sort > "${NEW_NAMES}"
+
+ADDED=$(comm -13 "${OLD_NAMES}" "${NEW_NAMES}")
 
 if [[ -z "${ADDED}" ]]; then
   echo "No new channels detected."
@@ -21,7 +25,7 @@ if [[ -z "${ADDED}" ]]; then
 fi
 
 # Extract PR number from merge commit message (e.g. "Merge pull request #123 ...")
-PR_NUMBER=$(git log -1 --pretty=%s | grep -oP '#\d+' | head -1 | tr -d '#' || true)
+PR_NUMBER=$(git log -1 --pretty=%s | grep -oE '#[0-9]+' | head -1 | tr -d '#' || true)
 if [[ -n "${PR_NUMBER}" ]]; then
   PR_LINK="${GITHUB_SERVER_URL:-https://github.com}/${GITHUB_REPOSITORY}/pull/${PR_NUMBER}"
 else
