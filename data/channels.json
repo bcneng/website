@@ -717,5 +717,13 @@
   "notes": "",
   "category": "non-tech",
   "tags": []
+},
+{
+  "name": "offtopic-smarthome",
+  "id": "TODO",
+  "description": "Conversations about self hosting, smart home appliances, home automations, assistants, etc.",
+  "notes": "",
+  "category": "non-tech",
+  "tags": []
 }
 ]
