@@ -40,19 +40,17 @@ As a people-first slack organization, company accounts are not allowed.
 
 #### Bad practices
 
-Spam is not allowed in any channel. That includes:
+We will consider spam to be:
 
-- Affiliates links
-- Job offers outside #hiring-job-board
-- Posting lots of messages (for our own definition of "lots")
-- Company advertising -- only fully open source initiatives are allowed, we don't want to be a platform for private companies to make money
-- Any service offering, including consultancy and others, except on the #contractors-freelancers channel.
+- Job offers that are not posted on the #hiring-job-board.
+- Posting or advertising affiliate links.
+- Enterprise advertising or for-profit projects. FOSS projects are allowed.
+- Any service offering, including consultancy and other services, except on the #contractors-freelancers channel.
 
-The administrators reserve the rights to:
-- Remove abusive and/or spam comments
-- Remove link previews for readability's sake
+The administrators reserve the right to:
 
-The publisher will be contacted in any case.
+- Remove abusive and/or spam comments.
+- Remove link previews for better readability.
 
 #### Hiring inquiries and other service offerings
 
