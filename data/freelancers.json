@@ -373,6 +373,17 @@
       "availability_hours_week": {"min": 1, "max": 30},
       "pricing_model": "Hourly | Daily | Milestones | Fixed Price"
    },
+    {
+       "slack_name": "@luisyopr",
+       "slack_member_id": "U0BH4G1KBS5",
+       "full_name": "Luis Joann Alvarado",
+       "web": "https://luisjoann.com",
+       "linkedin_handler": "luisalvarado5",
+       "services": "Technology Consulting, Learning and Development, Change Management",
+       "skills": ["Change Management", "Project Management", "Adobe Captivate", "Articulate Storyline", "SQL", "Tableau", "Qlikview"],
+       "availability_hours_week": {"min": 1, "max": 40},
+       "pricing_model": "Starting at 50€/h"
+    },
    {
       "slack_name": "@adriantunez",
       "slack_member_id": "U082Y5XRCBG",
