@@ -49,8 +49,15 @@ We will consider spam to be:
 
 The administrators reserve the right to:
 
-- Remove abusive and/or spam comments.
+- Remove any content that, in their judgment, goes against the [Code of Conduct](/coc/) or these guidelines. This is a judgment call about impact on the community, not an accusation of bad intent by the author.
 - Remove link previews for better readability.
+
+#### Moderation
+
+- When content is removed, an administrator will tell the author privately which rule motivated it.
+- If you disagree with a moderation decision, raise it in `#ask-staff` or by DM to an admin. Don't relitigate it in the affected channel.
+- Humor at the expense of a group of people may be removed even if members of that group don't find it offensive. The bar is whether it keeps the community welcoming for everyone, not whether a particular person minds.
+- Repeated removals of a member's content will escalate through the Code of Conduct's [Enforcement Guidelines](/coc/#enforcement-guidelines), up to a ban.
 
 #### Hiring inquiries and other service offerings
 
